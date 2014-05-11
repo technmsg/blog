@@ -1,0 +1,12 @@
+# page/index configuration
+
+# theme to use
+THEME=none
+
+# base dir to use for relative links; if none, comment out
+BASE_DIR="v2"
+
+# how many items per index?
+LIMIT=10
+
+# EOF
