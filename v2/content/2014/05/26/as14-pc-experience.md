@@ -27,7 +27,7 @@ In our case there were two organizers that we worked with, one each from [ClearE
 
 The **program committee** works to develop the content of the conference, namely parsing through all the submitted presentations or talks and figuring out which ones will be accepted and which ones will be declined.
 
-The program committee was composed of seven individuals. Similar to the makeup of an Apache Software Foundation (ASF) incubator team, the committee was composed of a heterogenous mix of individuals from a variety of backgrounds and employers. No employer had more than one representative. Four of the seven were committers, each an OG, and the remaining three were listed contributors to Accumulo.
+The [Accumulo Summit Program Committee](http://accumulosummit.com/program/committee/) was composed of seven individuals. Similar to the makeup of an Apache Software Foundation (ASF) incubator team, the committee was composed of a heterogenous mix of individuals from a variety of backgrounds and employers. No employer had more than one representative. Four of the seven were committers, each an OG, and the remaining three were listed contributors to Accumulo.
 
 ## Wearing the Right Hat
 
@@ -61,7 +61,7 @@ After all the evaluations were completed, the scores would be averaged and we'd 
 
 ### The Spreadsheet
 
-The spreadsheet included a hanful of columns for each talk:
+The spreadsheet included a handful of columns for each talk:
 
 * Talk #
 * Overall score
@@ -108,7 +108,7 @@ I'm not sure whether it's common for organizers to be involved in the talk selec
 
 While I like the *idea* of having the opportunity to discuss the results, I'm not sure what it bought us. Perhaps fitting, some of the same headaches that stem from the consensus-driven code release process began to manifest during the selection process and following discussions.
 
-The email discussion occurred over a period of a couple weeks, talking no more than an hour or two.
+The email discussion occurred over a period of a couple weeks, taking no more than an hour or two.
 
 ## Speaking Up
 
