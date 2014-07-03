@@ -2,7 +2,7 @@
 <!-- categories: essays -->
 <!-- tags: accumulo,conferences -->
 <!-- published: 2014-05-26T12:38:00-05:00 -->
-<!-- updated: 2014-05-26T12:58:00-05:00 -->
+<!-- updated: 2014-06-11T14:08:00-05:00 -->
 <!-- summary: My experience on the 2014 Accumulo Summit Program Committee. -->
 
 # Experiences of a Program Committee Member
