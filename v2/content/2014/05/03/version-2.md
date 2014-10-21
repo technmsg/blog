@@ -3,6 +3,7 @@
 <!-- tags: blogs -->
 <!-- published: 2014-05-02T12:00:00-05:00 -->
 <!-- updated: 2014-05-14T11:45:00-05:00 -->
+<!-- summary: The second coming of my blog. Technically the third, but that's another discussion about semantics. -->
 
 # Version 2
 

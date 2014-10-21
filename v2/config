@@ -9,4 +9,10 @@ BASE_DIR="v2"
 # how many items per index?
 LIMIT=10
 
+# Twitter handle, for cards
+HANDLE="@technmsg"
+
+# fully qualified base host, e.g. http://something.com
+FQ_BASE="http://moundalexis.com"
+
 # EOF
