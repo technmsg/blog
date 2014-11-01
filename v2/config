@@ -15,4 +15,7 @@ HANDLE="@technmsg"
 # fully qualified base host, e.g. http://something.com
 FQ_BASE="http://moundalexis.com"
 
+# github base
+GIT_BASE="https://github.com/technmsg/blog/blob/master/v2/"
+
 # EOF
