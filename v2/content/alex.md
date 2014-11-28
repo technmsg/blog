@@ -9,4 +9,4 @@
 
 I'm Alex.
 
-I'm pretty easy to find on the Internet, but I'm most active on [Twitter](https://twitter.com/technmsg) and [Flickr](http://flickr.com/photos/techmsg/). Every once in a walk I give a [public talk](/v2/talks.html).
+I'm pretty easy to find on the Internet, but I'm most active on [Twitter](https://twitter.com/technmsg) and [Flickr](http://flickr.com/photos/techmsg/). Every once in a while I give a [public talk](/v2/talks.html).
