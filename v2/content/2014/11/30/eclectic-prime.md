@@ -1,8 +1,8 @@
 <!-- title: Eclectic Films -->
 <!-- categories: lists -->
 <!-- tags: film,amazon,prime -->
-<!-- published: 2014-11-30T07:00:00-05:00 -->
-<!-- updated: 2014-11-30T07:00:00-05:00 -->
+<!-- published: 2014-11-29T14:43:18-05:00 -->
+<!-- updated: 2014-11-29T14:43:18-05:00 -->
 <!-- summary: A short list of eclectic films discovered via Amazon Prime Instant Video. -->
 
 # Eclectic Films

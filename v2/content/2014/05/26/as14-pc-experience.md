@@ -2,7 +2,7 @@
 <!-- categories: essays -->
 <!-- tags: accumulo,conferences -->
 <!-- published: 2014-05-26T12:38:00-05:00 -->
-<!-- updated: 2014-06-11T14:08:00-05:00 -->
+<!-- updated: 2014-11-29T16:31:00-05:00 -->
 <!-- summary: My experience on the 2014 Accumulo Summit Program Committee. -->
 
 # Experiences of a Program Committee Member
@@ -27,7 +27,7 @@ In our case there were two organizers that we worked with, one each from [ClearE
 
 The **program committee** works to develop the content of the conference, namely parsing through all the submitted presentations or talks and figuring out which ones will be accepted and which ones will be declined.
 
-The [Accumulo Summit Program Committee](http://accumulosummit.com/program/committee/) was composed of seven individuals. Similar to the makeup of an Apache Software Foundation (ASF) incubator team, the committee was composed of a heterogenous mix of individuals from a variety of backgrounds and employers. No employer had more than one representative. Four of the seven were committers, each an OG, and the remaining three were listed contributors to Accumulo.
+The [Accumulo Summit Program Committee](http://accumulosummit.com/program/committee/) was composed of seven individuals. Similar to the makeup of an Apache Software Foundation (ASF) incubator team, the committee was composed of a heterogeneous mix of individuals from a variety of backgrounds and employers. No employer had more than one representative. Four of the seven were committers, each an OG, and the remaining three were listed contributors to Accumulo.
 
 ## Wearing the Right Hat
 
@@ -41,7 +41,7 @@ Early on, I recommended to the organizer that we evaluate the abstracts in a bli
 
 That's what we did, for the most part.
 
-I would have liked to have done a double blind CFP -- similar to the method [B-Sides DC used](http://www.bsidesdc.org/Security_B-Sides_DC/Blog/Entries/2013/8/11_How_We_Did_a_Double-blind_CFP.html) -- where we evaluate both the abstracts and speakers indepedently, but we ran short on time.
+I would have liked to have done a double blind CFP -- similar to the method [B-Sides DC used](http://www.bsidesdc.org/Security_B-Sides_DC/Blog/Entries/2013/8/11_How_We_Did_a_Double-blind_CFP.html) -- where we evaluate both the abstracts and speakers independently, but we ran short on time.
 
 ### Remaining Impartial
 

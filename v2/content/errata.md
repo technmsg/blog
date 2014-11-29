@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2014-11-10T13:31:00-05:00 -->
+<!-- updated: 2014-11-29T16:31:00-05:00 -->
 <!-- summary: Site policies concerning affiliations, privacy policy, etc. -->
 
 # Errata #
@@ -43,7 +43,7 @@ I will not be liable for indirect, special, or consequential damages arising in 
 
 ## Disclaimers ##
 
-I make no express or implied warranties of representations with respect to moundalexis.com or any products sold or linked through moundalexis.com (including, without limitation, warranties of fitness, merchantability, noninfringement, or any implied warranties arising out of a course of performance, dealing, or trade usage). In addition, I make no representation that the operation of the site will be uninterrupted or error-free, and I will not be liable for the consequences of any interruptions or errors.
+I make no express or implied warranties of representations with respect to moundalexis.com or any products sold or linked through moundalexis.com (including, without limitation, warranties of fitness, merchantability, non-infringement, or any implied warranties arising out of a course of performance, dealing, or trade usage). In addition, I make no representation that the operation of the site will be uninterrupted or error-free, and I will not be liable for the consequences of any interruptions or errors.
 
 ## Contact ##
 

@@ -2,7 +2,7 @@
 <!-- categories: essays -->
 <!-- tags: impostor syndrome,cloudera -->
 <!-- published: 2014-11-05T13:31:00-05:00 -->
-<!-- updated: 2014-11-05T13:31:00-05:00 -->
+<!-- updated: 2014-11-29T16:31:00-05:00 -->
 <!-- summary: By all accounts, things ought to be lovely. But after more than two years as a consultant in the niche but oft-glamorized 'big data' software market, I still have days where I feel like I don't know what I'm doing. I feel like a fraud. -->
 
 # Things Ought to Be Lovely
@@ -41,7 +41,7 @@ I take some comfort knowing that those who I view as possessing superior knowled
 
 It feels like a roller coaster.
 
-Elaine Marino and Jessica Goulding gave a stellar talk entitled [From Madison Avenue to git Checkout](http://www.oscon.com/oscon2014/public/schedule/detail/34860) at OSCON 2014 that chronicled their journey into software development. It really hit home. You don't need to be a software developer for the notion of impostor syndrone to resonate. Changing careers is scary.
+Elaine Marino and Jessica Goulding gave a stellar talk entitled [From Madison Avenue to git Checkout](http://www.oscon.com/oscon2014/public/schedule/detail/34860) at OSCON 2014 that chronicled their journey into software development. It really hit home. You don't need to be a software developer for the notion of impostor syndrome to resonate. Changing careers is scary.
 
 There's been a lot of press lately on [impostor syndrome](http://www.forbes.com/sites/margiewarrell/2014/04/03/impostor-syndrome/), especially within the open source community. When reading about the experiences of other men and women, a lot of it feels familiar. Most of the recommendations for combating impostor syndrome focus on accepting that it's a thing, that these feelings are common amongst high-achievers, and to try to externalize our contributions (because we apparently suck at realizing the scope and magnitude of our accomplishments).
 

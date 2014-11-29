@@ -2,14 +2,14 @@
 <!-- categories: essays -->
 <!-- tags: cc,licensing -->
 <!-- published: 2014-05-10T12:00:00-05:00 -->
-<!-- updated: 2014-05-12T11:52:00-05:00 -->
+<!-- updated: 2014-11-29T16:31:00-05:00 -->
 <!-- summary: Why I chose to license my content under a Creative Commons License. -->
 
 # Towards Creative Commons
 
 Since starting at Cloudera I've been doing more public speaking than ever before, presenting to both my colleagues and at meetups and technical conferences around the country. In preparing my talks and slide decks, I've noticed it's *hard* to find good imagery for use in presentations. Now I could just swipe content from the Internet, which is what many presenters seem to do, but I want to be legit.
 
-I discovered [Wikimedia Commons](http://commons.wikimedia.org/) pretty early on, and I can usually find one or two suitable images in the public domain (usually created by government employees), but often I get stuck behind the share-alike or commerical-use clauses of the various [Creative Commons licenses](http://creativecommons.org/licenses/). In most cases my usage isn't for-profit, but I still don't feel like I'm on solid ground, especially if I'm not in a position to be able to share the work.
+I discovered [Wikimedia Commons](http://commons.wikimedia.org/) pretty early on, and I can usually find one or two suitable images in the public domain (usually created by government employees), but often I get stuck behind the share-alike or commercial-use clauses of the various [Creative Commons licenses](http://creativecommons.org/licenses/). In most cases my usage isn't for-profit, but I still don't feel like I'm on solid ground, especially if I'm not in a position to be able to share the work.
 
 There are a variety of imagery sites that offer up royalty-free public domain images, but I can't always find what I need. In some cases I end up taking a photo myself, since I know what it is I'm looking for, but this isn't always an option.
 

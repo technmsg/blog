@@ -1,5 +1,7 @@
 .db
 build*
 examples
+pre-build
 scratch
+scripts
 tools

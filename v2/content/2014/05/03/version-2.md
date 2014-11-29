@@ -2,7 +2,7 @@
 <!-- categories: essay -->
 <!-- tags: blogs -->
 <!-- published: 2014-05-02T12:00:00-05:00 -->
-<!-- updated: 2014-05-14T11:45:00-05:00 -->
+<!-- updated: 2014-11-29T16:31:00-05:00 -->
 <!-- summary: The second coming of my blog. Technically the third, but that's another discussion about semantics. -->
 
 # Version 2
@@ -26,14 +26,14 @@ I've been wanting to re-work my blog for some time now, for a variety of reasons
 
 * attractive site design: to be handled by drop-in CSS later
 * comments: because they suck
-* search: can add google site search later
+* search: can add Google site search later
 * tags: perhaps auto-generated later, but not now
-* RSS: perhaps auto-generated later ([bash](http://ocsovszki-dorian.blogspot.com/2011/01/generating-rss-feed-width-bash-script.html), perl modules, etc), in the meantime there are plenty of site-to-RSS services out there, RIP Google Reader, etc. For now just track categories and published/updated dates.
+* RSS: perhaps auto-generated later ([bash](http://ocsovszki-dorian.blogspot.com/2011/01/generating-rss-feed-width-bash-script.html), Perl modules, etc), in the meantime there are plenty of site-to-RSS services out there, RIP Google Reader, etc. For now just track categories and published/updated dates.
 
 
 ## Decision
 
-After fiddling with a lot of different engines, attempting to import the WordPress entries from XML, I just gave up. [Pelican](http://blog.getpelican.com/) came close, except that the templating was monstrous.
+After fiddling with a lot of different engines, attempting to import the WordPress entries from XML, I just gave up. [Pelican](http://blog.getpelican.com/) came close, except that the template system was monstrous.
 
 I decided I was being stupid.
 

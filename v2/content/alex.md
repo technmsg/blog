@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: alex,twitter,flickr,talks -->
 <!-- published: 2014-11-10T12:31:00-05:00 -->
-<!-- updated: 2014-11-10T12:31:00-05:00 -->
+<!-- updated: 2014-11-29T14:23:36-05:00 -->
 <!-- summary: I'm Alex. -->
 
 <img src="images/profile_greatfalls_326.jpg" height="326" width="326">
