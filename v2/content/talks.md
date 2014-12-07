@@ -9,6 +9,9 @@
 
 A relatively complete list of my speaking engagements, mostly talks but a few discussions too. If you'd like me to speak at your event, feel free to reach out.
 
+[Improving Hadoop Cluster Performance via Linux Configuration](http://www.slideshare.net/technmsg/improving-hadoop-cluster-performance-via-linux-configuration)  
+<small>2014-12-05</small> [DevIgnition 2014: Elephant Talk](http://www.devignition.com/), Dulles VA
+
 [YARN](http://www.slideshare.net/technmsg/yarn-39538139)  
 <small>2014-09-24</small> [National Security Agency](https://www.nsa.gov/), Fort Meade MD
 
