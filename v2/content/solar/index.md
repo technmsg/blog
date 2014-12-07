@@ -1,9 +1,9 @@
 <!-- title: Going Solar -->
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
-<!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2014-11-10T13:31:00-05:00 -->
-<!-- summary: Going solar. -->
+<!-- published: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- summary: A multi-part essay about my experience buying and installing solar panels on my roof. -->
 
 # Going Solar
 
@@ -23,13 +23,13 @@ On with the story...
 
 ## The Story
 
-* [Many Options](/v2/solar/solar-options.html)
-* [Picking a Vendor](/v2/solar/solar-vendors.html)
-* [Paperwork](/v2/solar/solar-paperwork.html)
-* [The System](/v2/solar/solar-system.html)
-* [Installation Day](/v2/solar/solar-installation.html)
-* [Activation](/v2/solar/solar-activation.htm)
-* [The Bottom Line](/v2/solar/solar-ongoing.html) (Ongoing)
+1. [Many Options](/v2/solar/solar-options.html)
+2. [Picking a Vendor](/v2/solar/solar-vendors.html)
+3. [Paperwork](/v2/solar/solar-paperwork.html)
+4. [The System](/v2/solar/solar-system.html)
+5. [Installation Day](/v2/solar/solar-installation.html)
+6. [Activation](/v2/solar/solar-activation.html)
+7. [The Bottom Line](/v2/solar/solar-ongoing.html) (Ongoing)
 
 There's also a list of [frequently asked questions](/v2/solar/solar-faq.html).
 

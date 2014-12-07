@@ -1,9 +1,9 @@
-<!-- title: Going Solar: Paperwork -->
+<!-- title: The Paperwork of Solar -->
 <!-- categories: howto,essay -->
-<!-- tags: solar -->
-<!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2014-11-10T13:31:00-05:00 -->
-<!-- summary: Going solar. -->
+<!-- tags: solar,paperwork,contracts -->
+<!-- published: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- summary: Part of the Going Solar series. All the paperwork and contracts for my solar install. -->
 
 # Going Solar: Paperwork
 
@@ -12,6 +12,8 @@ This is part of an [ongoing essay](/v2/solar/) detailing my experiences with sol
 ## Paperwork
 
 While there *was* paperwork involved with getting solar panels installed, it wasn't too bad; far less that buying a car. And far easier to read, too.
+
+Unless you're actively considering solar, this will probably be rather boring.
 
 ### Contract
 

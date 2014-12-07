@@ -1,9 +1,9 @@
-<!-- title: Going Solar: Picking a Vendor -->
+<!-- title: Picking a Solar Vendor -->
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
-<!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2014-11-10T13:31:00-05:00 -->
-<!-- summary: Going solar. -->
+<!-- published: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- summary: Part of the Going Solar series. There are many solar vendors to choose from. This is how I picked mine. -->
 
 # Going Solar: Picking a Vendor
 

@@ -1,9 +1,9 @@
-<!-- title: Going Solar: Installation Day -->
+<!-- title: Solar Installation Day -->
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
-<!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2014-11-10T13:31:00-05:00 -->
-<!-- summary: Going solar. -->
+<!-- published: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- summary: Part of the Going Solar series. What to expect on installation day, including pictures and video. -->
 
 # Going Solar: Installation Day
 

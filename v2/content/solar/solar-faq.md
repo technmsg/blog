@@ -1,9 +1,9 @@
-<!-- title: Going Solar: Frequently Asked Questions -->
+<!-- title: My Solar Install FAQ -->
 <!-- categories: howto,essay -->
 <!-- tags: solar,faq -->
-<!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2014-11-10T13:31:00-05:00 -->
-<!-- summary: Going solar. -->
+<!-- published: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- summary: Part of the Going Solar series, answering questions that I get asked about my install. -->
 
 # Going Solar: Frequently Asked Questions
 

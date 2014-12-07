@@ -1,9 +1,9 @@
-<!-- title: Going Solar: Many Options -->
+<!-- title: Solar Options -->
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
-<!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2014-11-10T13:31:00-05:00 -->
-<!-- summary: Going solar. -->
+<!-- published: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- summary: Part of the Going Solar series. A quick overview of the various options when investigating solar power. -->
 
 # Going Solar: Many Options
 
