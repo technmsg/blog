@@ -21,7 +21,7 @@ I reached out to several vendors.
 
 I started by contacting [Solar City](http://www.solarcity.com), the vendor used by a friend of mine. Though based in California, they've installed all over the United States. They've also installed in my neighborhood. 
 
-Given my street address and approximate electric usage, my sales guy Joe was able to outline a system to be installed on my roof, providing general estimates of system output. It looked pretty good. The next step would be scheduling a site assessment, requiring a signed contract.
+Given my street address and approximate electric usage, my sales guy Joe was able to outline a system to be installed on my roof, providing general estimates of system output. It looked pretty good, but their price was pretty steep. The next step would be scheduling a site assessment, requiring a signed contract.
 
 Their contract was 23 pages, delivered by [DocuSign](https://www.docusign.com/). There was a lot of boilerplate and protections for Solar City, probably stemming from doing business across the country. I'm usually a big fan of DocuSign, except that it doesn't offer you any means to make and initial modifications. There were some good provisions that I liked, some of which I swiped for use elsewhere.
 
@@ -31,7 +31,7 @@ Their contract was 23 pages, delivered by [DocuSign](https://www.docusign.com/).
 
 > The first step is evaluating your energy usage. Can you email or fax a copy of your most recent energy bill?
 
-Not having easy access to scanner or fax machine, I asked what specifics they were looking for; someone named Seth replied:
+Not having easy access to a scanner or fax machine, I asked what specifics they were looking for; someone named Seth replied:
 
 > If you know your average monthly or annual electric usage in kWh that and/or the average dollar amount that will help us in deterring if solar is a good fit for you. 
 
@@ -47,6 +47,8 @@ Perhaps that's too small a system for Kenergy to be profitable, but a response w
 
 [Green Street Solar](http://www.greenstreetsolar.com/) is based in Maryland. I [signed up for a free consultation](http://www.greenstreetsolar.com/free-estimate.htm) with some very basic lead information (name, address, phone, and email), received a confirmation email, then never heard back.
 
+I started to wonder how many of these vendors were fly-by-night or whether business was *so* good that they could afford to blow off non-preferred prospects.
+
 ### Vivint Solar
 
 [Vivint Solar](http://www.vivintsolar.com/) is a regional vendor who have installed in my neighborhood, but focus more on leased systems. By this time I was leaning towards a purchased system, so I didn't pursue.
@@ -55,6 +57,8 @@ Perhaps that's too small a system for Kenergy to be profitable, but a response w
 
 [Solar Energy World](http://www.solarenergyworld.com) is based in Elkridge, Maryland. Besides supporting local businesses, there's some comfort in knowing that I can drive over and talk to someone if I have a problem, and that warranty support isn't too far away (and isn't going to be subcontracted). They use solar power themselves atop their office and warehouse.
 
-They also offer periodic open houses where you can tour the facility and see the panels up close. I went to one of these open houses and signed up after the tour to schedule a consultation.
+They also offer periodic [solar workshops](http://www.solarenergyworld.com/for-home/attend-our-solar-workshop/) where you can tour the facility and see the panels up close. I went to one of these events and signed up after the tour to schedule a consultation.
+
+After a fair bit of research, this is the vendor I chose.
 
 Next: [Paperwork](/v2/solar/solar-paperwork.html)
