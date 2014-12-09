@@ -23,7 +23,7 @@ I will use your IP address to help diagnose problems with the server, and to adm
 
 I will not rent or sell your name, address, email address, or other personal information to any third party without your permission. However, I must give full cooperation in any situation where I am required by law or legal process to provide such information.
 
-I run [Google An­a­lyt­ics](http://www.google.com/analytics/) to acquire broad demographic data about visitors, including geographic and user-agent information. Google stores this data in accordance with [their privacy policy](http://www.google.com/policies/privacy/).
+I use [Google An­a­lyt­ics](http://www.google.com/analytics/) to acquire broad demographic data about visitors, including geographic and user-agent information. Google stores this data in accordance with [their privacy policy](http://www.google.com/policies/privacy/). I also use [Google AdSense](http://www.google.com/adsense/) to provide site-wide search and contextual advertising; the same privacy policy applies.
 
 ## Correct/Update ##
 
