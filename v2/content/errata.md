@@ -11,6 +11,8 @@ Some notes about my affiliations, site privacy policy, legal mumbo jumbo, etc.
 
 ## Affiliations ##
 
+I am currently employed by [Cloudera](http://www.cloudera.com), although the opinions expressed on this site are my own.
+
 I'm a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 In others words, if I link to a product on Amazon the link in­cludes an Associate ID code, so if you fol­low it and buy the product -- or any­thing else, from a [Canon 70D](http://www.amazon.com/gp/product/B00DMS0GTC/?tag=v2mdc-20) to [cat litter](http://www.amazon.com/gp/product/B004ANC83U/?tag=v2mdc-20) to [books on Hadoop Security](http://www.amazon.com/gp/product/1491900989/?tag=v2mdc-20) -- I might make a few bucks. Thankfully, I don't have any means to know who purchased what.
