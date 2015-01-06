@@ -20,6 +20,8 @@ The system, in a nutshell:
 * sixteen (16) 245W SunPower [SPR-245NE-WHT-U-240](http://us.sunpower.com/sites/sunpower/files/media-library/spec-sheets/sp-e-series-residential-solar-panels-supplementary-technical-spec.pdf) (PDF) panels
 * a SunPower [SPR-3801f-240](http://us.sunpower.com/sites/sunpower/files/media-library/manuals/mn-spr-3301f-1-spr-3801f-1-spr-6501f-1-spr-7501f-1-spr-10001f-1-spr-11401f-1-spr-11401f-3-spr-12001f.pdf) (PDF) inverter
 
+The system is designed to produce 114,400 kWh over its 25-year service lifetime.
+
 ### Costs
 
 All in, the system cost was **$16,964**. That includes panels, inverter, materials, permits, labor, monitoring, service, etc.

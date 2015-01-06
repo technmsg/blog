@@ -35,7 +35,7 @@ There's also a list of [frequently asked questions](/v2/solar/solar-faq.html).
 
 ## Parting Thoughts
 
-From signing the contract it took XXX days before I could throw the breaker and start generating electricity.
+From signing the contract it took 90 days before I could throw the breaker and start generating electricity.
 
 One of the things I liked is that the process was very hands-off. Aside from signing the contract, writing a few checks, and sending an email here and there, [Solar Energy World](http://www.solarenergyworld.com/) took care of everything else: filing for permits, interconnect application, SREC registration, etc. If you're in the market, give SEW a look, and let 'em know I referred you.
 

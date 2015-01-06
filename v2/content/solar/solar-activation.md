@@ -19,11 +19,15 @@ Once the net meter is installed and I get the OK from BGE, I get to flip [the sw
 
 ## Activation Day
 
-Pending.
+BGE came to install the net meter on January 5th, 2015. After jotting down the current reading on the (old) meter, the technician popped the old metter off and popped the new meter into place. Electricity to the house was out for about five seconds during the exchange, and afterward the net meter read 00000 kWh.
+
+The system was first energized on January 6th, 2015.
 
 ## After Activation
 
-After activation, [Solar Energy World](www.solarenergyworld.com) pre-registers me for SREC payment processing with [SolSystems](http://www.solsystemscompany.com/). After I make my final payment, they will apply for my Maryland grant and send me the warranty booklet.
+Just before activation, [Solar Energy World](www.solarenergyworld.com) pre-registered me for SREC payment processing with [Sol Systems](http://www.solsystemscompany.com/). Sol Systems required copies of the Interconnect agreement as well as a short contract to trade SRECs on my behalf; all easily handled.
+
+After I made my final payment, Solar Energy World applied for my Maryland grant. They also will send me a warranty booklet.
 
 Next: [The Bottom Line](/v2/solar/solar-ongoing.html)
 

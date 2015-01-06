@@ -34,3 +34,7 @@ The pitch and elevation of my roof are both considerable (and a bit scary). Comb
 **Q: What about upkeep?**
 
 None so far.
+
+**Q: What direction do the panels face?**
+
+The roof (and panels) face southwest, give or take a few degrees.
