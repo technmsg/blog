@@ -2,12 +2,12 @@
 <!-- categories: essays -->
 <!-- tags: impostor syndrome,cloudera -->
 <!-- published: 2014-11-05T13:31:00-05:00 -->
-<!-- updated: 2014-11-29T16:31:00-05:00 -->
+<!-- updated: 2015-01-17T12:04:00-05:00 -->
 <!-- summary: By all accounts, things ought to be lovely. But after more than two years as a consultant in the niche but oft-glamorized 'big data' software market, I still have days where I feel like I don't know what I'm doing. I feel like a fraud. -->
 
 # Things Ought to Be Lovely
 
-I was offered a position at [Cloudera](http://www.cloudera.com/) because of my past work history, my understanding and ability to work within the government sector, and my ability to get stuff done. I was (and still am) a generalist and my knowledge of [Apache Hadoop](hadoop.apache.org) was minimal, but we thought that my years of experience in the world of infrastructure and operations would prove useful to customers. [It still does](http://moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/index.html), I think.
+I was offered a position at [Cloudera](http://www.cloudera.com/) because of my past work history, my understanding and ability to work within the government sector, and my ability to get stuff done. I was (and still am) a generalist and my knowledge of [Apache Hadoop](http://hadoop.apache.org) was minimal, but we thought that my years of experience in the world of infrastructure and operations would prove useful to customers. [It still does](http://moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/index.html), I think.
 
 I live comfortably, have my health, enjoy flexibility in my work schedule and locale, am granted the autonomy to run customer engagements how I see fit, and have wonderful coworkers that feel like family despite our geographic separation.
 
