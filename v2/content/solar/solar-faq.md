@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar,faq -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2015-01-24T10:45:00-05:00 -->
 <!-- summary: Part of the Going Solar series, answering questions that I get asked about my install. -->
 
 # Going Solar: Frequently Asked Questions
@@ -38,3 +38,21 @@ None so far.
 **Q: What direction do the panels face?**
 
 The roof (and panels) face southwest, give or take a few degrees.
+
+**Q: What happens when it rains?**
+
+As [SEIA points out](http://www.seia.org/about/solar-energy/solar-faq/what-happens-solar-panels-when-it%E2%80%99s-cloudy-or-raining) in their article:
+
+> Photovoltaic panels can use direct or indirect sunlight to generate power, though they are most effective in direct sunlight. Solar panels will still work even when the light is reflected or partially blocked by clouds. Rain actually helps to keep your panels operating efficiently by washing away any dust or dirt
+
+I can confirm that production [slows on a rainy day](https://www.flickr.com/photos/techmsg/16266401982), but doesn't usually cease unless it's *severely* overcast.
+
+**Q: What happens when it snows?**
+
+If we receive a light dusting of snow, solar production doesn't seem to be affected too much. Both flurries and mild accumulation seem to melt quickly; the overcast conditions seem to have a bigger impact than the precipitation.
+
+Production definitely ceases when the panels are thoroughly covered in snow. After a few inches accumulation [it takes a bit longer for the snow to melt](https://www.flickr.com/photos/techmsg/16064044529/), particularly if the temperature stays below freezing. After heavier storms the snow doesn't melt at all, rather the weight of the snow reaches critical mass and slides off the panels.
+
+I don't make any efforts to remove snow from the panels.
+
+Research has indicated that [light reflected off snow-covered ground can actually boost production](http://www.accuweather.com/en/weather-news/are-solar-panels-usable-in-sno/21894748), although I haven't seen this yet.
