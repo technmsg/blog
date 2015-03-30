@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-01-27T23:55:00-05:00 -->
+<!-- updated: 2015-03-30T15:55:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The solar PV system isn't complete until it's activated. -->
 
 # Going Solar: Activation
@@ -27,7 +27,7 @@ The system was first energized on January 6th, 2015.
 
 Just before activation, [Solar Energy World](http://www.solarenergyworld.com) pre-registered me for SREC payment processing with [Sol Systems](http://www.solsystemscompany.com/). Sol Systems required copies of the Interconnect agreement as well as a short contract to trade SRECs on my behalf; all easily handled.
 
-After I made my final payment, Solar Energy World applied for my Maryland grant. They also will send me a warranty booklet.
+After I made my final payment, Solar Energy World applied for my Maryland grant. They also sent me a warranty booklet.
 
 Next: [The Bottom Line](/v2/solar/solar-ongoing.html)
 

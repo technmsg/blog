@@ -40,3 +40,5 @@ From signing the contract it took 90 days before I could throw the breaker and s
 One of the things I liked is that the process was very hands-off. Aside from signing the contract, writing a few checks, and sending an email here and there, [Solar Energy World](http://www.solarenergyworld.com/) took care of everything else: filing for permits, interconnect application, SREC registration, etc. If you're in the market, give SEW a look, and let 'em know I referred you.
 
 Given the expected reduction in my utility bills and all the incentives, the expected break-even point is 6-7 years, after which point I have a fixed effective price per kWh for the bulk of my electric needs. Like any investment, there's the possibility it might not pan out, but I'm hoping. We'll see.
+
+Next: [Many Options](/v2/solar/solar-options.html)

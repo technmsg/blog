@@ -26,7 +26,7 @@ The system is designed to produce 114,400 kWh over its 25-year service lifetime.
 
 All in, the system cost was **$16,964**. That includes panels, inverter, materials, permits, labor, monitoring, service, etc.
 
-To date, I've received $500 back from several sources:
+To date, I've received $5,089 back from several sources:
 
 * $500 "thank you" gift card from SEW
 * $5,089 Residential Renewable Energy Tax Credit (30% of 16,964)
@@ -52,7 +52,7 @@ In the first billing month, the system generated a mere 10% of my electrical nee
 
 In the second month, the system generated 45% and then in the third month produced 79% of my needs. As the days grow longer and grey skies begin to clear, production will continue to increase.
 
-I experienced an odd hardware failure after a particularly cold and nasty ice storm, where the inverter wouldn't sync for a few days. Solar Energy World came out to troubleshoot, got in touch with SunPower, and replaced the inverter a few days later. Sometimes motherboards go bad.
+I experienced [an odd hardware failure](/v2/solar/inverter-replacement.html) after a particularly cold and nasty ice storm, where the inverter wouldn't sync for a few days. Solar Energy World came out to troubleshoot, got in touch with SunPower, and replaced the inverter a few days later. Sometimes motherboards go bad or get confused, I guess.
 
 <!--
 
