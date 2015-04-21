@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-03-27T20:07:00-05:00 -->
+<!-- updated: 2015-04-21T11:50:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -24,15 +24,15 @@ The system is designed to produce 114,400 kWh over its 25-year service lifetime.
 
 ### Costs
 
-All in, the system cost was **$16,964**. That includes panels, inverter, materials, permits, labor, monitoring, service, etc.
+All in, the system cost was **$16,965**. That includes panels, inverter, materials, permits, labor, monitoring, service, postage for grant applications, etc.
 
-To date, I've received $5,089 back from several sources:
+To date, I've received $5,694 back from several sources:
 
-* $500 "thank you" gift card from SEW
 * $5,089 Residential Renewable Energy Tax Credit (30% of 16,964)
+* $500 "thank you" gift card from SEW
+* $105 in utility bill reductions (from energy I generated rather than bought)
 
-
-That makes my out-of-pocket cost **$11,375**.
+That makes my out-of-pocket cost **$11,271**.
 
 I'm still expecting the following credits:
 
@@ -44,7 +44,7 @@ So the out-of-pocket cost *should* be $5,335.
 
 ### Energy
 
-Since installation and activation (about 3 months ago), my solar PV system has generated about 700 kWh.
+Since installation and activation (about 3 months ago), my solar PV system has generated about 980 kWh.
 
 #### After Three Months
 
@@ -52,7 +52,7 @@ In the first billing month, the system generated a mere 10% of my electrical nee
 
 In the second month, the system generated 45% and then in the third month produced 79% of my needs. As the days grow longer and grey skies begin to clear, production will continue to increase.
 
-I experienced [an odd hardware failure](/v2/solar/inverter-replacement.html) after a particularly cold and nasty ice storm, where the inverter wouldn't sync for a few days. Solar Energy World came out to troubleshoot, got in touch with SunPower, and replaced the inverter a few days later. Sometimes motherboards go bad or get confused, I guess.
+In the third month, the system generated 143% resulting in a zeroed bill and nice credit from my utility company. BGE does a true-up at the end of April, so I should expect a check for the accrued generation.
 
 <!--
 
@@ -65,3 +65,9 @@ Pending
 Pending
 
 -->
+
+### Problems
+
+I experienced [an odd hardware failure](/v2/solar/inverter-replacement.html) after a particularly cold and nasty ice storm, where the inverter wouldn't sync for a few days. Solar Energy World came out to troubleshoot, got in touch with SunPower, and replaced the inverter a few days later. Sometimes motherboards go bad or get confused, I guess.
+
+I've seen the monitoring adapter stop reporting to SunPower. While it doesn't affect generation, the monitoring pages/apps are blank until I reboot the adapter (by unplugging it and plugging it back in again). The inverter appears to retain data from the previous day and the monitoring pages get filled in with the "missing" data. It's only happened once.
