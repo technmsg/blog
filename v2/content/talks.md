@@ -2,12 +2,15 @@
 <!-- categories: pages -->
 <!-- tags: talks,speaking,presentations -->
 <!-- published: 2014-07-03T10:26:00-05:00 -->
-<!-- updated: 2014-11-10T12:03:00-05:00 -->
+<!-- updated: 2015-04-24T12:23:00-05:00 -->
 <!-- summary: A relatively complete list of my speaking engagements, both talks and panel discussions. -->
 
 # Talks
 
 A relatively complete list of my speaking engagements, mostly talks but a few discussions too. If you'd like me to speak at your event, feel free to reach out.
+
+Mic 101: Lightning Talk ([video](https://www.youtube.com/watch?v=fQAAzpk4oQ4&feature=youtu.be&t=30m15s))  
+<small>2015-04-15</small> [ApacheCon](http://events.linuxfoundation.org/events/apachecon-north-america), Austin TX
 
 [Improving Hadoop Cluster Performance via Linux Configuration](http://www.slideshare.net/technmsg/improving-hadoop-cluster-performance-via-linux-configuration)  
 <small>2014-12-05</small> [DevIgnition 2014: Elephant Talk](http://www.devignition.com/), Dulles VA
