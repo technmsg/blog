@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-04-21T11:50:00-05:00 -->
+<!-- updated: 2015-05-01T14:39:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -26,13 +26,14 @@ The system is designed to produce 114,400 kWh over its 25-year service lifetime.
 
 All in, the system cost was **$16,965**. That includes panels, inverter, materials, permits, labor, monitoring, service, postage for grant applications, etc.
 
-To date, I've received $5,694 back from several sources:
+To date, I've received $5,704 back from several sources:
 
 * $5,089 Residential Renewable Energy Tax Credit (30% of 16,964)
 * $500 "thank you" gift card from SEW
 * $105 in utility bill reductions (from energy I generated rather than bought)
+* $10 in utility generation credits
 
-That makes my out-of-pocket cost **$11,271**.
+That makes my out-of-pocket cost **$11,261**.
 
 I'm still expecting the following credits:
 
