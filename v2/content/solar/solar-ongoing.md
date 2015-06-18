@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-05-01T14:39:00-05:00 -->
+<!-- updated: 2015-06-18T13:17:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -29,15 +29,15 @@ All in, the system cost was **$16,965**. That includes panels, inverter, materia
 To date, I've received $5,704 back from several sources:
 
 * $5,089 Residential Renewable Energy Tax Credit (30% of 16,964)
+* $1,000 Residential Clean Energy Grant Program (one time)
 * $500 "thank you" gift card from SEW
-* $105 in utility bill reductions (from energy I generated rather than bought)
+* $196 in utility bill reductions (from energy I generated rather than bought)
 * $10 in utility generation credits
 
-That makes my out-of-pocket cost **$11,261**.
+That makes my out-of-pocket cost **$10,170**.
 
 I'm still expecting the following credits:
 
-* $1,000 Residential Clean Energy Grant Program (fixed)
 * $2,500 Solar Equipment Property Tax Credit (fixed)
 * $3,040 in [SREC](http://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp))
 
@@ -53,13 +53,15 @@ In the first billing month, the system generated a mere 10% of my electrical nee
 
 In the second month, the system generated 45% and then in the third month produced 79% of my needs. As the days grow longer and grey skies begin to clear, production will continue to increase.
 
-In the third month, the system generated 143% resulting in a zeroed bill and nice credit from my utility company. BGE does a true-up at the end of April, so I should expect a check for the accrued generation.
-
-<!--
+In the third month, the system generated 143% resulting in a zeroed bill and nice credit from my utility company. BGE does a true-up at the end of April, and I received a check for the accrued generation.
 
 #### After Six Months
 
-Pending
+After six months the system continues to generate a steady stream of electricity, usually more than I need on a daily basis. I expect the accrued credit balance with the utility should help even out the high-usage over the summer and the upcoming slowing production of fall and winter.
+
+Since installation, the system has generated more than 86% of my electrical needs.
+
+<!--
 
 #### After One Year
 
