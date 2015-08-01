@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar,paperwork,contracts -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2014-12-20T15:52:00-05:00 -->
+<!-- updated: 2015-08-01T15:52:00-05:00 -->
 <!-- summary: Part of the Going Solar series. All the paperwork and contracts for my solar install. -->
 
 # Going Solar: Paperwork
@@ -67,7 +67,7 @@ While the system would work and provide electricity to the home without the net 
 
 ### HOA
 
-In Maryland, an HOA can't prevent a homeowner from installing solar panels on their property (it's a legally protected thing thanks to [solar access laws](http://dsireusa.org/incentives/incentive.cfm?Incentive_Code=MD01R&re=0&ee=0)) but they can (and mine will) fine you for not following the bylaws of the association (i.e. not filling out an application).
+In Maryland, an HOA can't prevent a homeowner from installing solar panels on their property (it's a legally protected thing thanks to [solar easements and rights laws](http://programs.dsireusa.org/system/program/detail/3)) but they can (and mine will) fine you for not following the bylaws of the association (i.e. not filling out an application).
 
 I filled out a Modification Application for my homeowner's association, got the signatures of two neighbors (who seemed more interested than perturbed), and sent it to SEW for completion.
 

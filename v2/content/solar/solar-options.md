@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2015-08-01T14:52:00-05:00 -->
 <!-- summary: Part of the Going Solar series. A quick overview of the various options when investigating solar power. -->
 
 # Going Solar: Many Options
@@ -35,9 +35,9 @@ The incentives surrounding solar energy are vast and vary from state to state (a
 
 * Federal - [Residential Renewable Energy Tax Credit](http://www.seia.org/policy/finance-tax/solar-investment-tax-credit)
 * Maryland - [Clean Energy Production Tax Credit (Personal)](http://energy.maryland.gov/Business/CleanEnergyTaxCredit.html)
-* Maryland - [Residential Clean Energy Grant Program](http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MD14F&State=federal&currentpageid=1&ee=0&re=0)
+* Maryland - [Residential Clean Energy Grant Program](http://energy.maryland.gov/Residential/cleanenergygrants/index.html)
 * Maryland - [Solar Renewable Energy Certificates (SRECs)](http://markets.flettexchange.com/maryland-srec/)
-* Anne Arundel County - [Solar Equipment Property Tax Credit](http://www.dsireusa.org/incentives/incentive.cfm?Incentive_Code=MD26F&State=federal&currentpageid=1&ee=0&re=0)
+* Anne Arundel County - [Solar Equipment Property Tax Credit](http://programs.dsireusa.org/system/program/detail/2908)
 
 In addition, I'm eligible to receive and sell a [solar renewable energy credit](http://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) (SREC) for every 1000 kilowatt-hours energy that I produce.
 
