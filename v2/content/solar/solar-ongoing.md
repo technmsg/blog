@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-06-18T13:17:00-05:00 -->
+<!-- updated: 2015-08-03T14:19:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -26,26 +26,29 @@ The system is designed to produce 114,400 kWh over its 25-year service lifetime.
 
 All in, the system cost was **$16,965**. That includes panels, inverter, materials, permits, labor, monitoring, service, postage for grant applications, etc.
 
-To date, I've received $5,704 back from several sources:
+To date, I've received $8,140 back from numerous sources:
 
-* $5,089 Residential Renewable Energy Tax Credit (30% of 16,964)
+* $5,089 Residential Renewable Energy Tax Credit (30% of system cost)
+* $1,283 Solar Equipment Property Tax Credit (one time)
 * $1,000 Residential Clean Energy Grant Program (one time)
 * $500 "thank you" gift card from SEW
-* $196 in utility bill reductions (from energy I generated rather than bought)
+* $258 in utility bill reductions (from energy I generated rather than bought)
 * $10 in utility generation credits
 
-That makes my out-of-pocket cost **$10,170**.
+That makes my out-of-pocket cost **$8,826**.
 
 I'm still expecting the following credits:
 
-* $2,500 Solar Equipment Property Tax Credit (fixed)
 * $3,040 in [SREC](http://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp))
+* ongoing utility bill reductions
 
-So the out-of-pocket cost *should* be $5,335.
+At install time, my out-of-pocket cost was estimated to be $5,335.
+
+After receiving a smaller property tax credit than expected, my out-of-pocket cost was recalculated to be $6,552. In practice, income from SREC sales varies depending on market conditions, and the ongoing utility bill reductions continue to chip away at that outlay.
 
 ### Energy
 
-Since installation and activation (about 3 months ago), my solar PV system has generated about 980 kWh.
+Since installation and activation (about 7 months ago), my solar PV system has generated about 2,566 kWh.
 
 #### After Three Months
 
