@@ -9,6 +9,6 @@
 
 In addition to any (future) [GitHub contributors](https://github.com/technmsg/blog/graphs/contributors), many individuals have offered their commentary, corrections, and constructive critism. I am indebted to all.
 
-Emily V B, @[jfield](https://twitter.com/jfield), Joe Witt, [Joey Echeverria](https://twitter.com/fwiffo), Josh Elser, Josh Wills, Juliet Hougland, Kevin O'Dell, Marty Day
+Emily V B, @[jfield](https://twitter.com/jfield), Joe Witt, [Joey Echeverria](https://twitter.com/fwiffo), Josh Elser, Josh Wills, Juliet Hougland, Kevin O'Dell, Marty Day, [Peter](https://twitter.com/xoder)
 
 And also to those who preferred anonymity, thank you. You know who you are.
