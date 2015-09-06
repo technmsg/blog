@@ -18,4 +18,8 @@ FQ_BASE="http://moundalexis.com"
 # github base
 GIT_BASE="https://github.com/technmsg/blog/blob/master/v2/"
 
+# rss things
+BLOG_TITLE="v2"
+BLOG_AUTHOR="Alex Moundalexis"
+
 # EOF
