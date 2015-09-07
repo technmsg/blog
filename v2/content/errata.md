@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2014-11-29T16:31:00-05:00 -->
+<!-- updated: 2015-09-07T09:45:00-05:00 -->
 <!-- summary: Site policies concerning affiliations, privacy policy, etc. -->
 
 # Errata #
@@ -13,9 +13,9 @@ Some notes about my affiliations, site privacy policy, legal mumbo jumbo, etc.
 
 I am currently employed by [Cloudera](http://www.cloudera.com), although the opinions expressed on this site are my own.
 
-I'm a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+I'm a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://www.amazon.com?tag=v2mdc-20).
 
-In others words, if I link to a product on Amazon the link in­cludes an Associate ID code, so if you fol­low it and buy the product -- or any­thing else, from a [Canon 70D](http://www.amazon.com/gp/product/B00DMS0GTC/?tag=v2mdc-20) to [cat litter](http://www.amazon.com/gp/product/B004ANC83U/?tag=v2mdc-20) to [books on Hadoop Security](http://www.amazon.com/gp/product/1491900989/?tag=v2mdc-20) -- I might make a few bucks. Thankfully, I don't have any means to know who purchased what.
+In others words, if I link to a product on [Amazon](http://www.amazon.com?tag=v2mdc-20) the link in­cludes an Associate ID code, so if you fol­low it and buy the product -- or any­thing else, from a [Canon 70D](http://www.amazon.com/gp/product/B00DMS0GTC/?tag=v2mdc-20) to [cat litter](http://www.amazon.com/gp/product/B004ANC83U/?tag=v2mdc-20) to [books on Hadoop Security](http://www.amazon.com/gp/product/1491900989/?tag=v2mdc-20) -- I might make a few bucks. Thankfully, I don't have any means to know who purchased what.
 
 ## Privacy ##
 
@@ -27,13 +27,16 @@ I will not rent or sell your name, address, email address, or other personal inf
 
 I use [Google An­a­lyt­ics](http://www.google.com/analytics/) to acquire broad demographic data about visitors, including geographic and user-agent information. Google stores this data in accordance with [their privacy policy](http://www.google.com/policies/privacy/). I also use [Google AdSense](http://www.google.com/adsense/) to provide site-wide search and contextual advertising; the same privacy policy applies.
 
+I reserve the right to republish or share the contents of any correspondence.
+
 ## Correct/Update ##
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-1. Email
+1. [Send an email](mailto:contact@moundalexis.com)
 2. [File an issue](https://github.com/technmsg/blog/issues/new)
 3. [Create a pull request](https://github.com/technmsg/blog/compare)
+4. [Tweet to the author](https://twitter.com/intent/tweet?text=@technmsg%20%3CYour%20feedback%20here%3E)
 
 ## Modification ##
 
