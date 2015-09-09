@@ -2,7 +2,7 @@
 <!-- categories: essay -->
 <!-- tags: blog,meta -->
 <!-- published: 2015-09-10T10:30:00-05:00 -->
-<!-- updated: 2015-09-10T10:30:00-05:00 -->
+<!-- updated: 2015-09-09T10:30:00-05:00 -->
 <!-- summary: Peer review makes us better writers. Accordingly, this bit about peer review has been peer reviewed. -->
 
 # Peer Review for Bloggers
