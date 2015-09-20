@@ -52,4 +52,4 @@ The downsides: to be determined, I'm sure.
 ## Inspiration
 
 * Tim Bray's [copyright](http://www.tbray.org/ongoing/misc/Copyright) page, to preserve copyright but also to license under Creative Commons, something that I've been wanting to migrate towards for a while.
-* Dave Gamache's work on [Skeleton](http://www.getskeleton.com/), which (I hope) is a drop-in CSS styling thingy that will JustWork&trade; for me in the near future.
+* Dave Gamache's work on [Skeleton](http://getskeleton.com/), which (I hope) is a drop-in CSS styling thingy that will JustWork&trade; for me in the near future.

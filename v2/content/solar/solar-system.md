@@ -11,7 +11,7 @@ This is part of an [ongoing essay](/v2/solar/) detailing my experiences with sol
 
 ## The System
 
-The solar panel system is composed of solar panels, a mounting system, an inverter, a production meter, and a bunch of circuit breakers.
+The solar photovoltaic system is composed of solar panels, a mounting system, an inverter, a production meter, and a bunch of circuit breakers.
 
 The solar panels convert the sun's energy into DC electricity, which the inverter then converts into AC; the electricity flows through a [production meter](https://www.flickr.com/photos/techmsg/15933619976/in/set-72157649099138418) (which only tracks electricity produced by the panels) and is then backfed through my electrical panel.
 
@@ -33,7 +33,7 @@ Each of the panels is warranted (both by SEW and the manufacturer) for 25 years.
 
 ### Mounting Rail
 
-Six [Unirac rails](http://unirac.com/residential/residential-products/solar-mount-residential) are mounted vertically to the roof face, bolted to the top chord of the roof trusses using 3" x 5/16 stainless steel lag bolts. Each column of solar panels is attached to two rails.
+Six [Unirac rails](http://unirac.com/solarmount/) are mounted vertically to the roof face, bolted to the top chord of the roof trusses using 3" x 5/16 stainless steel lag bolts. Each column of solar panels is attached to two rails.
 
 ### Inverter
 

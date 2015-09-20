@@ -27,7 +27,7 @@ I carry enough coverage on my homeowner's insurance policy to cover the replacem
 
 **Q: Do you have to clean the panels?**
 
-In theory, yes, since dirty panels can decrease the efficiency of the PV cells. In practice, most people don't, particularly when the panels are accessible without a ladder and safety harness. Rain is a natural cleaning agent. I intent to let it work for me.
+In theory, yes, since dirty panels can decrease the efficiency of the PV cells. In practice, most people don't, particularly when the panels are accessible without a ladder and safety harness. Rain is a natural cleaning agent. I intend to let it work for me.
 
 The pitch and elevation of my roof are both considerable (and a bit scary). Combined with the dark color of the panels, the system should be somewhat resistant to snowfall. There have been some stories about owners climbing onto their roofs to clean their panels after a snowstorm, but that won't be me. My health is far more important than saving a few bucks.
 

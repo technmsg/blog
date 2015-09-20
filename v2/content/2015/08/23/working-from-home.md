@@ -59,7 +59,7 @@ That’s my routine. It works for me.
 
 ## The Physical Office
 
-This is important. Just like keeping [the bedroom as place for proper sleep](http://sleepfoundation.org/ask-the-expert/sleep-hygiene), the home office is a place for work; a separate room that's dedicated to the purpose, nothing else. Short of hosting [coworking events where I might utilize the living room](https://www.flickr.com/photos/techmsg/11425249824/), I don't work anywhere else in the house; along similar lines, I don't have work email notifications enabled on my phone.
+This is important. Just like keeping [the bedroom as place for proper sleep](https://sleepfoundation.org/ask-the-expert/sleep-hygiene), the home office is a place for work; a separate room that's dedicated to the purpose, nothing else. Short of hosting [coworking events where I might utilize the living room](https://www.flickr.com/photos/techmsg/11425249824/), I don't work anywhere else in the house; along similar lines, I don't have work email notifications enabled on my phone.
 
 That one room in my house is [my office](/v2/2015/08/23/my-home-office.html). Treat it as such.
 

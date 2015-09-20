@@ -39,7 +39,7 @@ The incentives surrounding solar energy are vast and vary from state to state (a
 * Maryland - [Solar Renewable Energy Certificates (SRECs)](http://markets.flettexchange.com/maryland-srec/)
 * Anne Arundel County - [Solar Equipment Property Tax Credit](http://programs.dsireusa.org/system/program/detail/2908)
 
-In addition, I'm eligible to receive and sell a [solar renewable energy credit](http://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) (SREC) for every 1000 kilowatt-hours energy that I produce.
+In addition, I'm eligible to receive and sell a [solar renewable energy credit](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) (SREC) for every 1000 kilowatt-hours energy that I produce.
 
 Note that incentive programs are always changing, so I recommend you check out the [Database of State Incentives for Renewables & Efficiency](http://www.dsireusa.org) (DSIRE) for the specific incentives applicable to your area.
 

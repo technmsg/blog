@@ -32,7 +32,7 @@ Did I mention that [it's incredibly small](https://www.flickr.com/photos/techmsg
 
 <a href="https://www.flickr.com/photos/techmsg/16279746717/" title="Raspberry Pi B+ by techmsg, on Flickr"><img src="https://farm8.staticflickr.com/7293/16279746717_355a373726_z.jpg" width="640" height="360" alt="Raspberry Pi B+"></a>
 
-I decided to run [RasPBX](http://www.raspberry-asterisk.org/about/), a version of [FreePBX](http://www.freepbx.org/) (built on [Asterisk](http://www.asterisk.org/)) specifically designed to run on Raspberry Pi. Isn't open source amazing?
+I decided to run [RasPBX](http://www.raspberry-asterisk.org/about/), a version of [FreePBX](https://www.freepbx.org/) (built on [Asterisk](http://www.asterisk.org/)) specifically designed to run on Raspberry Pi. Isn't open source amazing?
 
 I followed [the instructions](http://www.raspberry-asterisk.org/documentation/) to [flash the SD card](http://elinux.org/RPi_Easy_SD_Card_Setup#Flashing_the_SD_card_using_Mac_OS_X) with the [RasPBX image](http://www.raspberry-asterisk.org/downloads/
 ) (which takes several minutes), inserted the card, applied power, and the thing booted right up. I did the post-install via SSH, without a monitor; the plan is to run the Pi headless, so I figured I should start out that way.

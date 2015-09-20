@@ -55,7 +55,7 @@ Microphone internals can be sensitive to impact, so resist the urge to tap the h
 
 ## Tuck in Mic Cables
 
-If you've been set up with a [lavalier](http://en.wikipedia.org/wiki/Lavalier_microphone) or headset microphone, there will be a small cable that runs from the business end to the transmitter "body pack." Before going onstage, thread those cables [under your clothes so that they aren't visible](https://www.flickr.com/photos/techmsg/10072164323/). Loose or [hanging cables](https://www.flickr.com/photos/techmsg/15624171444/) present a safety hazard, get caught on things, etc. When presenting, the best mic cables are [the ones you don't see](https://www.flickr.com/photos/techmsg/16062332867/). 
+If you've been set up with a [lavalier](https://en.wikipedia.org/wiki/Lavalier_microphone) or headset microphone, there will be a small cable that runs from the business end to the transmitter "body pack." Before going onstage, thread those cables [under your clothes so that they aren't visible](https://www.flickr.com/photos/techmsg/10072164323/). Loose or [hanging cables](https://www.flickr.com/photos/techmsg/15624171444/) present a safety hazard, get caught on things, etc. When presenting, the best mic cables are [the ones you don't see](https://www.flickr.com/photos/techmsg/16062332867/). 
 
 Once the cables are tucked out of sight, stash the pack in your back pocket or clip it to your belt near the small of your back. For those wearing dresses, gown, or other clothing without pockets or belts, the sound technician will have recommendations and/or accessories for use with your ensemble.
 

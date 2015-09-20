@@ -51,7 +51,7 @@ The data from the inspection was used to design and draw up engineering schemati
 
 Five (5) days after the site inspection, the system design was emailed to me.
 
-The system design consists of a CAD drawing and a [PV Design Report](http://www.solmetric.com/pvdesigner.html), which outline how much energy will be captured by the panels in their configuration (as affected by position of the sun, panel type, shade points, time of year, etc). Over the course of its 25-year service life, the system is estimated to produce 4,348-4,804 kWh per year (or 362-400 kWh per month), representing 75-80% of my usage.
+The system design consists of a CAD drawing and a PV Design Report, which outline how much energy will be captured by the panels in their configuration (as affected by position of the sun, panel type, shade points, time of year, etc). Over the course of its 25-year service life, the system is estimated to produce 4,348-4,804 kWh per year (or 362-400 kWh per month), representing 75-80% of my usage.
 
 A simple "I agree" reply via email constituted my approval.
 

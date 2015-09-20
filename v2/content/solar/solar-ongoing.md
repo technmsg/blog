@@ -39,7 +39,7 @@ That makes my out-of-pocket cost **$8,826**.
 
 I'm still expecting the following credits:
 
-* $3,040 in [SREC](http://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp))
+* $3,040 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp))
 * ongoing utility bill reductions
 
 At install time, my out-of-pocket cost was estimated to be $5,335.

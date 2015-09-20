@@ -25,7 +25,7 @@ The system was first energized on January 6th, 2015.
 
 ## After Activation
 
-Just before activation, [Solar Energy World](http://www.solarenergyworld.com) pre-registered me for SREC payment processing with [Sol Systems](http://www.solsystemscompany.com/). Sol Systems required copies of the Interconnect agreement as well as a short contract to trade SRECs on my behalf; all easily handled.
+Just before activation, [Solar Energy World](http://www.solarenergyworld.com) pre-registered me for SREC payment processing with [Sol Systems](http://www.solsystems.com/). Sol Systems required copies of the Interconnect agreement as well as a short contract to trade SRECs on my behalf; all easily handled.
 
 After I made my final payment, Solar Energy World applied for my Maryland grant. They also sent me a warranty booklet.
 
