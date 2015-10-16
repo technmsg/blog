@@ -2,7 +2,7 @@
 <!-- categories: howto -->
 <!-- tags: talks,speaking,presentations -->
 <!-- published: 2015-10-09T21:19:00-05:00 -->
-<!-- updated: 2015-10-15T11:45:00-05:00 -->
+<!-- updated: 2015-10-16T15:15:00-05:00 -->
 <!-- summary: Teleconferencing is hard. If you haven't experienced some of these things, join more calls. -->
 
 # How to Be Awesome at WebEx
@@ -29,6 +29,10 @@ The fact that most hosts will wait for late-comers further reinforces two points
 * that it's okay to waste the time of the punctual
 
 I start my meetings on time. If you're not there, too bad. If you're late to your own meeting without forewarning, I leave.
+
+## Join the WebEx
+
+If you're hosting a WebEx for remote employees, make sure you actual join.
 
 ## Use the WebEx Web App
 
