@@ -32,7 +32,7 @@ I start my meetings on time. If you're not there, too bad. If you're late to you
 
 ## Join the WebEx
 
-If you're hosting a WebEx for remote employees, make sure you actual join.
+If you're hosting a WebEx for remote employees, make sure you actually join.
 
 ## Use the WebEx Web App
 
