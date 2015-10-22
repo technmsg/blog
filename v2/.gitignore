@@ -1,7 +1,10 @@
 .db
 build*
+drafts
 examples
 pre-build
 scratch
 scripts
+themes
+!themes/skeleton
 tools
