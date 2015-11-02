@@ -2,7 +2,7 @@
 <!-- categories: essay -->
 <!-- tags: work,career -->
 <!-- published: 2015-11-02T10:00:00-05:00 -->
-<!-- updated: 2015-11-02T10:00:00-05:00 -->
+<!-- updated: 2015-11-02T15:14:00-05:00 -->
 <!-- summary: A cobbled together stream of anecdotal thoughts about finding balance between life and work. -->
 
 # Finding a Balance
@@ -107,7 +107,7 @@ You have to get over yourself, dismiss your sense of self-importance, and realiz
 
 Here's how I do it.
 
-1. Setting and publishing work hours can help, but are only as effective as you are at observing them. Declining meetings outside your word hours is vital; if you continually accept calendar appointments outside your work hours, why wouldn't your colleagues continue to send them?
+1. Setting and publishing work hours can help, but are only as effective as you are at observing them. Declining meetings outside your work hours is vital; if you continually accept calendar appointments outside your work hours, why wouldn't your colleagues continue to send them?
 
 2. Making colleagues, customers, and business partners aware of your home time zone will cut down on a lot of after-hours requests. Open calendars can be a boon, allowing colleagues to see where you might happen to be on a given day.
 
@@ -121,7 +121,7 @@ Will I ever win one of those "hardest working" awards? Probably not. And that's 
 
 ## It's a bullshit problem
 
-When we talk about work-life balance, especially within an industry that tends to be highly valued and where skilled workers are well compensated as a result, we're already doing alright. It make us feel guilty to complain when we:
+When we talk about work-life balance, especially within an industry that tends to be highly valued and where skilled workers are well compensated as a result, we're already doing alright. It makes us feel guilty to complain when we:
 
 * can pay our rent or mortgage, put food on the table, and afford excellent health care, all with money to spare
 
