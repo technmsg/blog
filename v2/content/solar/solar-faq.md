@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar,faq -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-01-24T10:45:00-05:00 -->
+<!-- updated: 2016-03-24T08:31:00-05:00 -->
 <!-- summary: Part of the Going Solar series, answering questions that I get asked about my install. -->
 
 # Going Solar: Frequently Asked Questions
@@ -27,7 +27,7 @@ I carry enough coverage on my homeowner's insurance policy to cover the replacem
 
 **Q: Do you have to clean the panels?**
 
-In theory, yes, since dirty panels can decrease the efficiency of the PV cells. In practice, most people don't, particularly when the panels are accessible without a ladder and safety harness. Rain is a natural cleaning agent. I intend to let it work for me.
+In theory, yes, since dirty panels can decrease the efficiency of the PV cells. In practice, most people don't, particularly when the panels aren't accessible without a ladder and safety harness. Rain is a natural cleaning agent. I intend to let it work for me.
 
 The pitch and elevation of my roof are both considerable (and a bit scary). Combined with the dark color of the panels, the system should be somewhat resistant to snowfall. There have been some stories about owners climbing onto their roofs to clean their panels after a snowstorm, but that won't be me. My health is far more important than saving a few bucks.
 

@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-08-03T14:19:00-05:00 -->
+<!-- updated: 2016-03-24T08:53:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -26,29 +26,32 @@ The system is designed to produce 114,400 kWh over its 25-year service lifetime.
 
 All in, the system cost was **$16,965**. That includes panels, inverter, materials, permits, labor, monitoring, service, postage for grant applications, etc.
 
-To date, I've received $8,140 back from numerous sources:
+To date, I've received $9,045 back from numerous sources:
 
 * $5,089 Residential Renewable Energy Tax Credit (30% of system cost)
 * $1,283 Solar Equipment Property Tax Credit (one time)
 * $1,000 Residential Clean Energy Grant Program (one time)
+* $614 in SREC proceeds
+* $560 in utility bill reductions (from energy I generated rather than bought)
 * $500 "thank you" gift card from SEW
-* $258 in utility bill reductions (from energy I generated rather than bought)
 * $10 in utility generation credits
 
-That makes my out-of-pocket cost **$8,826**.
+That makes my out-of-pocket cost **$7,920**.
 
 I'm still expecting the following credits:
 
-* $3,040 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp))
+* $2,426 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp))
 * ongoing utility bill reductions
 
 At install time, my out-of-pocket cost was estimated to be $5,335.
 
 After receiving a smaller property tax credit than expected, my out-of-pocket cost was recalculated to be $6,552. In practice, income from SREC sales varies depending on market conditions, and the ongoing utility bill reductions continue to chip away at that outlay.
 
+To date the IRS hasn't allowed for any exceptions to be made for SREC payments. Although I've yet to receive a 1099 from Sol Systems, I still report the payments as income on my tax return (and pay tax on them accordingly).
+
 ### Energy
 
-Since installation and activation (about 7 months ago), my solar PV system has generated about 2,566 kWh.
+Since installation and activation (about 15 months ago), my solar PV system has generated about 5,703 kWh.
 
 #### After Three Months
 
@@ -64,16 +67,16 @@ After six months the system continues to generate a steady stream of electricity
 
 Since installation, the system has generated more than 86% of my electrical needs.
 
-<!--
-
 #### After One Year
 
-Pending
+Electrical production increased considerably throughout the summer, resulting in several negative "credit" bills from BGE. The accrued credit balance was consumed once the air conditioning was turned on, but the longer summer days still ended up producing 71-82% of my need.
 
--->
+Between incentives, reduction of utility payments, and the income from SREC sales, I have have recouped more than 50% of my investment. With no additional large incentives due, the pay-down process will slow considerably. I still expect SREC sales and monthly utility reductions.
 
 ### Problems
 
-I experienced [an odd hardware failure](/v2/solar/inverter-replacement.html) after a particularly cold and nasty ice storm, where the inverter wouldn't sync for a few days. Solar Energy World came out to troubleshoot, got in touch with SunPower, and replaced the inverter a few days later. Sometimes motherboards go bad or get confused, I guess.
+In winter 2015 I experienced [an odd hardware failure](/v2/solar/inverter-replacement.html) after a particularly cold and nasty ice storm, where the inverter wouldn't sync for a few days. Solar Energy World came out to troubleshoot, got in touch with SunPower, and replaced the inverter a few days later. Sometimes motherboards go bad or get confused, I guess.
 
 I've seen the monitoring adapter stop reporting to SunPower. While it doesn't affect generation, the monitoring pages/apps are blank until I reboot the adapter (by unplugging it and plugging it back in again). The inverter appears to retain data from the previous day and the monitoring pages get filled in with the "missing" data. It's only happened once.
+
+In winter of 2016 a blizzard dropped more than 30 inches of snow in an afternoon. While the panels and roof stood up to the additional weight, an [ice dam](http://www.icedamcompany.com/about-ice-dams/) formed on the rear of the house, in part due to the displacement of blown-in insulation during the installation process. As the ice melted it pushed the gutters away from the fascia board; after the ice dam was broken up the gutters and fascia receded, but will still need to be repaired or replaced.
