@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2016-03-24T08:53:00-05:00 -->
+<!-- updated: 2016-04-02T10:11:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -77,6 +77,6 @@ Between incentives, reduction of utility payments, and the income from SREC sale
 
 In winter 2015 I experienced [an odd hardware failure](/v2/solar/inverter-replacement.html) after a particularly cold and nasty ice storm, where the inverter wouldn't sync for a few days. Solar Energy World came out to troubleshoot, got in touch with SunPower, and replaced the inverter a few days later. Sometimes motherboards go bad or get confused, I guess.
 
-I've seen the monitoring adapter stop reporting to SunPower. While it doesn't affect generation, the monitoring pages/apps are blank until I reboot the adapter (by unplugging it and plugging it back in again). The inverter appears to retain data from the previous day and the monitoring pages get filled in with the "missing" data. It's only happened once.
+I've seen the monitoring adapter stop reporting to SunPower. While it doesn't affect generation, the monitoring pages/apps are blank until I reboot the adapter (by unplugging it and plugging it back in again). The inverter appears to retain data from the previous day and the monitoring pages get filled in with the "missing" data. It's only happened twice.
 
 In winter of 2016 a blizzard dropped more than 30 inches of snow in an afternoon. While the panels and roof stood up to the additional weight, an [ice dam](http://www.icedamcompany.com/about-ice-dams/) formed on the rear of the house, in part due to the displacement of blown-in insulation during the installation process. As the ice melted it pushed the gutters away from the fascia board; after the ice dam was broken up the gutters and fascia receded, but will still need to be repaired or replaced.
