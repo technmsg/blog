@@ -7,7 +7,7 @@
 
 # Things Ought to Be Lovely
 
-I was offered a position at [Cloudera](http://www.cloudera.com/) because of my past work history, my understanding and ability to work within the government sector, and my ability to get stuff done. I was (and still am) a generalist and my knowledge of [Apache Hadoop](http://hadoop.apache.org) was minimal, but we thought that my years of experience in the world of infrastructure and operations would prove useful to customers. [It still does](http://moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/index.html), I think.
+I was offered a position at [Cloudera](http://www.cloudera.com/) because of my past work history, my understanding and ability to work within the government sector, and my ability to get stuff done. I was (and still am) a generalist and my knowledge of [Apache Hadoop](http://hadoop.apache.org) was minimal, but we thought that my years of experience in the world of infrastructure and operations would prove useful to customers. [It still does](http://www.moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/index.html), I think.
 
 I live comfortably, have my health, enjoy flexibility in my work schedule and locale, am granted the autonomy to run customer engagements how I see fit, and have wonderful coworkers that feel like family despite our geographic separation.
 

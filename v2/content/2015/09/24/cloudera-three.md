@@ -90,7 +90,7 @@ I've also started mulling over how public a person I'd like to be. There are per
 
 ## Some things aren't so new
 
-I wrote about [my first twelve months at Cloudera](http://moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/) about two years ago, and after re-reading I find that most of my observations are still relevant:
+I wrote about [my first twelve months at Cloudera](http://www.moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/) about two years ago, and after re-reading I find that most of my observations are still relevant:
 
 * I'm still learning, and it's still okay
 * I have the flexibility of [working at home](/v2/2015/08/23/working-from-home.html)
