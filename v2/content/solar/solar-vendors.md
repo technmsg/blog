@@ -2,12 +2,12 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2014-12-07T15:52:00-05:00 -->
+<!-- updated: 2016-04-27T17:09:00-05:00 -->
 <!-- summary: Part of the Going Solar series. There are many solar vendors to choose from. This is how I picked mine. -->
 
 # Going Solar: Picking a Vendor
 
-This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy.
+This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](http://mbsy.co/sunpower/alexsolar).
 
 ## Picking a Vendor
 

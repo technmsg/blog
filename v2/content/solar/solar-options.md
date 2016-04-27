@@ -2,12 +2,12 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-08-01T14:52:00-05:00 -->
+<!-- updated: 2016-04-27T17:09:00-05:00 -->
 <!-- summary: Part of the Going Solar series. A quick overview of the various options when investigating solar power. -->
 
 # Going Solar: Many Options
 
-This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy.
+This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](http://mbsy.co/sunpower/alexsolar).
 
 ## Many Options
 
@@ -34,9 +34,9 @@ The downside is that a lease requires a credit check. You also give up all the r
 The incentives surrounding solar energy are vast and vary from state to state (and county to county, even). After a little bit of research, I figured that I would qualify for the following programs:
 
 * Federal - [Residential Renewable Energy Tax Credit](http://www.seia.org/policy/finance-tax/solar-investment-tax-credit)
-* Maryland - [Clean Energy Production Tax Credit (Personal)](http://energy.maryland.gov/Business/CleanEnergyTaxCredit.html)
-* Maryland - [Residential Clean Energy Grant Program](http://energy.maryland.gov/Residential/cleanenergygrants/index.html)
-* Maryland - [Solar Renewable Energy Certificates (SRECs)](http://markets.flettexchange.com/maryland-srec/)
+* Maryland - [Clean Energy Production Tax Credit (Personal)](http://energy.maryland.gov/business/Pages/incentives/cleanenergytaxcredit.aspx)
+* Maryland - [Residential Clean Energy Grant Program](http://energy.maryland.gov/residential/Pages/incentives/CleanEnergyGrants.aspx)
+* Maryland - [Solar Renewable Energy Certificates (SRECs)](http://www.srectrade.com/srec_markets/maryland)
 * Anne Arundel County - [Solar Equipment Property Tax Credit](http://programs.dsireusa.org/system/program/detail/2908)
 
 In addition, I'm eligible to receive and sell a [solar renewable energy credit](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) (SREC) for every 1000 kilowatt-hours energy that I produce.

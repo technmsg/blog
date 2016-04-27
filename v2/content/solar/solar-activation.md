@@ -2,12 +2,12 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-03-30T15:55:00-05:00 -->
+<!-- updated: 2016-04-27T17:09:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The solar PV system isn't complete until it's activated. -->
 
 # Going Solar: Activation
 
-This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy.
+This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](http://mbsy.co/sunpower/alexsolar).
 
 ## The Waiting Game
 

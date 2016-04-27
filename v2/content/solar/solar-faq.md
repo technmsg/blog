@@ -2,12 +2,12 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar,faq -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2016-03-24T08:31:00-05:00 -->
+<!-- updated: 2016-04-27T17:09:00-05:00 -->
 <!-- summary: Part of the Going Solar series, answering questions that I get asked about my install. -->
 
 # Going Solar: Frequently Asked Questions
 
-This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy.
+This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](http://mbsy.co/sunpower/alexsolar).
 
 Whether solar pays off for me or what its place in the energy market will be in the future, one thing is clear: many people have questions about solar. Throughout my solar journey, I've addressed a variety of questions.
 

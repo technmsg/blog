@@ -2,12 +2,12 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar,paperwork,contracts -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2015-08-01T15:52:00-05:00 -->
+<!-- updated: 2016-04-27T17:09:00-05:00 -->
 <!-- summary: Part of the Going Solar series. All the paperwork and contracts for my solar install. -->
 
 # Going Solar: Paperwork
 
-This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy.
+This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](http://mbsy.co/sunpower/alexsolar).
 
 ## Paperwork
 
