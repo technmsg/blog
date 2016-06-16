@@ -2,17 +2,20 @@
 <!-- categories: pages -->
 <!-- tags: talks,speaking,presentations -->
 <!-- published: 2014-07-03T10:26:00-05:00 -->
-<!-- updated: 2015-04-24T12:23:00-05:00 -->
+<!-- updated: 2016-06-16T09:15:00-05:00 -->
 <!-- summary: A relatively complete list of my speaking engagements, both talks and panel discussions. -->
 
 # Talks
 
 A relatively complete list of my speaking engagements, mostly talks but a few discussions too. If you'd like me to speak at your event, feel free to reach out.
 
+[Powered by the Sun: One Geek's Experience](http://www.slideshare.net/technmsg/powered-by-the-sun-62161877) ([video](https://youtu.be/FCeNer9F2wU))  
+<small>2016-05-18</small> [OSCON](http://conferences.oreilly.com/oscon/open-source-us), Austin TX
+
 Mic 101: Lightning Talk ([video](https://www.youtube.com/watch?v=fQAAzpk4oQ4&feature=youtu.be&t=30m15s))  
 <small>2015-04-15</small> [ApacheCon](http://events.linuxfoundation.org/events/apachecon-north-america), Austin TX
 
-[Improving Hadoop Cluster Performance via Linux Configuration](http://www.slideshare.net/technmsg/improving-hadoop-cluster-performance-via-linux-configuration)  
+[Improving Hadoop Cluster Performance via Linux Configuration](http://www.slideshare.net/technmsg/improving-hadoop-cluster-performance-via-linux-configuration) ([video](https://vimeo.com/134073399))  
 <small>2014-12-05</small> [DevIgnition 2014: Elephant Talk](http://www.devignition.com/), Dulles VA
 
 [YARN](http://www.slideshare.net/technmsg/yarn-39538139)  
