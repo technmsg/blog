@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: contributors -->
 <!-- published: 2015-08-09T19:30:00-05:00 -->
-<!-- updated: 2015-11-02T15:36:00-05:00 -->
+<!-- updated: 2016-07-22T10:30:00-05:00 -->
 <!-- summary: A quick thank-you to those who have contributed to this silly little blog. -->
 
 # Thanks
@@ -22,6 +22,7 @@ Juliet Hougland,
 [Kevin O'Dell](https://twitter.com/kevinrodell),
 Marty Day,
 [Michael Ridley](http://www.michaelridley.info),
+[Michelle Casbon](https://twitter.com/texasmichelle),
 [Nate Burton](https://twitter.com/mathrock),
 [Peter](https://twitter.com/xoder),
 Sean Mackrory
