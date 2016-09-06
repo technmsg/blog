@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2016-04-27T17:09:00-05:00 -->
+<!-- updated: 2016-08-31T11:37:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -26,21 +26,22 @@ The system is designed to produce 114,400 kWh over its 25-year service lifetime.
 
 All in, the system cost was **$16,965**. That includes panels, inverter, materials, permits, labor, monitoring, service, postage for grant applications, etc.
 
-To date, I've received $9,101 back from numerous sources:
+To date, I've received $9,870 back from numerous sources:
 
 * $5,089 Residential Renewable Energy Tax Credit (30% of system cost)
 * $1,283 Solar Equipment Property Tax Credit (one time)
 * $1,000 Residential Clean Energy Grant Program (one time)
-* $614 in SREC proceeds
-* $593 in utility bill reductions (from energy I generated rather than bought)
+* $661 in SREC proceeds
+* $815 in utility bill reductions (from energy I generated rather than bought)
 * $500 "thank you" gift card from SEW
+* $500 in referral fees from SEW
 * $22 in utility generation credits
 
-That makes my out-of-pocket cost **$7,864**.
+That makes my out-of-pocket cost **$7,096**.
 
 I'm still expecting the following credits:
 
-* $2,426 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp))
+* $2,350 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp)), although lately supply in Maryland has greatly exceeded demand, [impacting SREC market prices](http://www.srectrade.com/srec_markets/maryland) in a major way
 * ongoing utility bill reductions
 
 At install time, my out-of-pocket cost after all government incentives was estimated to be $5,335.
@@ -51,7 +52,7 @@ To date the IRS hasn't allowed for any exceptions to be made for SREC payments. 
 
 ### Energy
 
-Since installation and activation (about 16 months ago), my solar PV system has generated about 5,054 kWh.
+Since installation and activation (about 20 months ago), my solar PV system has generated about 6,827 kWh.
 
 #### After Three Months
 
