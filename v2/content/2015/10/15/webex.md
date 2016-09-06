@@ -89,7 +89,7 @@ For large one-way conference calls, where there's only a few speakers and a lot 
 
 Participant > Mute on Entry
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/techmsg/21572595524/in/dateposted/" title="WebEx Participant Menu"><img src="https://farm6.staticflickr.com/5829/21572595524_3b79e2eb0d.jpg" width="373" height="323" alt="WebEx Participant Menu"></a>
+<a href="https://www.flickr.com/photos/techmsg/21572595524/in/dateposted/" title="WebEx Participant Menu"><img src="https://farm6.staticflickr.com/5829/21572595524_3b79e2eb0d.jpg" width="373" height="323" alt="WebEx Participant Menu"></a>
 
 Additionally, dialed-in meeting hosts can:
 
