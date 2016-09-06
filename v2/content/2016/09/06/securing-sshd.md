@@ -1,8 +1,8 @@
 <!-- title: Locking Down an SSH Server -->
 <!-- categories: howto -->
 <!-- tags: ssh,sshd,linux,fail2ban,denyhosts,openssh -->
-<!-- published: 2016-09-06T14:00:00-05:00 -->
-<!-- updated: 2016-09-06T14:00:00-05:00 -->
+<!-- published: 2016-09-06T12:20:00-04:00 -->
+<!-- updated: 2016-09-06T12:20:00-04:00 -->
 <!-- summary: If your host is connected to the Internet, it's likely under attack. Not theoretically... right now. Short of disallowing remote access entirely, it's wise to secure your SSH server. -->
 
 # Locking Down an SSH Server
