@@ -2,7 +2,7 @@
 <!-- categories: howto -->
 <!-- tags: ssh,sshd,linux,fail2ban,denyhosts,openssh -->
 <!-- published: 2016-09-06T12:20:00-04:00 -->
-<!-- updated: 2016-09-06T12:20:00-04:00 -->
+<!-- updated: 2016-09-12T08:20:00-04:00 -->
 <!-- summary: If your host is connected to the Internet, it's likely under attack. Not theoretically... right now. Short of disallowing remote access entirely, it's wise to secure your SSH server. -->
 
 # Locking Down an SSH Server
@@ -268,5 +268,7 @@ pkts bytes target     prot opt in     out     source               destination
 The detection criteria of Fail2ban differs slightly from DenyHosts, but the end result is just as satisfying, forbidding malicious hosts from making connection attempts long before they reach the application.
 
 Stay safe, friends.
+
+*As featured on [cron.weekly](https://www.cronweekly.com/issue-45/).*
 
 <!-- EOF -->
