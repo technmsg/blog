@@ -2,12 +2,12 @@
 <!-- categories: howto -->
 <!-- tags: video,time lapse,youtube,gopro,imovie,zeitraffer -->
 <!-- published: 2014-11-28T09:39:00-05:00 -->
-<!-- updated: 2014-11-28T09:39:00-05:00 -->
+<!-- updated: 2016-11-25T08:45:00-05:00 -->
 <!-- summary: A brief tutorial on creating time-lapse video with a GoPro camera, Zeitraffer, and iMovie. -->
 
 # Creating Time-Lapse Video
 
-I've been shooting and stitching a lot of time-lapse frames together lately, in a variety of environments, a mix of business and pleasure.
+I've been shooting and stitching a lot of time-lapse frames together lately, in a variety of environments, a mix of business and pleasure. A few example videos from my [YouTube playlist](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SLd0P5eUh_WxYY7ndEQMdL) follow.
 
 * [Super Art Fight 100](https://www.youtube.com/watch?v=UCXOkGh14vI)
 * [Leaving Saint Thomas](https://www.youtube.com/watch?v=V2cZ1iXeixE)

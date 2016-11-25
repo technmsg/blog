@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: gadgets,cables,camera,video,photography,power -->
 <!-- published: 2016-11-24T10:45:00-05:00 -->
-<!-- updated: 2016-11-24T10:45:00-05:00 -->
+<!-- updated: 2016-11-25T08:31:00-05:00 -->
 <!-- summary: Six simple, practical, and reasonably priced gadgets that have proven most useful. -->
 
 # Six Gadgets of 2016
@@ -63,7 +63,7 @@ $25 [via Amazon](http://www.amazon.com/dp/B005KP473Q/?tag=v2mdc-20)
 
 Dryer balls, a nice reuseable alternative to dryer sheets for those with perfume allergies.
 
-The claim is that clothes dry faster too, although I haven't experienced that first-hand. I can say that the clothes emerge from the dryer with considerably less static that without.
+The claim is that clothes dry faster too, although I haven't experienced that first-hand. I can say that the clothes emerge from the dryer with considerably less static than without.
 
 Have I mentioned that they're adorable?
 
