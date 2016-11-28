@@ -116,4 +116,3 @@ Be seen.
 
 $49-65 [via Amazon](http://www.amazon.com/dp/B006JH8T3S/?tag=v2mdc-20)
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=93312a02-72ab-4f26-8435-7ccff45cc55f&storeId=tems-20"></script>
