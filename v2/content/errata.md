@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2015-09-07T09:45:00-05:00 -->
+<!-- updated: 2016-11-30T15:40:00-05:00 -->
 <!-- summary: Site policies concerning affiliations, privacy policy, etc. -->
 
 # Errata #
@@ -11,11 +11,13 @@ Some notes about my affiliations, site privacy policy, legal mumbo jumbo, etc.
 
 ## Affiliations ##
 
-I am currently employed by [Cloudera](http://www.cloudera.com), although the opinions expressed on this site are my own.
+I am currently employed by [Cloudera](http://www.cloudera.com) and [Anne Arundel County Public Schools](http://www.aacps.org), although the opinions expressed on this site are my own.
 
 I'm a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://www.amazon.com?tag=v2mdc-20).
 
-In others words, if I link to a product on [Amazon](http://www.amazon.com?tag=v2mdc-20) the link in­cludes an Associate ID code, so if you fol­low it and buy the product -- or any­thing else, from a [Canon 70D](http://www.amazon.com/gp/product/B00DMS0GTC/?tag=v2mdc-20) to [cat litter](http://www.amazon.com/gp/product/B004ANC83U/?tag=v2mdc-20) to [books on Hadoop Security](http://www.amazon.com/gp/product/1491900989/?tag=v2mdc-20) -- I might make a few bucks. Thankfully, I don't have any means to know who purchased what.
+In others words, if I link to a product on [Amazon](http://www.amazon.com?tag=v2mdc-20) the link includes an Associate ID code, so if you follow it and buy the product -- or anything else, from a [Canon 70D](http://www.amazon.com/gp/product/B00DMS0GTC/?tag=v2mdc-20) to [cat litter](http://www.amazon.com/gp/product/B004ANC83U/?tag=v2mdc-20) to [books on Hadoop Security](http://www.amazon.com/gp/product/1491900989/?tag=v2mdc-20) -- I might make a few bucks. Thankfully, I don't have any means to know who purchased what.
+
+I'm a participant in the [SunPower Referral](https://us.sunpower.com/refer-friends-and-family/) and [SolarCity Solar Ambassador](https://mysolarcity.com/Ambassador/register/) programs, which allow me to earn referral fees when you buy/lease a solar PV system from [SunPower](http://mbsy.co/sunpower/alexsolar) or [SolarCity](http://share.solarcity.com/alexm) when you sign up using one of the respective links on the site.
 
 ## Privacy ##
 
@@ -25,7 +27,9 @@ I will use your IP address to help diagnose problems with the server, and to adm
 
 I will not rent or sell your name, address, email address, or other personal information to any third party without your permission. However, I must give full cooperation in any situation where I am required by law or legal process to provide such information.
 
-I use [Google An­a­lyt­ics](http://www.google.com/analytics/) to acquire broad demographic data about visitors, including geographic and user-agent information. Google stores this data in accordance with [their privacy policy](http://www.google.com/policies/privacy/). I also use [Google AdSense](http://www.google.com/adsense/) to provide site-wide search and contextual advertising; the same privacy policy applies.
+I use [Google Analytics](http://www.google.com/analytics/) to acquire broad demographic data about visitors, including geographic and user-agent information. Google stores this data in accordance with [their privacy policy](http://www.google.com/policies/privacy/). I also use [Google AdSense](http://www.google.com/adsense/) to provide site-wide search and contextual advertising; the same privacy policy applies.
+
+I use [Amazon Native Shopping Ads](https://affiliate-program.amazon.com/help/topic/t402) to provide site-wide contextual advertising. For Amazon's privacy policy, refer to [Amazon Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496).
 
 I reserve the right to republish or share the contents of any correspondence.
 

@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2016-04-27T17:09:00-05:00 -->
+<!-- updated: 2016-11-30T15:35:00-05:00 -->
 <!-- summary: Part of the Going Solar series. There are many solar vendors to choose from. This is how I picked mine. -->
 
 # Going Solar: Picking a Vendor
@@ -17,13 +17,13 @@ And just like car dealers, not everyone's experience is going to be the same. It
 
 I reached out to several vendors.
 
-### Solar City
+### SolarCity
 
-I started by contacting [Solar City](http://www.solarcity.com), the vendor used by a friend of mine. Though based in California, they've installed all over the United States. They've also installed in my neighborhood. 
+I started by contacting [SolarCity](http://share.solarcity.com/alexm), the vendor used by a friend of mine. Though based in California, they've installed all over the United States. They've also installed in my neighborhood. 
 
 Given my street address and approximate electric usage, my sales guy Joe was able to outline a system to be installed on my roof, providing general estimates of system output. It looked pretty good, but their price was pretty steep. The next step would be scheduling a site assessment, requiring a signed contract.
 
-Their contract was 23 pages, delivered by [DocuSign](https://www.docusign.com/). There was a lot of boilerplate and protections for Solar City, probably stemming from doing business across the country. I'm usually a big fan of DocuSign, except that it doesn't offer you any means to make and initial modifications. There were some good provisions that I liked, some of which I swiped for use elsewhere.
+Their contract was 23 pages, delivered by [DocuSign](https://www.docusign.com/). There was a lot of boilerplate and protections for SolarCity, probably stemming from doing business across the country. I'm usually a big fan of DocuSign, except that it doesn't offer you any means to make and initial modifications. There were some good provisions that I liked, some of which I swiped for use elsewhere.
 
 ### Kenergy Solar
 

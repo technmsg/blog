@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar,paperwork,contracts -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2016-04-27T17:09:00-05:00 -->
+<!-- updated: 2016-11-30T16:00:00-05:00 -->
 <!-- summary: Part of the Going Solar series. All the paperwork and contracts for my solar install. -->
 
 # Going Solar: Paperwork
@@ -28,14 +28,14 @@ The vendors may have a good idea of how their contracts and installs progress, b
 3. revised cancelation points
 4. removed limitation of permit costs that SEW would bear
 
-Additionally I created an addendum to the terms and conditions to add additional coverage (some of which was inspired by the Solar City contract) and to further define things that I wasn't clear on:
+Additionally I created an addendum to the terms and conditions to add additional coverage (some of which was inspired by the SolarCity contract) and to further define things that I wasn't clear on:
 
 1. defined "substantial completion" to mean the system would be installed, fully operational, and pass satisfactory building and electrical inspections; the thought was that my final payment was due *after* I received approval to flip the switch and I could verify proper operation, although in actuality I'd have to wait a little longer for BGE to provide the net meter
 2. added explicit 5-year roof warranty due to roof penetrations associated with the install; according to my sales rep they've never had a leak, but it made me feel better
 3. shifted bulk of arbitration costs to SEW; seemed more fair that they bear the cost if they insist on arbitration
 4. added additional right to cancel up until the point construction began on the home; I wanted an out just in case my HOA nixed the plan
-5. added explicit 25-year power production guarantee with agreed-upon annual kWh figures and price/kWh reimbursement pricing and schedule, adjusted for expected market increases; this was an idea I got from the Solar City contract, modified slightly
-6. added removal/replacement clause, should I need to move or replace the roof; also inspired by the Solar City contract
+5. added explicit 25-year power production guarantee with agreed-upon annual kWh figures and price/kWh reimbursement pricing and schedule, adjusted for expected market increases; this was an idea I got from the SolarCity contract, modified slightly
+6. added removal/replacement clause, should I need to move or replace the roof; also inspired by the SolarCity contract
 
 My representative Sean was very patient, met with me several times to collaborate, and we quickly came to a suitable agreement to serve both our needs.
 
