@@ -12,3 +12,5 @@
 Gets shit done.
 
 Shows up on time.
+
+Brings people together.
