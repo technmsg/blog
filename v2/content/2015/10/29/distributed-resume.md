@@ -14,3 +14,5 @@ Gets shit done.
 Shows up on time.
 
 Brings people together.
+
+Delegates résumé building.
