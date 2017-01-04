@@ -2,12 +2,15 @@
 <!-- categories: pages -->
 <!-- tags: talks,speaking,presentations -->
 <!-- published: 2014-07-03T10:26:00-05:00 -->
-<!-- updated: 2016-06-16T09:15:00-05:00 -->
+<!-- updated: 2016-12-27T15:30:00-05:00 -->
 <!-- summary: A relatively complete list of my speaking engagements, both talks and panel discussions. -->
 
 # Talks
 
 A relatively complete list of my speaking engagements, mostly talks but a few discussions too. If you'd like me to speak at your event, feel free to reach out.
+
+Innovations from Cloudera and VMware for Virtualizing Hadoop  
+<small>2016-10-18</small> [VMworld 2016 Europe](https://www.vmworld.com/en/europe/index.html), Barcelona, Spain
 
 [Powered by the Sun: One Geek's Experience](http://www.slideshare.net/technmsg/powered-by-the-sun-62161877) ([video](https://youtu.be/FCeNer9F2wU))  
 <small>2016-05-18</small> [OSCON](http://conferences.oreilly.com/oscon/open-source-us), Austin TX

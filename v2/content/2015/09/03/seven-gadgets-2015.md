@@ -19,7 +19,7 @@ All seven of these items have proven useful to me over the year.
 
 ## 1. Monoprice XLR-RCA 16AWG Cables
 
-<a href="http://www.amazon.com/gp/product/B001VLW398/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001VLW398&linkCode=as2&tag=v2mdc-20&linkId=3WPJGE3HJDWF6LRP"><img align="right" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001VLW398&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B001VLW398" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B001VLW398/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001VLW398&linkCode=as2&tag=v2mdc-20&linkId=3WPJGE3HJDWF6LRP"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001VLW398&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B001VLW398" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Yes, audio cables.
 
@@ -37,7 +37,7 @@ $10/each [via Amazon](http://www.amazon.com/dp/B001VLW398/?tag=v2mdc-20)
 
 ## 2. TS-836A Meter
 
-<a href="http://www.amazon.com/gp/product/B00E945SJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00E945SJG&linkCode=as2&tag=v2mdc-20&linkId=H6QMBVABBATIZGDT"><img align="right" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E945SJG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B00E945SJG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00E945SJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00E945SJG&linkCode=as2&tag=v2mdc-20&linkId=H6QMBVABBATIZGDT"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E945SJG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B00E945SJG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Around the time [I installed solar PV panels on my roof](/v2/solar/), I picked up this little power meter to [track down idle/standby/phantom electrical draw](/v2/2015/01/27/standby-consumption.html) from the electronics around my house.
 
@@ -49,7 +49,7 @@ $16 [via Amazon](http://www.amazon.com/dp/B00E945SJG/?tag=v2mdc-20)
 
 ## 3. Black & Decker Airstation
 
-<a href="http://www.amazon.com/gp/product/B000IE0YIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000IE0YIQ&linkCode=as2&tag=v2mdc-20&linkId=JVBDJVCKQ3HX5PIN"><img align="right" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000IE0YIQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B000IE0YIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B000IE0YIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000IE0YIQ&linkCode=as2&tag=v2mdc-20&linkId=JVBDJVCKQ3HX5PIN"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000IE0YIQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B000IE0YIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The air compressors that plug into the accessory outlet in your car do alright for bike tires, basketballs, and pool floats, but I find that they don't have enough oomph to fill car or motorcycle tires. I've done it, but it takes forever, the compressor gets all hot, and you've got the sneaking suspicion that your car battery is being drained to the point of needing a jump-start.
 
@@ -63,7 +63,7 @@ $43 [via Amazon](http://www.amazon.com/dp/B000IE0YIQ/?tag=v2mdc-20)
 
 ## 4. ThermiPaq Pain Wrap
 
-<a href="http://www.amazon.com/gp/product/B0089YXOSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0089YXOSY&linkCode=as2&tag=v2mdc-20&linkId=ZE4EZSEL2CKMTO75"><img align="right" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089YXOSY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B0089YXOSY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B0089YXOSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0089YXOSY&linkCode=as2&tag=v2mdc-20&linkId=ZE4EZSEL2CKMTO75"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089YXOSY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B0089YXOSY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Not much to look at, the [ThermiPaq](http://www.amazon.com/dp/B0089YXOSY/?tag=v2mdc-20) is a handy reusable heating wrap that’s filled with an aromatic clay compound. Forty-five seconds in the microwave and this thing will put out a steady supply of muscle ache relieving heat for 20 minutes.
 
@@ -78,7 +78,7 @@ $20 [via Amazon](http://www.amazon.com/dp/B0089YXOSY/?tag=v2mdc-20)
 
 ## 5. Raspberry Pi B+
 
-<a href="http://www.amazon.com/gp/product/B00TFV5QTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00TFV5QTA&linkCode=as2&tag=v2mdc-20&linkId=FAG362T6P2NF7GE7"><img align="right" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TFV5QTA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B00TFV5QTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00TFV5QTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00TFV5QTA&linkCode=as2&tag=v2mdc-20&linkId=FAG362T6P2NF7GE7"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TFV5QTA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B00TFV5QTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The [Raspberry Pi](https://www.raspberrypi.org/) has been a great source of fun for geeks, nerds, makers, students, and everyone in between. Small. Inexpensive. Versatile.
 
@@ -90,7 +90,7 @@ $50 [via Amazon](http://www.amazon.com/dp/B00LAA91R2/?tag=v2mdc-20) (and don't f
 
 ## 6. Battery Tender Junior
 
-<a href="http://www.amazon.com/gp/product/B000CITK8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000CITK8S&linkCode=as2&tag=v2mdc-20&linkId=NGR2MXBYDG4ZGV2U"><img align="right" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000CITK8S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B000CITK8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B000CITK8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000CITK8S&linkCode=as2&tag=v2mdc-20&linkId=NGR2MXBYDG4ZGV2U"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000CITK8S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B000CITK8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 For vehicles with alarms or vehicle recovery systems, it's pretty simple to kill batteries, especially if they’re left idle.
 
@@ -106,7 +106,7 @@ $23 [via Amazon](http://www.amazon.com/dp/B000CITK8S/?tag=v2mdc-20)
 
 ## 7. Lodge Scraper
 
-<a href="http://www.amazon.com/gp/product/B0039UU9UO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0039UU9UO&linkCode=as2&tag=v2mdc-20&linkId=NGMGC724TRZVTMMH"><img align="right" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0039UU9UO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B0039UU9UO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B0039UU9UO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0039UU9UO&linkCode=as2&tag=v2mdc-20&linkId=NGMGC724TRZVTMMH"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0039UU9UO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B0039UU9UO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 If you've never owned or cooked with a [cast iron dutch oven](http://www.amazon.com/dp/B000SOM5XS/?tag=v2mdc-20) of the non-enameled variety, the sheer beauty of these little [Lodge scrapers](http://www.amazon.com/dp/B0039UU9UO/?tag=v2mdc-20) will likely be lost on you.
 
