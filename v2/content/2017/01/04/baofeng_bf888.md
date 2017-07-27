@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: baofeng,ht,radios,gmrs,frs -->
 <!-- published: 2017-01-04T14:30:00-05:00 -->
-<!-- updated: 2016-01-04T14:30:00-05:00 -->
+<!-- updated: 2017-05-18T10:10:00-05:00 -->
 <!-- summary: A practical review of the Baofeng BF-888 handheld radio. Lots to like with a few caveats. -->
 
 # Baofeng BF-888S - A Practical Review
@@ -88,7 +88,7 @@ I'm not an expert in the field, but I can say the flexibility of programmable ra
 
 Mentioned in the [Amazon review](https://www.amazon.com/review/R1QHHDAAXZHRDW/ref=as_li_ss_tl?ie=UTF8&ASIN=B007F7MZ04&channel=detail-glance&nodeID=2335752011&store=wireless&linkCode=ll2&tag=v2mdc-20&linkId=e84a793a21dd422ed5a7397b209e69f8), but worth reiterating: **if you live in the United States, you absolutely can't use the Baofeng BF-888S without breaking FCC rules**. Not out of the box, anyways. The BF-888S ships from the factory with [sixteen default/preset frequencies](https://gist.github.com/klysium/11278351), most of which *cannot* be used without an FCC license and some of which will *probably* overlap with law enforcement and emergency services. Don't do it.
 
-There are many products sold in the US that can be misused in a way that breaks a law, rule, or regulation. This just happens to be one of those items. The product isn't inherently evil, it's just a UHF radio that can be programmed to operate on a wide range of frequencies (many which happen to be regulated).
+There are many products sold in the US that can be misused in a way that breaks a law, rule, or regulation. This just happens to be one of those items. The product isn't inherently evil, it's just a UHF radio that can be programmed to operate on a wide range of frequencies (many of which happen to be regulated).
 
 Baofeng received FCC Part 90 certification for the BF-888S in October 2015 for use on commercial frequencies ([Miklor](http://www.miklor.com/BF888/888-FAQ.php), [FCC](https://apps.fcc.gov/oetcf/tcb/reports/Tcb731GrantForm.cfm?mode=COPY&RequestTimeout=500&tcb_code=&application_id=SH25rkP7lF2PVYZb3cklng%3D%3D&fcc_id=ZP5BF-888S)). That isn't the same as FCC Part 95 for [Family Radio Service](https://www.fcc.gov/general/family-radio-service-frs) (FRS), the part of the radio spectrum that most consumer walkie talkies operate on.
 

@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: gadgets,cables,camera,video,photography,power -->
 <!-- published: 2016-11-24T10:45:00-05:00 -->
-<!-- updated: 2016-11-25T08:31:00-05:00 -->
+<!-- updated: 2017-05-30T11:11:00-05:00 -->
 <!-- summary: Six simple, practical, and reasonably priced gadgets that have proven most useful. -->
 
 # Six Gadgets of 2016
@@ -23,7 +23,7 @@ All six of these items have proven useful to me over the year.
 
 <a href="https://www.amazon.com/dp/B00VW7U8X4//ref=as_li_ss_il?&linkCode=li2&tag=v2mdc-20&linkId=c2f71df167ab3058d2f873a59fad2b31" target="_blank"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VW7U8X4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=li2&o=1&a=B00VW7U8X4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Put 'em on, turn 'em on, and everything just disappears. Passengers talking, airline noise, all of it. Yes, they're expensive, but these headphons have changed the way I travel. If you find yourself on the road often, these are a luxury worth indulging in.
+Put 'em on, turn 'em on, and everything just disappears. Passengers talking, airline noise, all of it. Yes, they're expensive, but these headphones have changed the way I travel. If you find yourself on the road often, these are a luxury worth indulging in.
 
 I used to wear earplugs from takeoff to landing to protect my hearing, unless I was watching an in-flight movie in which case the volume would have to be loud enough to overcome to ambient noise. Now I typically watch downloaded Amazon Video content. With the ambient noise mostly eliminated, I don't need to crank the volume up to hear.
 
