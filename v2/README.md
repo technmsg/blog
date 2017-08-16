@@ -12,7 +12,7 @@ I prefer pull requests, but any help is appreciated. If you wish to contribute a
 
 &sect;
 
-Photographs and text Copyright &copy; Alex Moundalexis, licensed under a Creative Commons License (specifically, [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/); some rights are reserved.
+Photographs and text Copyright &copy; Alex Moundalexis, licensed under a Creative Commons License (specifically, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/); some rights are reserved.
 
 Code for [v2 engine](https://github.com/technmsg/v2) is available under MIT license.
 
