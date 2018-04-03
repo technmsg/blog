@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: baofeng,ht,radios,gmrs,frs -->
 <!-- published: 2017-01-04T14:30:00-05:00 -->
-<!-- updated: 2017-05-18T10:10:00-05:00 -->
+<!-- updated: 2018-04-03T10:00:00-05:00 -->
 <!-- summary: A practical review of the Baofeng BF-888 handheld radio. Lots to like with a few caveats. -->
 
 # Baofeng BF-888S - A Practical Review
@@ -78,6 +78,16 @@ For the low cost, it's a suprisingly dense hunk of molded plastic. They've survi
 
 The clips and supporting springs are strong. When installing the clip, do so without the battery inserted so you don't have to fight the spring. By comparison, I managed to break a belt clip on a friend's Motorola Talkabout after a few days light usage.
 
+**Update 3/2018**
+
+After *years* of use/abuse and numerous drops at the hands of dozens of teenagers, most of the damage consists of cosmetic scuffs, scrapes, and bent antennas.
+
+The only structural damage I've seen on any of the radios has been a small chip on the [side of the case](https://www.flickr.com/photos/techmsg/27286954188/); eventually another drop resulted in a [broken chunk](https://www.flickr.com/photos/techmsg/39350674720/) near the battery compartment, at which point the battery latch doesn't want to stay engaged (since the piece that would hold the latch in place is gone). A piece of gaff tape across the bottom keeps the battery engaged and otherwise the radio is still perfectly functional.
+
+Given enough drops, the [battery tabs can snap off](https://www.flickr.com/photos/techmsg/27285307638/). So long as there's still [one intact battery tab](https://www.flickr.com/photos/techmsg/41115352982/), the battery will stay in.
+
+Everything is prone to break over time. Given the low cost of the Baofeng BF-888S, the build quality is still more than generous.
+
 ## The Bad News
 
 In an attempt to be a model citizen, I did a bit of reading on the [Personal Radio Services](https://www.fcc.gov/consumers/guides/personal-radio-services-prs-keeping-touch) before programming the radios, but I found the FCC regulations difficult to navigate.
@@ -112,6 +122,10 @@ Consider what the FCC says about [General Mobile Radio Service](https://www.fcc.
 
 The dual-service radios mentioned are *everywhere* and sold to consumers across the United States. If your [Motorola Talkabout](http://amzn.to/2hOfcy2) has a pair of high/low transmit buttons, technically you'd need a license to use them with higher power on channels 1-7. In practice, most consumers don't know anything about FCC regulations and few bother to acquire the proper GMRS license.
 
+**Update 3/2018**
+
+Effective September 27th, 2017 the FCC has [consolidated FRS/GMRS channels](https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart). They now permit transmitting up to 2 watts on what used to be FRS channels 1-7 (and also channels 15-22), although it's still good practice to transmit on low power whenever possible to reduce your impact on other users.
+
 ### Programming can be tedious
 
 To program the BF-888S you'll need to buy an inexpensive [programming cable](http://amzn.to/2iFwOMs) which plugs into the BF-888S headphone/mic jack and connects to a USB port on your computer.
@@ -125,6 +139,20 @@ Baofeng provides programming software for Windows, which I didn't care to deal w
 The emphasis on *with a little work* is mine. Getting the Python application running on OSX wasn't too bad, nor was creating a template file to use for all the radios, but I found that CHIRP wouldn't release the serial port after programming each radio. I could close and re-open CHIRP, but the serial port wouldn't be available for the next radio. The only way to release the serial port was to hard boot the computer after each radio.
 
 Six radios, six reboots. Once you're done, you'll want to verify operation of every channel with a scanner. Six radios, sixteen channels each, that's 96 channels to check. A little tedious, but only required once.
+
+**Update 3/2018**
+
+A [later revision of the Baofeng BF-888S](https://www.flickr.com/photos/techmsg/40446849274/) includes the following on the back plate (other details unchanged):
+
+     CMIIT ID: 2017FP0564
+
+Using CHIRP on Mac OSX, this version of the BF-888S did not work with the cheap programming cable mentioned earlier. Later revisions of the radio aren't as tolerant of the commonly-counterfeit Prolific chips found in the USB-serial cables.
+
+[CHIRP bug #4249](https://chirp.danplanet.com/issues/4249) has a good discussion of the problem. If you're consistently seeing "radio refused to enter programming mode" errors from CHIRP there's a good chance your cable has a counterfeit Prolific chip.
+
+The [Linux-based LiveCD](http://sourceforge.net/projects/chirplivecd/) still works. Alternatively, the $18 [FTDI programming cable from Valley Enterprises](https://amzn.to/2IpEuzc) works flawlessly on OSX out of the box, without any reboots required, and has nice LED status lights to indicate transmit/receive. If you're programming more than a few radios, it's a useful time-saving upgrade.
+
+Important: When working with a new batch of radios, make sure you download the radio settings FIRST and then modify the CHIRP-created template with the relevant frequencies and settings. You can copy/paste frequencies from another template, but if you write an old template to a newer radio, settings could be lost.
 
 ## Summary
 
