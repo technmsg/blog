@@ -2,12 +2,15 @@
 <!-- categories: pages -->
 <!-- tags: talks,speaking,presentations -->
 <!-- published: 2014-07-03T10:26:00-05:00 -->
-<!-- updated: 2016-12-27T15:30:00-05:00 -->
+<!-- updated: 2018-08-30T10:00:00-05:00 -->
 <!-- summary: A relatively complete list of my speaking engagements, both talks and panel discussions. -->
 
 # Talks
 
 A relatively complete list of my speaking engagements, mostly talks but a few discussions too. If you'd like me to speak at your event, feel free to reach out.
+
+Getting Started with Big Data on vSphere: A Practical Guide for Admins ([video](https://videos.vmworld.com/searchsite/2018/videoplayer/20072))  
+<small>2018-08-28</small> [VMworld 2018 US](https://www.vmworld.com/en/us/index.html), Las Vegas NV
 
 Innovations from Cloudera and VMware for Virtualizing Hadoop  
 <small>2016-10-18</small> [VMworld 2016 Europe](https://www.vmworld.com/en/europe/index.html), Barcelona, Spain
