@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: noco,genius,battery,charger,tender -->
 <!-- published: 2020-08-01T09:30:00-05:00 -->
-<!-- updated: 2020-08-01T09:30:00-05:00 -->
+<!-- updated: 2020-08-01T22:40:00-05:00 -->
 <!-- summary: A practical review of the NOCO GENIUS line of battery chargers. Lots to like with a few caveats. -->
 
 # NOCO GENIUS - A Practical Review
@@ -61,7 +61,7 @@ The NOCO GENUIUS5 charger unboxed, with clamp jaws. Not pictured, but there's al
 
 <a href="https://www.flickr.com/photos/techmsg/50170425903/in/dateposted/" title="NOCO GENIUS5 Unboxing (6/6)"><img src="https://live.staticflickr.com/65535/50170425903_148ccda672_z.jpg" width="640" height="360" alt="NOCO GENIUS5 Unboxing (6/6)"></a>
 
-Build quality is excellent: the units are aren't large, but feel solid and hefty.
+Build quality is excellent: the units aren't large, but feel solid and hefty.
 
 The Mode button is firm but has an audible and tactile click when depressed. The AC cord is about 4 1/2 feet long and the weather-resistant DC cord is about 5 1/2 feet long, which is good for most of my usage but [ten foot DC extension cables](https://amzn.to/2P5j93t) ($11) are available.
 
