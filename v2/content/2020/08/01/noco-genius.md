@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: noco,genius,battery,charger,tender -->
 <!-- published: 2020-08-01T09:30:00-05:00 -->
-<!-- updated: 2020-08-01T22:40:00-05:00 -->
+<!-- updated: 2020-08-02T14:00:00-05:00 -->
 <!-- summary: A practical review of the NOCO GENIUS line of battery chargers. Lots to like with a few caveats. -->
 
 # NOCO GENIUS - A Practical Review
@@ -88,9 +88,13 @@ There's no bulky transformer, just a polarized plug. To be fair all of the elect
 
 ## Usage
 
-Attach the positive and negative clamps (included) to the battery terminals, in that order.
+Attach the positive (red) clamp to the positive battery terminal.
 
-For a more permanent install (and for quicker connect/disconnect), the eyelets can be removed from the included clamps and attach directly to the battery terminals; larger [M10 eyelet terminals](https://amzn.to/2PbTFkV) ($12) and [M8 eyelet terminals](https://amzn.to/3hGj3eW) ($10) are also available.
+Attach the negative (black) clamp to a negative ground point. This assumes a negative ground system.
+
+⚠️ Warning: For safety purposes most manufacturers advise against connecting directly to the negative battery terminal, particularly in modern vehicles. When in doubt, refer to the owner's manual for your vehicle. If accessory usage or charging isn't mentioned explicitly, check the section on jump starting; if those instructions say use a ground point, don't connect directly to the negative battery terminal.
+
+For a more permanent install (and for quicker connect/disconnect), the eyelets can be removed from the included clamps and attach directly to the positive battery terminal and negative ground point; larger [M10 eyelet terminals](https://amzn.to/2PbTFkV) ($12) and [M8 eyelet terminals](https://amzn.to/3hGj3eW) ($10) are also available.
 
 Plug in to AC power. Press the Mode button until the correct battery chemistry LED illuminates. And that's it, you can walk away and let the charger do its thing. To access the Force or Repair modes, you can press Mode for 3-5 seconds respectively before selecting the battery chemistry.
 
