@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: noco,genius,battery,charger,tender -->
 <!-- published: 2020-08-01T09:30:00-05:00 -->
-<!-- updated: 2020-08-02T14:00:00-05:00 -->
+<!-- updated: 2020-08-10T09:30:00-05:00 -->
 <!-- summary: A practical review of the NOCO GENIUS line of battery chargers. Lots to like with a few caveats. -->
 
 # NOCO GENIUS - A Practical Review
@@ -134,7 +134,8 @@ I'm pleased.
 
 The NOCO GENIUS units are sleek, purposefully designed, well built, provide tactile and visual feedback, support a variety of battery types, and do what they're supposed to do.
 
-So far I've used the [GENIUS2](https://amzn.to/3fegkYy) to charge and maintain the battery in a compact car and the [GENIUS5](https://amzn.to/2BCVjce) for a pickup truck, both without any issues.
+I've used the [GENIUS2](https://amzn.to/3fegkYy) to charge and maintain the battery in a compact car.
 
-I'll be trying the GENIUS5's Repair mode on a friend's dead battery shortly and will follow up with the results.
+I've used the [GENIUS5](https://amzn.to/2BCVjce) to charge and maintain the battery in a pickup truck and to [revive a dead Toyota hybrid accessory battery](/v2/2020/08/10/noco-repair-mode.html).
 
+Definitely a worthwhile addition to the home garage!
