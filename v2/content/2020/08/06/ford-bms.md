@@ -2,7 +2,7 @@
 <!-- categories: howto -->
 <!-- tags: ford,battery,bms,bcm,troubleshooting -->
 <!-- published: 2020-08-06T18:00:00-05:00 -->
-<!-- updated: 2020-08-06T18:00:00-05:00 -->
+<!-- updated: 2020-08-08T09:00:00-05:00 -->
 <!-- summary: Non-functional Auto Start-Stop system on a 2017 F-150 led me to discover the Battery Management System. -->
 
 # Ford Battery Management System
@@ -15,11 +15,26 @@ This nagging message, some driveway troubleshooting, and a few visits to my deal
 
 There are many conditions that can cause Auto Start-Stop to be disabled, listed on page 173 of the [Owner's Manual](http://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/2017-Ford-F-150-Owners-Manual-version-2_om_EN-US-EN-CA_12_2016.pdf) (PDF), and many of which with their own message that I've seen during the course of normal operation.
 
-* dashboard button
-* engine warming
-* vehicle heating/cooling
-* in turning maneuver
-* vehicle charging
+* Engine Off
+* Engine On Normal Operation
+* Engine On due to Engine Warming
+* Engine On due to Heating/Cooling
+* Engine On due to Low Temperature
+* Engine On due to Steering Wheel Maneuvering
+* Engine On due to Vehicle Charging
+* Engine On due to Vehicle Maneuvering
+* Engine On due to Accessory Usage
+* Engine On due to Outside Air Temp
+* Engine On due to Selected Gear
+* Engine On due to Steep Grade
+* Engine On due to Driver Door Opened
+* Engine On due to Driver Belt Unbuckled
+* Engine On due to Power Outlet in Use
+* Deactivated by Driver
+* Auto StartStop Not Available
+* Auto StartStop Manual Restart Required
+
+The [2017 Fusion Owner's Manual](http://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?bookCode=O34125&countryCode=USA&languageCode=en&marketCode=US&viewTech=IE&chapterTitleSelected=G1525715&subTitleSelected=G1824543&topicHRef=G1824544&div=f&variantid=4040&vFilteringEnabled=False&userMarket=USA) has a thorough list with descriptions of each.
 
 The three year old battery reported good voltage while the truck was running, indicating that the alternator was providing power.
 
