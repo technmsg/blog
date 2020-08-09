@@ -2,12 +2,12 @@
 <!-- categories: essay -->
 <!-- tags: work,home -->
 <!-- published: 2015-08-23T10:45:00-05:00 -->
-<!-- updated: 2015-08-23T10:45:00-05:00 -->
+<!-- updated: 2020-08-08T10:45:00-05:00 -->
 <!-- summary: Working from home can be mutually beneficial, but isn't for everyone. There are many misconceptions. There are definite perks, but some hazards too. -->
 
 # Working From Home
 
-As a remote employee at [Cloudera](http://www.cloudera.com/) for three years, I've never had a desk at any one of our offices.
+As a remote employee at [Cloudera](https://www.cloudera.com/) for three years, I've never had a desk at any one of our offices.
 
 When I tell people that I work from home, I usually get one of the following responses:
 
@@ -37,7 +37,7 @@ It's not just colleagues. Friends and family don't get it either. While I don't 
 
 It's important to communicate your availability and routine to colleagues. I set my office hours on Google Calendar, so that coworkers trying to schedule meetings know what times are generally off-limits. I make it very clear to my team, and anyone who will listen, that I don't check email after hours, and then follow through on it. I may not win any awards for hardest-working, but I'm not going to “win” most-overworked either.
 
-Although the business world treats email as a synchronous method of communication (meaning people expect a near-immediate response), it isn't, and I strive to treat email as asynchronously as possible. Strangely, I find that most people won't resort to the phone despite it being a truly synchronous medium. It's almost as if the telephone serves as a mental block to what's really important, since we know that we'll almost certainly be interrupting whoever we're calling. The [scientific study of interruptions](https://en.wikipedia.org/wiki/Interruption_science) is ongoing, although it’s a [fairly](http://www.fastcompany.com/944128/worker-interrupted-cost-task-switching) [well](http://www.joelonsoftware.com/articles/fog0000000022.html) [accepted](http://www.hadermann.be/blog/46/the-hidden-cost-of-interrupting-knowledge-workers/) [problem](https://enterprisematters.blogs.xerox.com/2012/05/17/multitasking-how-do-you-manage-your-interrupt-driven-work/) [within](https://viget.com/flourish/sabotaged-by-interruptions) the tech industry.
+Although the business world treats email as a synchronous method of communication (meaning people expect a near-immediate response), it isn't, and I strive to treat email as asynchronously as possible. Strangely, I find that most people won't resort to the phone despite it being a truly synchronous medium. It's almost as if the telephone serves as a mental block to what's really important, since we know that we'll almost certainly be interrupting whoever we're calling. The [scientific study of interruptions](https://en.wikipedia.org/wiki/Interruption_science) is ongoing, although it’s a [fairly](https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching) [well](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) [accepted](https://www.hadermann.be/blog/46/the-hidden-cost-of-interrupting-knowledge-workers/) [problem](https://enterprisematters.blogs.xerox.com/2012/05/17/multitasking-how-do-you-manage-your-interrupt-driven-work/) [within](https://www.viget.com/articles/sabotaged-by-interruptions/) the tech industry.
 
 ## Potentially Hazardous for Your Health
 
@@ -59,7 +59,7 @@ That’s my routine. It works for me.
 
 ## The Physical Office
 
-This is important. Just like keeping [the bedroom as place for proper sleep](https://sleepfoundation.org/ask-the-expert/sleep-hygiene), the home office is a place for work; a separate room that's dedicated to the purpose, nothing else. Short of hosting [coworking events where I might utilize the living room](https://www.flickr.com/photos/techmsg/11425249824/), I don't work anywhere else in the house; along similar lines, I don't have work email notifications enabled on my phone.
+This is important. Just like keeping [the bedroom as place for proper sleep](https://www.sleepfoundation.org/articles/sleep-hygiene), the home office is a place for work; a separate room that's dedicated to the purpose, nothing else. Short of hosting [coworking events where I might utilize the living room](https://www.flickr.com/photos/techmsg/11425249824/), I don't work anywhere else in the house; along similar lines, I don't have work email notifications enabled on my phone.
 
 That one room in my house is [my office](/v2/2015/08/23/my-home-office.html). Treat it as such.
 
@@ -75,7 +75,7 @@ The financial aspect is _not_ insignificant for my employer.
 
 Consider, if I were working in one of our offices:
 
-* RENT. The rent on office space costs *hundreds* of dollars per month per person, even using *very* conservative metrics of 100-150 square feet per person which doesn't account for all those [sprawling conference rooms](https://www.flickr.com/photos/techmsg/16652391337/) and [play areas](https://www.flickr.com/photos/techmsg/16673560029/). If you think the [San Francisco Bay Area has expensive office space](https://highfive.com/blog/bay-area-office-space), consider [the rents in Washington DC often top those in NYC](http://www.inc.com/news/articles/2010/10/washington-dc-rents-top-those-in-nyc.html).
+* RENT. The rent on office space costs *hundreds* of dollars per month per person, even using *very* conservative metrics of 100-150 square feet per person which doesn't account for all those [sprawling conference rooms](https://www.flickr.com/photos/techmsg/16652391337/) and [play areas](https://www.flickr.com/photos/techmsg/16673560029/). If you think the [San Francisco Bay Area has expensive office space](https://highfive.com/blog/bay-area-office-space), consider [the rents in Washington DC often top those in NYC](https://www.inc.com/news/articles/2010/10/washington-dc-rents-top-those-in-nyc.html).
 * LUNCH. While I won't get into the reasoning behind (or my thoughts about) daily lunch service, suffice to say it's a non-trivial expense.
 * EVERYTHING ELSE. Consider the multitude of ancillary costs of operating an office: utilities, coffee, [snacks](https://www.flickr.com/photos/techmsg/8531926375/), sodas, juices, cleaning services, high-bandwidth low-latency Internet, telephony, release parties and social events, etc.
 
