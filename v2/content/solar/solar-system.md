@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2016-11-30T15:15:00-05:00 -->
+<!-- updated: 2020-08-09T15:15:00-05:00 -->
 <!-- summary: Part of the Going Solar series. This is the solar PV system I had installed. -->
 
 # Going Solar: The System
@@ -27,16 +27,16 @@ If the power goes out, the solar system stops producing. Battery backup systems 
 
 ### Panels
 
-There are sixteen [SunPower](http://mbsy.co/sunpower/alexsolar) E-20  [SPR-245NE-WHT-U-240](http://us.sunpower.com/sites/sunpower/files/media-library/spec-sheets/sp-e-series-residential-solar-panels-supplementary-technical-spec.pdf) (PDF) modules, each generating a maximum of 245W DC. They're about [five feet long](https://www.flickr.com/photos/techmsg/15934096556/in/set-72157649099138418), two and a half feet in width, and two inches thick; each weighs 33 pounds, putting 2.46 PSF onto my roof.
+There are sixteen [SunPower](http://mbsy.co/sunpower/alexsolar) E-20 SPR-245NE-WHT-U-240 <!-- http://us.sunpower.com/sites/sunpower/files/media-library/spec-sheets/sp-e-series-residential-solar-panels-supplementary-technical-spec.pdf --> modules, each generating a maximum of 245W DC. They're about [five feet long](https://www.flickr.com/photos/techmsg/15934096556/in/set-72157649099138418), two and a half feet in width, and two inches thick; each weighs 33 pounds, putting 2.46 PSF onto my roof.
 
 Each of the panels is warranted (both by SEW and the manufacturer) for 25 years.
 
 ### Mounting Rail
 
-Six [Unirac rails](http://unirac.com/solarmount/) are mounted vertically to the roof face, bolted to the top chord of the roof trusses using 3" x 5/16 stainless steel lag bolts. Each column of solar panels is attached to two rails.
+Six [Unirac rails](https://unirac.com/solarmount/) are mounted vertically to the roof face, bolted to the top chord of the roof trusses using 3" x 5/16 stainless steel lag bolts. Each column of solar panels is attached to two rails.
 
 ### Inverter
 
-A [SunPower](http://mbsy.co/sunpower/alexsolar) [SPR-3801f-240](http://us.sunpower.com/sites/sunpower/files/media-library/manuals/mn-spr-3301f-1-spr-3801f-1-spr-6501f-1-spr-7501f-1-spr-10001f-1-spr-11401f-1-spr-11401f-3-spr-12001f.pdf) (PDF) inverter is warranted by SunPower for 10 years, but also warranted by SEW for 25 years.
+A [SunPower](http://mbsy.co/sunpower/alexsolar) SPR-3801f-240 <!-- http://us.sunpower.com/sites/sunpower/files/media-library/manuals/mn-spr-3301f-1-spr-3801f-1-spr-6501f-1-spr-7501f-1-spr-10001f-1-spr-11401f-1-spr-11401f-3-spr-12001f.pdf --> inverter is warranted by SunPower for 10 years, but also warranted by SEW for 25 years.
 
 Next: [Installation Day](/v2/solar/solar-installation.html)
