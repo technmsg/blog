@@ -2,12 +2,12 @@
 <!-- categories: essay -->
 <!-- tags: cloudera,career -->
 <!-- published: 2015-09-24T13:00:00-05:00 -->
-<!-- updated: 2015-09-24T13:00:00-05:00 -->
+<!-- updated: 2020-08-08T08:57:00-05:00 -->
 <!-- summary: Cloudera has tripled in size since I joined. I've since changed roles, bringing a different flavor to my career, more meetings, and less public speaking. But it's still an adventure. -->
 
 # Three Years at Cloudera
 
-After three years with [Cloudera](http://www.cloudera.com) I still have difficulty explaining what I do for a living. I still have difficulty explaining what the *company* does, specifically, especially to those outside the computing industry. Whenever I say "we're in the software business," people always seem to want to know what kind. I'm not sure why they want to know, exactly, but I try to appease them:
+After three years with [Cloudera](https://www.cloudera.com) I still have difficulty explaining what I do for a living. I still have difficulty explaining what the *company* does, specifically, especially to those outside the computing industry. Whenever I say "we're in the software business," people always seem to want to know what kind. I'm not sure why they want to know, exactly, but I try to appease them:
 
 "We do distributed computing." *confused face*
 
@@ -39,11 +39,11 @@ Two years ago, my primary objective was making customers successful through cons
 
 It feels like a big deal. And to Cloudera it is certainly is. But does it *matter* as much?
 
-Jeff Hammerbacher -- one of Cloudera's founders -- [told Bloomberg in 2011](http://www.bloomberg.com/bw/magazine/content/11_17/b4225060960537.htm) that "the best minds of my generation are thinking about how to make people click ads," adding "that sucks." He's since focused his efforts on genomics research at Mount Sinai Hospital, but a lot of our company's product is still used by our customers as a means to generate or increase profits.
+Jeff Hammerbacher -- one of Cloudera's founders -- [told Bloomberg in 2011](https://www.theatlantic.com/technology/archive/2011/04/quote-ad-generation/349689/) that "the best minds of my generation are thinking about how to make people click ads," adding "that sucks." He's since focused his efforts on genomics research at Mount Sinai Hospital, but a lot of our company's product is still used by our customers as a means to generate or increase profits.
 
 I find less intrinsic value in the work I'm doing today, both because I'm one step removed from end-users and also because of the commercial nature of my "very large" for-profit partners. We *absolutely* have customers who are using our software (possibly utilizing our partners' offerings) for disease research, national defense, environmental protection, and humanitarian efforts, but in my new role I'm not exposed to them directly.
 
-It's not just me. The head of my department used to work in the natural gas industry. When the pipeline and distribution network were running smoothly, he took comfort that the work he was doing contributed to keeping people safe and warm. First responders can take similar comforts in their line of work. I've known [that feeling of comfort previously in my career](http://www.moundalexis.com/tm/2009/12/27/driven-by-many-factors/) and it's been hard to wean myself from it.
+It's not just me. The head of my department used to work in the natural gas industry. When the pipeline and distribution network were running smoothly, he took comfort that the work he was doing contributed to keeping people safe and warm. First responders can take similar comforts in their line of work. I've known [that feeling of comfort previously in my career](https://www.moundalexis.com/tm/2009/12/27/driven-by-many-factors/) and it's been hard to wean myself from it.
 
 I do get satisfaction from knowing I'm doing a good job and that my contributions are important, but there's a nagging inner voice that asks what exactly I'm contributing to. I want my efforts to enable more than mere profitability.
 
@@ -84,13 +84,13 @@ I'm also a little fed up with conference politics that are in part responsible f
 
 I might not write the most glamorous proposals, but they're honest. Perhaps it's faulty logic, but it feels like the organizers don't want to hear what I have to say. Or maybe there are too many Cloudera people speaking already at the conferences I've submitted to. Or maybe I'm a horrible speaker. No idea. Rarely will a conference organizer/committee provide specific feedback to submitters on *why* their proposal wasn't accepted; it's something I think we could work toward.
 
-In any case, I still wanted to give back to the communities that have inspired me over the years. If not by speaking, maybe by volunteering instead? I discovered that help is rarely turned away, particularly when it comes to reviewing proposals. So in addition to sitting on the program committee for [Accumulo Summit](http://accumulosummit.com/program/committee/), I was particularly pleased to be part of the program committee for [OSCON 2015](http://www.oscon.com/open-source-2015/public/content/about#committee), especially when a couple of my top picks were selected for inclusion.
+In any case, I still wanted to give back to the communities that have inspired me over the years. If not by speaking, maybe by volunteering instead? I discovered that help is rarely turned away, particularly when it comes to reviewing proposals. So in addition to sitting on the program committee for [Accumulo Summit](http://accumulosummit.com/program/committee/), I was particularly pleased to be part of the program committee for [OSCON 2015](https://conferences.oreilly.com/oscon/open-source-2015/public/content/about#committee), especially when a couple of my top picks were selected for inclusion.
 
 I've also started mulling over how public a person I'd like to be. There are perks to private life, some of which you give up when you take the stage. It's hard to hide when you've got a unique family name.
 
 ## Some things aren't so new
 
-I wrote about [my first twelve months at Cloudera](http://www.moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/) about two years ago, and after re-reading I find that most of my observations are still relevant:
+I wrote about [my first twelve months at Cloudera](https://www.moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/) about two years ago, and after re-reading I find that most of my observations are still relevant:
 
 * I'm still learning, and it's still okay
 * I have the flexibility of [working at home](/v2/2015/08/23/working-from-home.html)
