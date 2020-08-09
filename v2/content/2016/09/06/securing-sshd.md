@@ -2,7 +2,7 @@
 <!-- categories: howto -->
 <!-- tags: ssh,sshd,linux,fail2ban,denyhosts,openssh -->
 <!-- published: 2016-09-06T12:20:00-04:00 -->
-<!-- updated: 2016-09-13T09:20:00-04:00 -->
+<!-- updated: 2020-08-09T09:20:00-04:00 -->
 <!-- summary: If your host is connected to the Internet, it's likely under attack. Not theoretically... right now. Short of disallowing remote access entirely, it's wise to secure your SSH server. -->
 
 # Locking Down an SSH Server
@@ -11,7 +11,7 @@ If you have a publicly accessible host connected to the Internet, it's likely un
 
 It would be far safer to disallow remote access to our hosts entirely, but then administration becomes a tedious affair.
 
-The default settings for [OpenSSH](http://www.openssh.com/) server are pretty good for use inside the corporate firewall, but for systems exposed to the Internet it's wise to tighten things up a bit further. Having run a publicly accessible host for more than a decade, these are most common settings that I override.
+The default settings for [OpenSSH](https://www.openssh.com/) server are pretty good for use inside the corporate firewall, but for systems exposed to the Internet it's wise to tighten things up a bit further. Having run a publicly accessible host for more than a decade, these are most common settings that I override.
 
     LoginGraceTime 30
     PermitRootLogin no
@@ -26,7 +26,7 @@ The goals of these four settings are to conserve system resources, protect the s
 
 Let's examine each of these configuration keywords in more detail.
 
-Note: The official [sshd\_config documentation](http://man.openbsd.org/sshd_config) is thorough, but may include more recent keywords and default parameters than what's installed on your system. Make sure you check the man page for sshd\_config on your particular system before making changes.
+Note: The official [sshd\_config documentation](https://man.openbsd.org/sshd_config) is thorough, but may include more recent keywords and default parameters than what's installed on your system. Make sure you check the man page for sshd\_config on your particular system before making changes.
 
 ### LoginGraceTime
 
@@ -128,7 +128,7 @@ Let's look at those configuration keywords again.
 
 The first two do minor rate limiting of login attempts, the third aims to protect the superuser account, and the fourth prevents needless lookups against your system's authentication subsystem.
 
-Rate limiting helps reduce the possibility of ephemeral port exhaustion, without [tweaking the kernel's runtime settings](https://blog.box.com/blog/ephemeral-port-exhaustion-and-web-services-at-scale/) with `tcp_tw_reuse` or `tcp_tw_recycle`. While effective, these methods could potentially impact users utilizing low bandwidth or high latency connections. We could increase the number of ephemeral ports by [modifying ip_local_port_range](https://www.nginx.com/blog/overcoming-ephemeral-port-exhaustion-nginx-plus/), but that just delays the inevitable.
+Rate limiting helps reduce the possibility of ephemeral port exhaustion, without [tweaking the kernel's runtime settings](https://blog.box.com/ephemeral-port-exhaustion-and-web-services-at-scale) with `tcp_tw_reuse` or `tcp_tw_recycle`. While effective, these methods could potentially impact users utilizing low bandwidth or high latency connections. We could increase the number of ephemeral ports by [modifying ip_local_port_range](https://www.nginx.com/blog/overcoming-ephemeral-port-exhaustion-nginx-plus/), but that just delays the inevitable.
 
 As simple as these sshd\_config options are to implement, they still require the SSH daemon to interact with a client. That's not ideal since it subjects the application to far more user input than security folks would like. But what it if we could limit the behavior of bad actors before they got to processing user input?
 
@@ -170,7 +170,7 @@ Let's do that.
 
 We depend on iptables to limit remote access to specific applications, perform rate-limiting on incoming and outgoing network traffic, create the [Upside-Down-Ternet](http://www.ex-parrot.com/pete/upside-down-ternet.html), and occasionally lock ourselves out of our own system. A healthy respect for iptables is a good thing.
 
-[Fail2ban](http://www.fail2ban.org) parses system logs for login failures in a similar fashion as DenyHosts, except that it adds rules instructing iptables to drop traffic from malicious hosts. It works out of the box with minimal configuration, but I prefer two small customizations.
+[Fail2ban](https://www.fail2ban.org) parses system logs for login failures in a similar fashion as DenyHosts, except that it adds rules instructing iptables to drop traffic from malicious hosts. It works out of the box with minimal configuration, but I prefer two small customizations.
 
 Here's my example `/etc/fail2ban/jail.local` configuration file:
 
@@ -269,6 +269,6 @@ The detection criteria of Fail2ban differs slightly from DenyHosts, but the end 
 
 Stay safe, friends.
 
-*As featured on [cron.weekly](https://www.cronweekly.com/issue-45/) and [Reddit](https://www.reddit.com/r/linux/duplicates/52dyu1/locking_down_an_ssh_server/).*
+*As featured on [cron.weekly](https://ma.ttias.be/cronweekly/issue-45/) and [Reddit](https://www.reddit.com/r/linux/duplicates/52dyu1/locking_down_an_ssh_server/).*
 
 <!-- EOF -->
