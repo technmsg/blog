@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar,faq -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2016-04-27T17:09:00-05:00 -->
+<!-- updated: 2020-08-09T17:09:00-05:00 -->
 <!-- summary: Part of the Going Solar series, answering questions that I get asked about my install. -->
 
 # Going Solar: Frequently Asked Questions
@@ -41,7 +41,7 @@ The roof (and panels) face southwest, give or take a few degrees.
 
 **Q: What happens when it rains?**
 
-As [SEIA points out](http://www.seia.org/about/solar-energy/solar-faq/what-happens-solar-panels-when-it%E2%80%99s-cloudy-or-raining) in their article:
+As [SEIA points out](https://www.seia.org/initiatives/what-happens-solar-panels-when-its-cloudy-or-raining) in their article:
 
 > Photovoltaic panels can use direct or indirect sunlight to generate power, though they are most effective in direct sunlight. Solar panels will still work even when the light is reflected or partially blocked by clouds. Rain actually helps to keep your panels operating efficiently by washing away any dust or dirt
 
@@ -55,4 +55,4 @@ Production definitely ceases when the panels are thoroughly covered in snow. Aft
 
 I don't make any efforts to remove snow from the panels.
 
-Research has indicated that [light reflected off snow-covered ground can actually boost production](http://www.accuweather.com/en/weather-news/are-solar-panels-usable-in-sno/21894748), although I haven't seen this yet.
+Research has indicated that [light reflected off snow-covered ground can actually boost production](https://www.accuweather.com/en/weather-news/are-solar-panels-usable-in-snowy-climates/396164), although I haven't seen this yet.
