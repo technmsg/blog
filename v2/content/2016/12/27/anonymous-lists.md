@@ -2,12 +2,12 @@
 <!-- categories: howto -->
 <!-- tags: postfix,mailman,anonymous,email,dkim,spf -->
 <!-- published: 2016-12-27T15:15:00-05:00 -->
-<!-- updated: 2016-12-27T15:15:00-05:00 -->
+<!-- updated: 2020-08-09T15:15:00-05:00 -->
 <!-- summary: A quick guide to running anonymous mailing lists with Postfix, GNU Mailman, SPF, and DKIM. -->
 
 # Anonymous Mailing Lists with Mailman
 
-I run several anonymous mailing lists using [GNU Mailman](http://list.org/) and [Postfix](http://www.postfix.org/).
+I run several anonymous mailing lists using [GNU Mailman](https://list.org/) and [Postfix](http://www.postfix.org/).
 
 The first list started as part social and part technical experiment: a quasi-anonymous mailing list composed of "trusted" subscribers, in this case individuals with a shared employment history. The goal was to provide a venue to share previously-unspoken parting thoughts, industry rumors, and recollections.
 
@@ -69,7 +69,7 @@ Restart Mailman.
 
 ### Strip SPF headers
 
-[Sender Policy Framework](http://www.openspf.org/) (SPF) can be a useful tool for combating spam, but it can inadvertently reveal the original sender of an email. For an anonymous mailing list, this poses a problem.
+[Sender Policy Framework](http://www.open-spf.org/) (SPF) can be a useful tool for combating spam, but it can inadvertently reveal the original sender of an email. For an anonymous mailing list, this poses a problem.
 
 If you're using [pypolicyd-spf](https://launchpad.net/pypolicyd-spf) or some other SPF policy daemon, you might see lines like this in your mail headers.
 

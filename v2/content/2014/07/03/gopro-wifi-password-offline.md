@@ -2,14 +2,14 @@
 <!-- categories: howto -->
 <!-- tags: howto,gopro,wifi,passwords -->
 <!-- published: 2014-07-03T10:26:00-05:00 -->
-<!-- updated: 2014-11-29T16:31:00-05:00 -->
+<!-- updated: 2020-08-09T16:31:00-05:00 -->
 <!-- summary: How to reset a GoPro WiFi password offline. -->
 
 # Resetting GoPro WiFi Password Offline
 
 If you accidentally "Forget" your GoPro network from your mobile device and don't remember its WiFi password, resetting it is simple.
 
-While GoPro provides step-by-step instructions to reset the WiFi password, it involves [(re-)registering your device](http://gopro.com/support/product-update/register-camera), which *will* result in you receiving ~~occasional~~ weekly marketing email from GoPro. It also requires Internet access, which might not be available.
+While GoPro provides step-by-step instructions to reset the WiFi password, it involves [(re-)registering your device](https://gopro.com/en/us/support/product-update/register-camera), which *will* result in you receiving ~~occasional~~ weekly marketing email from GoPro. It also requires Internet access, which might not be available.
 
 We can circumvent that.
 
@@ -46,4 +46,4 @@ Simple, right?
 
 ## Notes
 
-I've only verified this procedure on a [GoPro Hero3+ Silver](http://gopro.com/cameras/hd-hero3-silver-edition) using Mac OS X 10.8.5 to generate the files, YMMV for other models and operating systems. If you've tried using other combinations, [let me know](https://github.com/technmsg/blog/issues/new)!
+I've only verified this procedure on a [GoPro Hero3+ Silver](https://amzn.to/3a75Ol4) using Mac OS X 10.8.5 to generate the files, YMMV for other models and operating systems. If you've tried using other combinations, [let me know](https://github.com/technmsg/blog/issues/new)!

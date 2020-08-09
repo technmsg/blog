@@ -2,7 +2,7 @@
 <!-- categories: essay -->
 <!-- tags: blog,meta -->
 <!-- published: 2015-09-09T10:30:00-05:00 -->
-<!-- updated: 2015-09-09T10:35:00-05:00 -->
+<!-- updated: 2020-08-09T10:35:00-05:00 -->
 <!-- summary: Peer review makes us better writers. Accordingly, this bit about peer review has been peer reviewed. -->
 
 # Peer Review for Bloggers
@@ -34,7 +34,7 @@ This is my process:
 
 I can write anywhere. In a draft email on my phone, [GitHub Gist](https://gist.github.com) editor, in vim, or even on a cocktail napkin. But when it comes to review, my words need to be relocated (if not transcribed) to a central place where the reviewers can access them.
 
-I use [Google Docs](http://docs.google.com) as a platform for peer review. It’s easy to use, accessible to anyone with a Google account and Internet connectivity, and doesn’t require anything more than a web browser. The spell checker isn’t too bad, either.
+I use [Google Docs](https://docs.google.com) as a platform for peer review. It’s easy to use, accessible to anyone with a Google account and Internet connectivity, and doesn’t require anything more than a web browser. The spell checker isn’t too bad, either.
 
 There’s power beneath the apparent simplicity of the Google Docs editor, especially when it comes to multi-user editing. Compared to sending a document around via email, everyone sees the same document in real-time including everyone’s notes and suggestions, which means merge conflicts are less of an issue. Google Docs saves time for the reviewers too since they don’t need to correct something that’s already been revised by someone else.
 
@@ -46,7 +46,7 @@ There’s a varying degree of interactivity. Sometimes I follow along and accept
 
 When everyone has finished reading, editing, and adding their $0.02, I go through and address all the suggestions and comments. Some I accept. Some I don’t. Some prompt me to write a sentence or two to clarify. All contain useful feedback.
 
-For example, this document was reviewed by five individuals. The reviewers made about a dozen inline suggestions pertaining to punctuation, grammar, spelling mistakes not caught by the spell checker (i.e. a valid word, but not used properly), and mismatched tense. These type of suggestions are easy to accept or reject. There were also more than a dozen comment *threads* touching upon choppy phrasing, areas needing more clarity, the [differences between em dashes versus parenthesis](http://www.thepunctuationguide.com/em-dash.html), and tense. These threads often result in a dialogue between one or more reviewers and myself. Compared to the inline suggestions, I find comments more difficult to process because they typically prompt rephrasing, reorganization, or cutting something out. Overall, [just about every paragraph was improved upon](https://github.com/technmsg/blog/commit/29cb24d787bc655990225796bb7620f84923b5d8?diff=split) due to reviewer feedback.
+For example, this document was reviewed by five individuals. The reviewers made about a dozen inline suggestions pertaining to punctuation, grammar, spelling mistakes not caught by the spell checker (i.e. a valid word, but not used properly), and mismatched tense. These type of suggestions are easy to accept or reject. There were also more than a dozen comment *threads* touching upon choppy phrasing, areas needing more clarity, the [differences between em dashes versus parenthesis](https://www.thepunctuationguide.com/em-dash.html), and tense. These threads often result in a dialogue between one or more reviewers and myself. Compared to the inline suggestions, I find comments more difficult to process because they typically prompt rephrasing, reorganization, or cutting something out. Overall, [just about every paragraph was improved upon](https://github.com/technmsg/blog/commit/29cb24d787bc655990225796bb7620f84923b5d8?diff=split) due to reviewer feedback.
 
 I haven’t felt the need to engage a professional copyeditor, although I do know of bloggers who do.
 

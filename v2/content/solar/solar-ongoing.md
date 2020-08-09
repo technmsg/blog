@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2017-02-07T15:30:00-05:00 -->
+<!-- updated: 2020-08-09T15:30:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -17,8 +17,8 @@ The bottom line is an ongoing and ever-evolving thing. Money will likely continu
 
 The system, in a nutshell:
 
-* sixteen (16) 245W SunPower [SPR-245NE-WHT-U-240](http://us.sunpower.com/sites/sunpower/files/media-library/spec-sheets/sp-e-series-residential-solar-panels-supplementary-technical-spec.pdf) (PDF) panels
-* a SunPower [SPR-3801f-240](http://us.sunpower.com/sites/sunpower/files/media-library/manuals/mn-spr-3301f-1-spr-3801f-1-spr-6501f-1-spr-7501f-1-spr-10001f-1-spr-11401f-1-spr-11401f-3-spr-12001f.pdf) (PDF) inverter
+* sixteen (16) 245W SunPower SPR-245NE-WHT-U-240 panels <!-- http://us.sunpower.com/sites/sunpower/files/media-library/spec-sheets/sp-e-series-residential-solar-panels-supplementary-technical-spec.pdf -->
+* a SunPower SPR-3801f-240 inverter <!-- http://us.sunpower.com/sites/sunpower/files/media-library/manuals/mn-spr-3301f-1-spr-3801f-1-spr-6501f-1-spr-7501f-1-spr-10001f-1-spr-11401f-1-spr-11401f-3-spr-12001f.pdf -->
 
 The system is designed to produce 114,400 kWh over its 25-year service lifetime.
 
@@ -42,7 +42,7 @@ That makes my out-of-pocket cost **$6,775**.
 
 I'm still expecting the following credits:
 
-* $2,350 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp)), although lately supply in Maryland has greatly exceeded demand, [impacting SREC market prices](http://www.srectrade.com/srec_markets/maryland) in a major way
+* $2,350 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](https://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp)), although lately supply in Maryland has greatly exceeded demand, [impacting SREC market prices](https://www.srectrade.com/markets/rps/srec/maryland) in a major way
 * ongoing utility bill reductions
 * potential credits from the power production warranty
 
@@ -86,4 +86,4 @@ In winter 2015 I experienced [an odd hardware failure](/v2/solar/inverter-replac
 
 I've seen the monitoring adapter stop reporting to SunPower. While it doesn't affect generation, the monitoring pages/apps are blank until I reboot the adapter (by unplugging it and plugging it back in again). The inverter appears to retain data from the previous day and the monitoring pages get filled in with the "missing" data. It's only happened twice.
 
-In winter of 2016 a blizzard dropped more than 30 inches of snow in an afternoon. While the panels and roof stood up to the additional weight, an [ice dam](http://www.icedamcompany.com/about-ice-dams/) formed on the rear of the house, in part due to the displacement of blown-in insulation during the installation process. As the ice melted it pushed the gutters away from the fascia board; after the ice dam was broken up the gutters and fascia receded, but will still need to be repaired or replaced.
+In winter of 2016 a blizzard dropped more than 30 inches of snow in an afternoon. While the panels and roof stood up to the additional weight, an [ice dam](https://www.icedamcompany.com/about-ice-dams/) formed on the rear of the house, in part due to the displacement of blown-in insulation during the installation process. As the ice melted it pushed the gutters away from the fascia board; after the ice dam was broken up the gutters and fascia receded, but will still need to be repaired or replaced.

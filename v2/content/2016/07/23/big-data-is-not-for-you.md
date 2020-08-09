@@ -2,16 +2,16 @@
 <!-- categories: essay -->
 <!-- tags: big data,industry -->
 <!-- published: 2016-07-23T16:00:00-05:00 -->
-<!-- updated: 2016-07-23T16:00:00-05:00 -->
+<!-- updated: 2020-08-09T16:00:00-05:00 -->
 <!-- summary: Choosing to invest in Big Data is a big deal, representing very real costs in terms of finance, personnel, and time. It's not for everyone. -->
 
 # Big Data Isn't For You
 
 "Big Data" is a buzzword, for sure. Used heavily in academic papers, blog posts, conference presentations, and many marketing materials, Big Data means different things to different people.
 
-For me, it's a convenient way to refer to [Apache Hadoop](http://hadoop.apache.org/) and the [multitude of software components](http://bigdata.andreamostosi.name/) and services that have sprung up around it.
+For me, it's a convenient way to refer to [Apache Hadoop](https://hadoop.apache.org/) and the [multitude of software components](http://bigdata.andreamostosi.name/) and services that have sprung up around it.
 
-If this means nothing to you, suffice it to say that it's a big industry that at its core requires a bunch of computers to work together. As an example, [IDC predicts](http://www.informationweek.com/big-data/big-data-analytics/big-data-analytics-sales-will-reach-$187-billion-by-2019/d/d-id/1325631) that the industry will be worth $187B by 2019. So, big business.
+If this means nothing to you, suffice it to say that it's a big industry that at its core requires a bunch of computers to work together. As an example, [IDC predicts](https://www.informationweek.com/big-data/big-data-analytics/big-data-analytics-sales-will-reach-$187-billion-by-2019/d/d-id/1325631) that the industry will be worth $187B by 2019. So, big business.
 
 Big Data isn't for you.
 
@@ -35,7 +35,7 @@ Don't use a [backhoe](https://en.wikipedia.org/wiki/Backhoe) when a shovel will 
 
 Similar logistical issues face those installing distributed systems.
 
-It's easy to adopt the [Field of Dreams](http://www.imdb.com/title/tt0097351/) mentality of "if you build it, they will come." Many organizations have data that will grow over time, and it's certainly possible that those volumes will get to the point where traditional systems start to break down. It's only natural to want to be prepared... just make sure those growth estimates are based on facts rather than hopes and dreams.
+It's easy to adopt the [Field of Dreams](https://www.imdb.com/title/tt0097351/) mentality of "if you build it, they will come." Many organizations have data that will grow over time, and it's certainly possible that those volumes will get to the point where traditional systems start to break down. It's only natural to want to be prepared... just make sure those growth estimates are based on facts rather than hopes and dreams.
 
 ## Your Organization is Rigid
 
@@ -56,7 +56,7 @@ You're going to need a champion. Someone to explain or justify to management why
 
 You are not Google. Or Facebook. Or Twitter. Don't pretend that you are.
 
-In October 2014, Facebook [reported](https://research.facebook.com/blog/facebook-s-top-open-data-problems/) that it "generates 4 new petabyes of data and runs 600,000 queries and 1 million map-reduce jobs per day."
+In October 2014, Facebook [reported](https://research.fb.com/blog/2014/10/facebook-s-top-open-data-problems/) that it "generates 4 new petabyes of data and runs 600,000 queries and 1 million map-reduce jobs per day."
 
 <a href="https://commons.wikimedia.org/wiki/File:Mobile_shredder_%281%29.jpg" title="Mobile Shredder on Wikimedia Commons"><img src="https://c1.staticflickr.com/9/8892/28497552915_71164e2920_m_d.jpg" width="240" height="180" alt="Mobile Shredder on Wikimedia Commons" align="right"></a>
 

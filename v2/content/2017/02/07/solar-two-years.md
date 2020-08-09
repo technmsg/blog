@@ -2,7 +2,7 @@
 <!-- categories: essay -->
 <!-- tags: solar -->
 <!-- published: 2017-02-07T15:30:00-05:00 -->
-<!-- updated: 2017-02-07T15:35:00-05:00 -->
+<!-- updated: 2020-08-09T15:35:00-05:00 -->
 <!-- summary: In the first two years, solar panels provided 86% of my home's electicity. -->
 
 # Two Years with Solar
@@ -27,11 +27,11 @@ That's the good news, but there have been a few hiccups.
 
 From my [initial estimates](/v2/solar/solar-ongoing.html), I expected the following income from SREC sales:
 
->$2,350 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](http://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp)
+>$2,350 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](https://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp)
 
 I was way off.
 
-Though the SREC market was relatively stable from 2007-2014, the large uptick of installed solar capacity -- although great in general -- has not been good for the [Maryland SREC market](http://www.srectrade.com/srec_markets/maryland). In August 2015 the price of a single SREC was $165 but a year later it had dropped to $28. If state-mandated renewable energy goals are increased the price of an SREC may rise again, but I don't count it as sure income. 
+Though the SREC market was relatively stable from 2007-2014, the large uptick of installed solar capacity -- although great in general -- has not been good for the [Maryland SREC market](https://www.srectrade.com/srec_markets/maryland). In August 2015 the price of a single SREC was $165 but a year later it had dropped to $28. If state-mandated renewable energy goals are increased the price of an SREC may rise again, but I don't count it as sure income. 
 
 Assuming worst case of no significant income from future SREC sales, that leaves an extra $1,600 to recoup installation costs through other means, likely from an extra 2-3 years worth of utility reduction. Perhaps less time, given the rising cost of electricity.
 

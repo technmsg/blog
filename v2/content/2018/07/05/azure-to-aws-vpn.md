@@ -2,7 +2,7 @@
 <!-- categories: howto -->
 <!-- tags: azure,aws,vpn,tunnel,ike,ipsec -->
 <!-- published: 2018-07-05T17:00:00-05:00 -->
-<!-- updated: 2018-07-05T17:30:00-05:00 -->
+<!-- updated: 2020-08-09T17:30:00-05:00 -->
 <!-- summary: Notes from creating a VPN tunnel from Azure to AWS using VyOS. -->
 
 # Azure to AWS VPN Tunnels
@@ -26,20 +26,20 @@ In short, Azure and AWS don't support the same versions of IKE.
 
 Feature requests have been filed with both providers for a LONG time (read: years).
 
-Note: [Google Cloud VPN](https://cloud.google.com/vpn/docs/concepts/overview) supports both IKEv1 and IKEv2.
+Note: [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview) supports both IKEv1 and IKEv2.
 
 We wanted to use IKEv2, so that meant changing something on the AWS side. Amazon's solution -- other than peering -- is running a third party software VPN on an EC2 instance. So that's what we did.
 
 
 ## VyOS Configuration
 
-[VyOS](https://vyos.io/) is pretty slick, an open source network OS that provides a variety of network applications: VLANS, static and dynamic routing, firewall, tunnels, VPN, NAT, DHCP, VRRP, flow accounting, proxy, and shaping.
+[VyOS](https://www.vyos.io/) is pretty slick, an open source network OS that provides a variety of network applications: VLANS, static and dynamic routing, firewall, tunnels, VPN, NAT, DHCP, VRRP, flow accounting, proxy, and shaping.
 
 There's no GUI or remote management, all setup is done from the command line. If you've ever configured a router or switch running Cisco IOS you'll feel right at home.
 
-We deployed a VyOS image from [AWS Marketplace](https://aws.amazon.com/marketplace/pp/B074KJK4WC?qid=1530227509484&sr=0-1&ref_=srh_res_product_title) onto an m4.2xlarge instance.
+We deployed a VyOS image from [AWS Marketplace](https://aws.amazon.com/marketplace/pp/B074KJK4WC?qid=1530227509484&sr=0-1&ref_=srh_res_product_title) (since replaced with [a newer and more expensive version](https://aws.amazon.com/marketplace/pp/B07N3X1P1T?qid=1596988076570&sr=0-1&ref_=srh_res_product_title)) onto an m4.2xlarge instance.
 
-First thing, Joseph from [My Coding Pains](http://www.mycodingpains.com/) has a **beautiful** step-by-step implementation guide on [how to establish a Route Based VPN with Azure VPN](http://www.mycodingpains.com/establish-route-based-vpn-azure-vpn-no-bgp/) that provided *exactly* what we needed, complete with screenshots and example configuration. So we used it. You should too.
+First thing, Joseph from [My Coding Pains](https://www.mycodingpains.com/) has a **beautiful** step-by-step implementation guide on [how to establish a Route Based VPN with Azure VPN](https://www.mycodingpains.com/establish-route-based-vpn-azure-vpn-no-bgp/) that provided *exactly* what we needed, complete with screenshots and example configuration. So we used it. You should too.
 
 There were two things that we had to do first when configuring VyOS:
 
@@ -107,5 +107,5 @@ Once we saw the tunnels up and passing traffic, we saved.
     #
     save
 
-Warning: [MTU woes in IPSec tunnels](https://www.zeitgeist.se/2013/11/26/mtu-woes-in-ipsec-tunnels-how-to-fix/) aren't uncommon. We saw an example of this where [SSH connections would hang indefinitely](https://gitlab.com/gitlab-com/support-forum/issues/1892) during session setup. We could have tweaked the network to fix, but for the short duration of the hackathon we were able to [specify the key exchange algorithm](https://bugs.launchpad.net/ubuntu/+source/openssh/+bug/1254085/comments/39) to workaround.
+Warning: [MTU woes in IPSec tunnels](https://www.zeitgeist.se/2013/11/26/mtu-woes-in-ipsec-tunnels-how-to-fix/) aren't uncommon. We saw an example of this where SSH connections would hang indefinitely during session setup. We could have tweaked the network to fix, but for the short duration of the hackathon we were able to [specify the key exchange algorithm](https://bugs.launchpad.net/ubuntu/+source/openssh/+bug/1254085/comments/39) to workaround.
 

@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: twitter -->
 <!-- published: 2015-08-09T19:32:00-05:00 -->
-<!-- updated: 2015-08-09T19:32:00-05:00 -->
+<!-- updated: 2020-08-09T19:32:00-05:00 -->
 <!-- summary: Guidelines that I've settled upon that govern my use of Twitter, both to protect my privacy and to keep things manageable. -->
 
 # Guidelines for Twitter
@@ -19,7 +19,7 @@ I treat Twitter as a public space, the same as if I were walking down the street
 
 ## I only follow people I've met in person
 
-I make limited exceptions for my current employer and temporal things, like at a conference *during* the conference, although with [TweekDeck](https://tweetdeck.twitter.com) it's easier to use [private lists](https://support.twitter.com/articles/76460) for these. Every once in a while if I work extensively with someone remotely, I'll follow them.
+I make limited exceptions for my current employer and temporal things, like at a conference *during* the conference, although with [TweekDeck](https://tweetdeck.twitter.com) it's easier to use [private lists](https://help.twitter.com/en/using-twitter/twitter-lists) for these. Every once in a while if I work extensively with someone remotely, I'll follow them.
 
 ## I don't follow my students
 
@@ -31,7 +31,7 @@ The same goes for subordinates with whom I don't have a preexisting friendship.
 
 ## No geotagged tweets
 
-There was a fair bit of commotion a few years ago about [burglars using social media](http://techland.time.com/2011/09/27/burglars-now-using-twitter-facebook-against-you/) to [determinate whether/when to burgle a home](http://www.adweek.com/socialtimes/burglars-social-media/486786). It's certainly still possible today, but moreover the whole world doesn't need to know where I am. I take some comfort in knowing that obtaining my device's precise location requires a court order.
+There was a fair bit of commotion a few years ago about [burglars using social media](https://techland.time.com/2011/09/27/burglars-now-using-twitter-facebook-against-you/) to [determinate whether/when to burgle a home](https://visual.ly/community/Infographics/social-media/how-burglars-are-using-social-media). It's certainly still possible today, but moreover the whole world doesn't need to know where I am. I take some comfort in knowing that obtaining my device's precise location requires a court order.
 
 Along similar lines, I try to limit the degree of geo-context in my tweets. I don't tend to mention my presence at specific venues or events. I also request that my friends exercise restraint when mentioning my location in a public forum. Most of my close friends and colleagues will ask "can I post this picture of you?" before doing so.
 

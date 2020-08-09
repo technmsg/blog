@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar,paperwork,contracts -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2016-11-30T16:00:00-05:00 -->
+<!-- updated: 2020-08-09T16:00:00-05:00 -->
 <!-- summary: Part of the Going Solar series. All the paperwork and contracts for my solar install. -->
 
 # Going Solar: Paperwork
@@ -17,7 +17,7 @@ Unless you're actively considering solar, this will probably be rather boring. F
 
 ### Contract
 
-After deciding to purchase a system outright, I signed a contract with [Solar Energy World](http://www.solarenergyworld.com).
+After deciding to purchase a system outright, I signed a contract with [Solar Energy World](https://www.solarenergyworld.com).
 
 Their contract is 3 pages, delivered in paper/carbon form. It outlines the type and size system to be installed, the cost, the payment structure, and responsibilities of each party.
 
@@ -67,7 +67,7 @@ While the system would work and provide electricity to the home without the net 
 
 ### HOA
 
-In Maryland, an HOA can't prevent a homeowner from installing solar panels on their property (it's a legally protected thing thanks to [solar easements and rights laws](http://programs.dsireusa.org/system/program/detail/3)) but they can (and mine will) fine you for not following the bylaws of the association (i.e. not filling out an application).
+In Maryland, an HOA can't prevent a homeowner from installing solar panels on their property (it's a legally protected thing thanks to [solar easements and rights laws](https://programs.dsireusa.org/system/program/detail/3)) but they can (and mine will) fine you for not following the bylaws of the association (i.e. not filling out an application).
 
 I filled out a Modification Application for my homeowner's association, got the signatures of two neighbors (who seemed more interested than perturbed), and sent it to SEW for completion.
 

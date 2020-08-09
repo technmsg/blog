@@ -2,12 +2,12 @@
 <!-- categories: essays -->
 <!-- tags: impostor syndrome,cloudera -->
 <!-- published: 2014-11-05T13:31:00-05:00 -->
-<!-- updated: 2015-01-17T12:04:00-05:00 -->
+<!-- updated: 2020-08-09T12:04:00-05:00 -->
 <!-- summary: By all accounts, things ought to be lovely. But after more than two years as a consultant in the niche but oft-glamorized 'big data' software market, I still have days where I feel like I don't know what I'm doing. I feel like a fraud. -->
 
 # Things Ought to Be Lovely
 
-I was offered a position at [Cloudera](http://www.cloudera.com/) because of my past work history, my understanding and ability to work within the government sector, and my ability to get stuff done. I was (and still am) a generalist and my knowledge of [Apache Hadoop](http://hadoop.apache.org) was minimal, but we thought that my years of experience in the world of infrastructure and operations would prove useful to customers. [It still does](http://www.moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/index.html), I think.
+I was offered a position at [Cloudera](https://www.cloudera.com/) because of my past work history, my understanding and ability to work within the government sector, and my ability to get stuff done. I was (and still am) a generalist and my knowledge of [Apache Hadoop](https://hadoop.apache.org) was minimal, but we thought that my years of experience in the world of infrastructure and operations would prove useful to customers. [It still does](http://www.moundalexis.com/tm/2013/12/15/cloudera-twelve-months-in/index.html), I think.
 
 I live comfortably, have my health, enjoy flexibility in my work schedule and locale, am granted the autonomy to run customer engagements how I see fit, and have wonderful coworkers that feel like family despite our geographic separation.
 
@@ -41,9 +41,9 @@ I take some comfort knowing that those who I view as possessing superior knowled
 
 It feels like a roller coaster.
 
-Elaine Marino and Jessica Goulding gave a stellar talk entitled [From Madison Avenue to git Checkout](http://www.oscon.com/oscon2014/public/schedule/detail/34860) at OSCON 2014 that chronicled their journey into software development. It really hit home. You don't need to be a software developer for the notion of impostor syndrome to resonate. Changing careers is scary.
+Elaine Marino and Jessica Goulding gave a stellar talk entitled [From Madison Avenue to git Checkout](https://conferences.oreilly.com/oscon/oscon2014/public/schedule/detail/34860) at OSCON 2014 that chronicled their journey into software development. It really hit home. You don't need to be a software developer for the notion of impostor syndrome to resonate. Changing careers is scary.
 
-There's been a lot of press lately on [impostor syndrome](http://www.forbes.com/sites/margiewarrell/2014/04/03/impostor-syndrome/), especially within the open source community. When reading about the experiences of other men and women, a lot of it feels familiar. Most of the recommendations for combating impostor syndrome focus on accepting that it's a thing, that these feelings are common amongst high-achievers, and to try to externalize our contributions (because we apparently suck at realizing the scope and magnitude of our accomplishments).
+There's been a lot of press lately on [impostor syndrome](https://www.forbes.com/sites/margiewarrell/2014/04/03/impostor-syndrome/#3b9c9d3848a9), especially within the open source community. When reading about the experiences of other men and women, a lot of it feels familiar. Most of the recommendations for combating impostor syndrome focus on accepting that it's a thing, that these feelings are common amongst high-achievers, and to try to externalize our contributions (because we apparently suck at realizing the scope and magnitude of our accomplishments).
 
 I take daily notes using a [dinky little script](https://github.com/technmsg/daily-log), usually in a past-tense format:
 
@@ -51,6 +51,6 @@ I take daily notes using a [dinky little script](https://github.com/technmsg/dai
 * attended sales meeting for Customer XYZ
 * created JIRA-1234: fix widget ABC, it's busted... again
 
-In an occupation filled with constant email and instant messaging, it's easy to forget about reading a particular article or taking a phone call. Not only do the daily notes provide me a written log of work activities, which is useful when doing end-of-quarter reviews (`grep -iR sales daily/`), but the action itself serves as informal [writing therapy](http://en.wikipedia.org/wiki/Writing_therapy). The little things don't feel like big accomplishments, but they matter.
+In an occupation filled with constant email and instant messaging, it's easy to forget about reading a particular article or taking a phone call. Not only do the daily notes provide me a written log of work activities, which is useful when doing end-of-quarter reviews (`grep -iR sales daily/`), but the action itself serves as informal [writing therapy](https://en.wikipedia.org/wiki/Writing_therapy). The little things don't feel like big accomplishments, but they matter.
 
 It helps.

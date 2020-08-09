@@ -2,12 +2,12 @@
 <!-- categories: essay -->
 <!-- tags: work,home -->
 <!-- published: 2015-08-23T10:45:00-05:00 -->
-<!-- updated: 2015-08-23T10:45:00-05:00 -->
+<!-- updated: 2020-08-09T10:45:00-05:00 -->
 <!-- summary: Lots of people work. Many in offices. Some in home offices. This one is mine. -->
 
 # My Home Office
 
-I’m a remote employee at [Cloudera](http://www.cloudera.com/). No matter what my business card says or what address I provide when registering for an event, I’m not assigned to any of our offices. I don’t have designated space at any of them, nor do I visit often. When I do work from one of our offices, I sit whenever there’s a [free chair](https://www.flickr.com/photos/techmsg/8536349200/) or [standing desk](https://www.flickr.com/photos/techmsg/16766313541).
+I’m a remote employee at [Cloudera](https://www.cloudera.com/). No matter what my business card says or what address I provide when registering for an event, I’m not assigned to any of our offices. I don’t have designated space at any of them, nor do I visit often. When I do work from one of our offices, I sit whenever there’s a [free chair](https://www.flickr.com/photos/techmsg/8536349200/) or [standing desk](https://www.flickr.com/photos/techmsg/16766313541).
 
 When I started at Cloudera, I had to set up my home office. There’s no right way to do this, what works for some people doesn’t work for others, both functionally and aesthetically.  Working from home has been an ongoing life experiment and over time my home setup has changed incrementally in response to my workflow. Some things worked, others didn’t.
 
@@ -25,7 +25,7 @@ Most importantly, it’s a dedicated space. I don’t use it for anything person
 
 I’m a big fan of the standing desk.
 
-Standing desks come in all shapes, sizes, and prices. Some just [put their desks up on blocks](https://www.flickr.com/photos/paulobrabo/5669754100/), others go for a more [architecturally pleasing but permanent option](https://www.flickr.com/photos/andreaslarsen/8248952915/), some just go straight to Amazon and buy [something fancy and heavy from Vari-desk](http://www.amazon.com/s/?field-keywords=varidesk&tag=v2mdc-20), and some just ask their employer to provide something and hope for the best.
+Standing desks come in all shapes, sizes, and prices. Some just put their desks up on blocks, others go for a more [architecturally pleasing but permanent option](https://www.flickr.com/photos/andreaslarsen/8248952915/), some just go straight to Amazon and buy [something fancy and heavy from Vari-desk](http://www.amazon.com/s/?field-keywords=varidesk&tag=v2mdc-20), and some just ask their employer to provide something and hope for the best.
 
 When I started [working from home](/v2/2015/08/23/working-from-home.html) I started out with [a typical sitting desk](https://www.flickr.com/photos/techmsg/8376910070/). I wasn’t sure if I was going to like the standing desk or not, so I cobbled one together with what I had on-hand rather than purchasing something new.
 

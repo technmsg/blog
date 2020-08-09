@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: gadgets,cables,audio,power -->
 <!-- published: 2015-09-03T08:45:00-05:00 -->
-<!-- updated: 2015-09-03T08:45:00-05:00 -->
+<!-- updated: 2020-08-09T08:45:00-05:00 -->
 <!-- summary: Seven simple, practical, and reasonably priced gadgets that have proven most useful. -->
 
 # Seven Gadgets of 2015
@@ -25,9 +25,9 @@ Yes, audio cables.
 
 Inexpensive cables usually means cheap build quality. That doesn’t mean you need to buy exorbitantly-priced gold-plated Monster what-have-you to reproduce sound accurately.
 
-You used to have to go to [Bill's Music](http://www.billsmusic.com/) or work with mail order vendors like [Sweetwater](http://www.sweetwater.com/) to buy audio cables of any quality. It was an ordeal. You'd either drive all over to see the product in-person and hope it was reasonably priced or buy blind over the phone and hope it was the right thing when it arrived via UPS. I guess things haven’t changed much, except that we’re more willing to buy things sight unseen over the Internet.
+You used to have to go to [Bill's Music](https://www.billsmusic.com/) or work with mail order vendors like [Sweetwater](https://www.sweetwater.com/) to buy audio cables of any quality. It was an ordeal. You'd either drive all over to see the product in-person and hope it was reasonably priced or buy blind over the phone and hope it was the right thing when it arrived via UPS. I guess things haven’t changed much, except that we’re more willing to buy things sight unseen over the Internet.
 
-[Monoprice](http://www.monoprice.com/) has been changing a lot of people's minds about the aforementioned adage. And now they're selling on Amazon, which means one less account to manage.
+[Monoprice](https://www.monoprice.com/) has been changing a lot of people's minds about the aforementioned adage. And now they're selling on Amazon, which means one less account to manage.
 
 I needed to replace some old noisy cables whose strain relief just wasn’t cutting it. You know the type, the ones you have to wiggle a bit to keep them static-free. I wasn't paying too much attention to the wire size; listed as 16 AWG, I was shocked when the cables arrived. They were enormously thick. The old Hosa 24 AWG look dainty by comparison. Now does that mean better conductivity? maybe, but it probably doesn’t matter from a line-level source.
 
@@ -110,7 +110,7 @@ $23 [via Amazon](http://www.amazon.com/dp/B000CITK8S/?tag=v2mdc-20)
 
 If you've never owned or cooked with a [cast iron dutch oven](http://www.amazon.com/dp/B000SOM5XS/?tag=v2mdc-20) of the non-enameled variety, the sheer beauty of these little [Lodge scrapers](http://www.amazon.com/dp/B0039UU9UO/?tag=v2mdc-20) will likely be lost on you.
 
-[Using and caring for cast iron kitchenware](https://www.lodgemfg.com/use-and-care/seasoned-cast-iron-use-and-care.asp) can take a little getting used to. Cast iron is damn-near indestructible stuff, but if not properly seasoned the contents of your meal can easily get baked on in such a way that it's a royal pain in the ass to remove (especially if you don't clean things immediately).
+[Using and caring for cast iron kitchenware](https://www.lodgecastiron.com/discover/cleaning-and-care/cast-iron/how-clean-cast-iron) can take a little getting used to. Cast iron is damn-near indestructible stuff, but if not properly seasoned the contents of your meal can easily get baked on in such a way that it's a royal pain in the ass to remove (especially if you don't clean things immediately).
 
 If you've gotten yourself into this situation -- as I have -- there comes a time when no amount of force applied to metal scrapers, scouring pads, or steel wool seems to help, at which point options become more limited:
 

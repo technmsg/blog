@@ -2,7 +2,7 @@
 <!-- categories: essay -->
 <!-- tags: work,career -->
 <!-- published: 2015-11-02T10:00:00-05:00 -->
-<!-- updated: 2015-11-02T15:14:00-05:00 -->
+<!-- updated: 2020-08-09T15:14:00-05:00 -->
 <!-- summary: A cobbled together stream of anecdotal thoughts about finding balance between life and work. -->
 
 # Finding a Balance
@@ -11,7 +11,7 @@ When I interview someone, I always include time for the candidate to ask me ques
 
 When it comes to work-life balance, I think candidates are asking the wrong question.
 
-When looking at work-life balance, by all means evaluate a company's policies and outlook toward benefits, but also habits of the company's employees. There's usually some degree of disconnect between the policy and the culture. For example, [unlimited paid leave doesn't matter if employees aren't comfortable taking it](http://qz.com/118732/unlimited-vacation-time-is-better-in-theory-than-in-practice/). The lavish perks like free lunches, massage chairs, and gaming tables look great in the hiring brochure but are merely aesthetic if employees feel so overwhelmed with emails and meetings that they don't get to enjoy them. Nor is the ability to work from home a benefit if employees feel pressured either by management or culture to be "always on" long after the work day is over.
+When looking at work-life balance, by all means evaluate a company's policies and outlook toward benefits, but also habits of the company's employees. There's usually some degree of disconnect between the policy and the culture. For example, [unlimited paid leave doesn't matter if employees aren't comfortable taking it](https://qz.com/118732/unlimited-vacation-time-is-better-in-theory-than-in-practice/). The lavish perks like free lunches, massage chairs, and gaming tables look great in the hiring brochure but are merely aesthetic if employees feel so overwhelmed with emails and meetings that they don't get to enjoy them. Nor is the ability to work from home a benefit if employees feel pressured either by management or culture to be "always on" long after the work day is over.
 
 Candidates would be better served by asking to speak with one or two people who *have* the job they are applying for and asking them about their role, work expectations as they see them, and daily habits and routine.
 
@@ -34,7 +34,7 @@ Specifics that I can related to.
 
 > "Amazon"
 
-I've [read about the issues at Amazon](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html), heard some stories second-hand, but can't say for sure.
+I've [read about the issues at Amazon](https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html), heard some stories second-hand, but can't say for sure.
 
 > "I lack one right now. My time card for this week is already clocking in at 46.5, and it's only Thursday."
 
@@ -46,7 +46,7 @@ So true and a fabulously stereotypical image of a software engineer writing unit
 
 ## We do this to ourselves
 
-We're our own worst enemy when it comes to balancing work and life. We find ourselves glued to our phones after we leave the office, returning calls whenever we're in the car, and answering work emails at all hours. We stupidly buy into [the hype that we've got to be busy/swamped in order to be productive](http://www.huffingtonpost.com/entry/myth-of-busyness_55ffffc9e4b08820d91939cf) or at least appear that way.
+We're our own worst enemy when it comes to balancing work and life. We find ourselves glued to our phones after we leave the office, returning calls whenever we're in the car, and answering work emails at all hours. We stupidly buy into the hype that we've got to be busy/swamped in order to be productive or at least appear that way.
 
 It's our fault, though. The prevalence of mobile devices and high degree of connectivity that we enjoy are merely catalysts.
 
@@ -67,11 +67,11 @@ The lack of timecards, often touted as a benefit, is usually not in the best int
 * For managers, time cards can provide early warning signs that project efforts are taking a turn for the worst. I've heard that a lot of managers don't want their employees to know how many hours they're working.
 * For the employee, it's harder to plan out the workweek without a timecard. Planning is further muddied with mobile work devices, given that *any* time can become work time whether you're in or out of the office. It's also entirely too easy to work far more hours than you expected.
 
-More and more people are [working more than a 40 hour workweek](http://money.cnn.com/2015/04/30/pf/40-hour-workweek/), but at what cost to productivity and health? I'd rather work fewer more productive hours and retain the balance for restorative exercise, socializing, and play.
+More and more people are [working more than a 40 hour workweek](https://money.cnn.com/2015/04/30/pf/40-hour-workweek/), but at what cost to productivity and health? I'd rather work fewer more productive hours and retain the balance for restorative exercise, socializing, and play.
 
 I confess, it's nice not having to complete a timecard but I miss the structure it provided. A time card is a concrete indicator of how much time we're spending at work, if not an indicator of how many hours are going into the work (distractions and all). I find that I need to recreate structure in other ways to keep myself productive and minimize distractions, such as carving out blocks of time on my calendar.
 
-We routinely call out employees who put in the most billable hours or rack up the most frequent flyer miles, recognizing them for their contributions. Always with a sympathetic tone of *damn, that's a lot of time away* but rewarding them all the same. This isn't right. Working long hours is usually the sign of bad project management or a miscommunication of expectations, not dedication. Management is hard and the [management of technical employees is fundamentally different](http://whilefalse.blogspot.com/2015/10/notes-on-startup-engineering-management.html), but let's not paint over a negative and call it a positive. We ought to be offering our condolences to the employee and trying to figure out why we think it's so imperative that they're so busy all the time (hint: it probably isn't).
+We routinely call out employees who put in the most billable hours or rack up the most frequent flyer miles, recognizing them for their contributions. Always with a sympathetic tone of *damn, that's a lot of time away* but rewarding them all the same. This isn't right. Working long hours is usually the sign of bad project management or a miscommunication of expectations, not dedication. Management is hard and the [management of technical employees is fundamentally different](https://www.elidedbranches.com/2015/10/notes-on-startup-engineering-management.html), but let's not paint over a negative and call it a positive. We ought to be offering our condolences to the employee and trying to figure out why we think it's so imperative that they're so busy all the time (hint: it probably isn't).
 
 ## Feeling responsible isn't the problem
 
@@ -97,7 +97,7 @@ One author argues that millennials don't mind mixing their work life with their 
 
 We ought to have outlets and interests outside of work. Strike that, we *need* to have outlets and interests outside of work. Activities and relationships that fulfill us that we don't depend upon for income. Some place whether physical or mental where we can go to unplug, to disconnect from the tasks that we do for a living. Even if you love your job, time spent away is restorative and can even lead to breakthroughs.
 
-For [those passionate about their field](http://www.huffingtonpost.com/laura-probert-mpt/for-passionate-people-sick-of-being-told-about-work-life-balance_b_7956938.html), the type of people who love to tinker on the same kind of things on and off the clock, or those involved in instrinsicly meaningful work, that balance may be easier to find. Disconnecting is still important so that our passions don't fade as the line between work and personal interest blurs.
+For [those passionate about their field](https://www.huffpost.com/entry/for-passionate-people-sick-of-being-told-about-work-life-balance_b_7956938), the type of people who love to tinker on the same kind of things on and off the clock, or those involved in instrinsicly meaningful work, that balance may be easier to find. Disconnecting is still important so that our passions don't fade as the line between work and personal interest blurs.
 
 ## Making adjustments
 

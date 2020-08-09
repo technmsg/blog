@@ -2,22 +2,24 @@
 <!-- categories: howto -->
 <!-- tags: verizon,smtp,postfix,sendmail,relay -->
 <!-- published: 2015-01-28T10:26:00-05:00 -->
-<!-- updated: 2015-01-28T10:26:00-05:00 -->
+<!-- updated: 2020-08-09T10:26:00-05:00 -->
 <!-- summary: Configuring Postfix to use Verizon SMTP relay servers. -->
 
 # Verizon's Residential SMTP Blocking and Postfix
 
-Several years ago, in 2010, Verizon decided to block outgoing SMTP connections from their residential customers in an attempt to reduce [zombie spam](http://en.wikipedia.org/wiki/Zombie_%28computer_science%29). For those running Linux servers at home, it took [a little bit of effort](http://www.moundalexis.com/tm/2010/10/28/getting-past-verizons-residential-smtp-block-with-sendmail/) to get mail to flow through their SMTP relay.
+Note: Verizon has [retired their verizon.net email service entirely](https://www.verizon.com/support/residential/email?CMP=OTC_CON_OTH_22222_NA_20180328_NA_NM201800032_000013). This page remains for historical purposes only.
 
-At some point Verizon stood up [a new SMTP relay](http://verizon.com/emailsettings) at smtp.verizon.net, then decommissioned outgoing.verizon.com in March 2014.
+Several years ago, in 2010, Verizon decided to block outgoing SMTP connections from their residential customers in an attempt to reduce [zombie spam](https://en.wikipedia.org/wiki/Zombie_%28computer_science%29). For those running Linux servers at home, it took [a little bit of effort](http://www.moundalexis.com/tm/2010/10/28/getting-past-verizons-residential-smtp-block-with-sendmail/) to get mail to flow through their SMTP relay.
+
+At some point Verizon stood up a new SMTP relay at smtp.verizon.net, then decommissioned outgoing.verizon.com in March 2014.
 
 March 25th to be exact, since that's when I stopped getting email from one of the boxes I look after. I just noticed this week (some nine months later), so apparently I'm not looking after it too well. Oops.
 
 ## Sendmail Sucks
 
-Changing the relay host (or "smart host" in Sendmail parlance) is simple enough, but the new SMTP relay requires the connection to be authenticated using [SASL](http://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer) *and* protected by SSL/TLS. Smart idea, but [a little more difficult to implement using Sendmail](https://forums.verizon.com/t5/Verizon-net-Email/Change-to-smtp-verizon-com-from-outgoing-verizon-com-sendmail/td-p/618153).
+Changing the relay host (or "smart host" in Sendmail parlance) is simple enough, but the new SMTP relay requires the connection to be authenticated using [SASL](https://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer) *and* protected by SSL/TLS. Smart idea, but [a little more difficult to implement using Sendmail](https://forums.verizon.com/t5/Verizon-net-Email/Change-to-smtp-verizon-com-from-outgoing-verizon-com-sendmail/td-p/618153).
 
-After following several sets of instructions intended to get Sendmail connected to a local [stunnel](https://www.stunnel.org/index.html) instance, I kept ending up looking at the following [mail loop error](http://www.scalix.com/forums/viewtopic.php?f=2&t=30200):
+After following several sets of instructions intended to get Sendmail connected to a local [stunnel](https://www.stunnel.org/index.html) instance, I kept ending up looking at the following [mail loop error](https://www.scalix.com/forums/viewtopic.php?f=2&t=30200):
 
 	SYSERR(root) config error: mail loops back to me (MX problem)
 
@@ -27,7 +29,7 @@ I threw in the towel, installed [Postfix](http://www.postfix.org/), and was up a
 
 ## Postfix Rocks
 
-What follows is largely from [a decade-old old relay forum](http://www.dslreports.com/forum/remark,15963982?hilite=mail+server), explained a little more thoroughly. The examples assume Red Hat or CentOS, but the Postfix configuration pieces should be fine no matter your operating system.
+What follows is largely from [a decade-old old relay forum](https://www.dslreports.com/forum/remark,15963982?hilite=mail+server), explained a little more thoroughly. The examples assume Red Hat or CentOS, but the Postfix configuration pieces should be fine no matter your operating system.
 
 Install Postfix and stunnel, then enable Postfix's startup scripts:
 
@@ -119,7 +121,7 @@ You're probably trying to use a secondary account or your credentials aren't cor
 
 	Jan 28 03:59:45 applesauce postfix/smtp[31339]: 9D2B91D9C74: to=<test@flatbedmoneytruck.org>, relay=127.0.0.1[127.0.0.1], delay=1360, status=bounced (host 127.0.0.1[127.0.0.1] said: 550 5.1.8 invalid/host-not-in-DNS return address not allowed (in reply to MAIL FROM command))
 
-Does your server's hostname resolve publicly? Verizon requires all mail envelopes have a valid return address, which means a valid [A NAME record](http://support.dnsimple.com/articles/a-record/). It doesn't appear that the record has to resolve to the host that's sending the mail, but it has to resolve to *something*.
+Does your server's hostname resolve publicly? Verizon requires all mail envelopes have a valid return address, which means a valid [A NAME record](https://support.dnsimple.com/articles/a-record/). It doesn't appear that the record has to resolve to the host that's sending the mail, but it has to resolve to *something*.
 
 If you aren't in a position to change your server's hostname, edit `/etc/postfix/main.cf` and configure `myhostname` to be a publicly resolveable domain name.
 
