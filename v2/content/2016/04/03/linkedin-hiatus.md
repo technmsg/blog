@@ -2,7 +2,7 @@
 <!-- categories: essay -->
 <!-- tags: linkedin -->
 <!-- published: 2015-10-05T20:15:00-05:00 -->
-<!-- updated: 2016-04-03T10:57:00-05:00 -->
+<!-- updated: 2020-08-09T10:57:00-05:00 -->
 <!-- summary: After a year-long hiatus, I'm back on LinkedIn. Here's what I missed. -->
 
 # LinkedIn Hiatus
@@ -122,7 +122,7 @@ Could these decisions bite me in the ass if/when I'm *looking* for employment? S
 
 After a year-long hiatus, I'm back on LinkedIn. Kinda sorta.
 
-My [LinkedIn profile](https://www.linkedin.com/in/moundalexis) has been updated with a more detailed work history. I've added links to [my Twitter account](https://twitter.com/technmsg), [my presentations on SlideShare](http://www.slideshare.net/technmsg) (which LinkedIn now owns), and [my blog](/v2/).
+My [LinkedIn profile](https://www.linkedin.com/in/moundalexis) has been updated with a more detailed work history. I've added links to [my Twitter account](https://twitter.com/technmsg), [my presentations on SlideShare](https://www.slideshare.net/technmsg) (which LinkedIn now owns), and [my blog](/v2/).
 
 I used to purposefully exclude these things because they weren't strictly work related. I used to believe that professionalism was largely the absence of personal interests, but now I believe that a healthy career includes a mixture of both. I can certainly separate the two when appropriate, but I'd prefer a prospective employer be aware of the whole picture. If they can't handle the whole picture, it's probably not the right place for me.
 
