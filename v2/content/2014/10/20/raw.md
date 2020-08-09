@@ -2,12 +2,12 @@
 <!-- categories: blurbs -->
 <!-- tags: photography,raw,memories -->
 <!-- published: 2014-10-20T22:39:00-05:00 -->
-<!-- updated: 2014-10-20T22:39:00-05:00 -->
+<!-- updated: 2020-08-09T22:39:00-05:00 -->
 <!-- summary: I don't shoot RAW and I'm not sorry. -->
 
 # I Don't Shoot RAW
 
-I don't shoot [RAW](http://en.wikipedia.org/wiki/Raw_image_format), which means I'll always be seen as an amateur photographer.
+I don't shoot [RAW](https://en.wikipedia.org/wiki/Raw_image_format), which means I'll always be seen as an amateur photographer.
 
 That's okay.
 
