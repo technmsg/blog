@@ -19,7 +19,7 @@ All seven of these items have proven useful to me over the year.
 
 ## 1. Monoprice XLR-RCA 16AWG Cables
 
-<a href="http://www.amazon.com/gp/product/B001VLW398/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001VLW398&linkCode=as2&tag=v2mdc-20&linkId=3WPJGE3HJDWF6LRP"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001VLW398&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B001VLW398" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B001VLW398/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001VLW398&linkCode=as2&tag=v2mdc-20&linkId=3WPJGE3HJDWF6LRP"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001VLW398&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B001VLW398" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Yes, audio cables.
 
@@ -33,39 +33,39 @@ I needed to replace some old noisy cables whose strain relief just wasn’t cutt
 
 More important is the more-than-ample strain relief, meaning less stress on the conductors over time and no more scratchy connections between media output and console mic inputs.
 
-$10/each [via Amazon](http://www.amazon.com/dp/B001VLW398/?tag=v2mdc-20)
+$10/each [via Amazon](https://www.amazon.com/dp/B001VLW398/?tag=v2mdc-20)
 
 ## 2. TS-836A Meter
 
-<a href="http://www.amazon.com/gp/product/B00E945SJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00E945SJG&linkCode=as2&tag=v2mdc-20&linkId=H6QMBVABBATIZGDT"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E945SJG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B00E945SJG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00E945SJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00E945SJG&linkCode=as2&tag=v2mdc-20&linkId=H6QMBVABBATIZGDT"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E945SJG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B00E945SJG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Around the time [I installed solar PV panels on my roof](/v2/solar/), I picked up this little power meter to [track down idle/standby/phantom electrical draw](/v2/2015/01/27/standby-consumption.html) from the electronics around my house.
 
-The [TS-836A](http://www.amazon.com/dp/B00E945SJG/?tag=v2mdc-20) is easy to use, has a large LCD display, and provides real-time wattage, current, and voltage, time spent monitoring, as well as kilowatt-hours since the unit was first plugged in. Rather than relying on the instant usage, I typically measure electrical usage over a period of a few days or weeks to get a better idea of usage over time. If you plug in your cost per kilowatt-hour it’ll even calculate the cost in dollars and cents for you.
+The [TS-836A](https://www.amazon.com/dp/B00E945SJG/?tag=v2mdc-20) is easy to use, has a large LCD display, and provides real-time wattage, current, and voltage, time spent monitoring, as well as kilowatt-hours since the unit was first plugged in. Rather than relying on the instant usage, I typically measure electrical usage over a period of a few days or weeks to get a better idea of usage over time. If you plug in your cost per kilowatt-hour it’ll even calculate the cost in dollars and cents for you.
 
 An addictive little gadget that's more than paid for itself in energy savings.
 
-$16 [via Amazon](http://www.amazon.com/dp/B00E945SJG/?tag=v2mdc-20)
+$16 [via Amazon](https://www.amazon.com/dp/B00E945SJG/?tag=v2mdc-20)
 
 ## 3. Black & Decker Airstation
 
-<a href="http://www.amazon.com/gp/product/B000IE0YIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000IE0YIQ&linkCode=as2&tag=v2mdc-20&linkId=JVBDJVCKQ3HX5PIN"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000IE0YIQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B000IE0YIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B000IE0YIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000IE0YIQ&linkCode=as2&tag=v2mdc-20&linkId=JVBDJVCKQ3HX5PIN"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000IE0YIQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B000IE0YIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The air compressors that plug into the accessory outlet in your car do alright for bike tires, basketballs, and pool floats, but I find that they don't have enough oomph to fill car or motorcycle tires. I've done it, but it takes forever, the compressor gets all hot, and you've got the sneaking suspicion that your car battery is being drained to the point of needing a jump-start.
 
 I wanted an air compressor that would plug into a wall outlet.
 
-I've been pleased with the [Airstation](http://www.amazon.com/dp/B000IE0YIQ/?tag=v2mdc-20). It's small, a little bigger than a shoe box. Much smaller than a pancake air compressor at less than half the cost. Relatively quiet operation, too. Not that the noise matters, since you don't need to stand around watching the gauge. Once you set the dial to the desired pressure, you just turn the thing on and let it go, it shuts off automatically when the desired pressure is reached.
+I've been pleased with the [Airstation](https://www.amazon.com/dp/B000IE0YIQ/?tag=v2mdc-20). It's small, a little bigger than a shoe box. Much smaller than a pancake air compressor at less than half the cost. Relatively quiet operation, too. Not that the noise matters, since you don't need to stand around watching the gauge. Once you set the dial to the desired pressure, you just turn the thing on and let it go, it shuts off automatically when the desired pressure is reached.
 
 And it plugs into the car's DC outlet too, just in case.
 
-$43 [via Amazon](http://www.amazon.com/dp/B000IE0YIQ/?tag=v2mdc-20)
+$43 [via Amazon](https://www.amazon.com/dp/B000IE0YIQ/?tag=v2mdc-20)
 
 ## 4. ThermiPaq Pain Wrap
 
-<a href="http://www.amazon.com/gp/product/B0089YXOSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0089YXOSY&linkCode=as2&tag=v2mdc-20&linkId=ZE4EZSEL2CKMTO75"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089YXOSY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B0089YXOSY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B0089YXOSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0089YXOSY&linkCode=as2&tag=v2mdc-20&linkId=ZE4EZSEL2CKMTO75"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089YXOSY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B0089YXOSY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Not much to look at, the [ThermiPaq](http://www.amazon.com/dp/B0089YXOSY/?tag=v2mdc-20) is a handy reusable heating wrap that’s filled with an aromatic clay compound. Forty-five seconds in the microwave and this thing will put out a steady supply of muscle ache relieving heat for 20 minutes.
+Not much to look at, the [ThermiPaq](https://www.amazon.com/dp/B0089YXOSY/?tag=v2mdc-20) is a handy reusable heating wrap that’s filled with an aromatic clay compound. Forty-five seconds in the microwave and this thing will put out a steady supply of muscle ache relieving heat for 20 minutes.
 
 Supposedly you can throw it in the freezer and use as a cold wrap, although I haven’t tried it.
 
@@ -74,11 +74,11 @@ I used this thing extensively after slipping a disk in my lower spine. Two notes
 1. Similar to how some food continues to transfer heat to the container after removal from the microwave, the exterior of the wrap continues to warm for a few minutes. If you heat it to the point where the outside feels hot to your hand, you might end up burning yourself when you apply it to a more sensitive area.
 2. When they say don't reheat within 3-60 minutes, they're serious. I've actually bought two of these, having accidentally overheated one to the point of explosion. One that I didn't own.
 
-$20 [via Amazon](http://www.amazon.com/dp/B0089YXOSY/?tag=v2mdc-20)
+$20 [via Amazon](https://www.amazon.com/dp/B0089YXOSY/?tag=v2mdc-20)
 
 ## 5. Raspberry Pi B+
 
-<a href="http://www.amazon.com/gp/product/B00TFV5QTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00TFV5QTA&linkCode=as2&tag=v2mdc-20&linkId=FAG362T6P2NF7GE7"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TFV5QTA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B00TFV5QTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00TFV5QTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00TFV5QTA&linkCode=as2&tag=v2mdc-20&linkId=FAG362T6P2NF7GE7"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TFV5QTA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B00TFV5QTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The [Raspberry Pi](https://www.raspberrypi.org/) has been a great source of fun for geeks, nerds, makers, students, and everyone in between. Small. Inexpensive. Versatile.
 
@@ -86,15 +86,15 @@ I set about to [replace a small business server with a Pi](/v2/2015/02/07/asteri
 
 The kit I bought included the Pi B+, a clear plastic case, and AC power adapter. While there are newer models available with improved CPU and memory specs, this one did what I needed it to do at a reasonable price point.
 
-$50 [via Amazon](http://www.amazon.com/dp/B00LAA91R2/?tag=v2mdc-20) (and don't forget [an SD card](http://www.amazon.com/dp/B010Q57T02/?tag=v2mdc-20))
+$50 [via Amazon](https://www.amazon.com/dp/B00LAA91R2/?tag=v2mdc-20) (and don't forget [an SD card](https://www.amazon.com/dp/B010Q57T02/?tag=v2mdc-20))
 
 ## 6. Battery Tender Junior
 
-<a href="http://www.amazon.com/gp/product/B000CITK8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000CITK8S&linkCode=as2&tag=v2mdc-20&linkId=NGR2MXBYDG4ZGV2U"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000CITK8S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B000CITK8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B000CITK8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000CITK8S&linkCode=as2&tag=v2mdc-20&linkId=NGR2MXBYDG4ZGV2U"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000CITK8S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B000CITK8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 For vehicles with alarms or vehicle recovery systems, it's pretty simple to kill batteries, especially if they’re left idle.
 
-The [Battery Tender Junior](http://www.amazon.com/dp/B000CITK8S/?tag=v2mdc-20) is a compact 12 volt battery charger/tender with some basic smarts: after charging the battery it'll flip into float/maintenance mode so as not to overcharge. Easy to use with alligator clips or more permanent ring-terminal harnesses (both included), you just attach to your vehicle's battery terminals, plug it in, and let it doing its thing. Status lights tell you what’s going on and a key to understanding the lights is provided right on the unit itself.
+The [Battery Tender Junior](https://www.amazon.com/dp/B000CITK8S/?tag=v2mdc-20) is a compact 12 volt battery charger/tender with some basic smarts: after charging the battery it'll flip into float/maintenance mode so as not to overcharge. Easy to use with alligator clips or more permanent ring-terminal harnesses (both included), you just attach to your vehicle's battery terminals, plug it in, and let it doing its thing. Status lights tell you what’s going on and a key to understanding the lights is provided right on the unit itself.
 
 Since purchasing I've kept my motorcycle battery on the tender whenever not in use. No problems. No hesitations or hiccups when starting up.
 
@@ -102,13 +102,13 @@ Electrical usage is fairly minimal. Using the power meter listed above, I estima
 
 The thing's got a five year warranty and while some Amazon reviewers say they go up sooner than that, even if it only lasts a year it's far cheaper than a new motorcycle battery.
 
-$23 [via Amazon](http://www.amazon.com/dp/B000CITK8S/?tag=v2mdc-20)
+$23 [via Amazon](https://www.amazon.com/dp/B000CITK8S/?tag=v2mdc-20)
 
 ## 7. Lodge Scraper
 
-<a href="http://www.amazon.com/gp/product/B0039UU9UO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0039UU9UO&linkCode=as2&tag=v2mdc-20&linkId=NGMGC724TRZVTMMH"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0039UU9UO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B0039UU9UO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B0039UU9UO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0039UU9UO&linkCode=as2&tag=v2mdc-20&linkId=NGMGC724TRZVTMMH"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0039UU9UO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B0039UU9UO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-If you've never owned or cooked with a [cast iron dutch oven](http://www.amazon.com/dp/B000SOM5XS/?tag=v2mdc-20) of the non-enameled variety, the sheer beauty of these little [Lodge scrapers](http://www.amazon.com/dp/B0039UU9UO/?tag=v2mdc-20) will likely be lost on you.
+If you've never owned or cooked with a [cast iron dutch oven](https://www.amazon.com/dp/B000SOM5XS/?tag=v2mdc-20) of the non-enameled variety, the sheer beauty of these little [Lodge scrapers](https://www.amazon.com/dp/B0039UU9UO/?tag=v2mdc-20) will likely be lost on you.
 
 [Using and caring for cast iron kitchenware](https://www.lodgecastiron.com/discover/cleaning-and-care/cast-iron/how-clean-cast-iron) can take a little getting used to. Cast iron is damn-near indestructible stuff, but if not properly seasoned the contents of your meal can easily get baked on in such a way that it's a royal pain in the ass to remove (especially if you don't clean things immediately).
 
@@ -124,4 +124,4 @@ The polycarbonate scrapers from Lodge are deceptively small, so small you'll be 
 
 Durable and effective, you'd be wrong on both counts. I know I was and I've got the clean cast iron cookware to prove it.
 
-$7 [via Amazon](http://www.amazon.com/dp/B0039UU9UO/?tag=v2mdc-20)
+$7 [via Amazon](https://www.amazon.com/dp/B0039UU9UO/?tag=v2mdc-20)

@@ -25,7 +25,7 @@ Most importantly, it’s a dedicated space. I don’t use it for anything person
 
 I’m a big fan of the standing desk.
 
-Standing desks come in all shapes, sizes, and prices. Some just put their desks up on blocks, others go for a more [architecturally pleasing but permanent option](https://www.flickr.com/photos/andreaslarsen/8248952915/), some just go straight to Amazon and buy [something fancy and heavy from Vari-desk](http://www.amazon.com/s/?field-keywords=varidesk&tag=v2mdc-20), and some just ask their employer to provide something and hope for the best.
+Standing desks come in all shapes, sizes, and prices. Some just put their desks up on blocks, others go for a more [architecturally pleasing but permanent option](https://www.flickr.com/photos/andreaslarsen/8248952915/), some just go straight to Amazon and buy [something fancy and heavy from Vari-desk](https://www.amazon.com/s/?field-keywords=varidesk&tag=v2mdc-20), and some just ask their employer to provide something and hope for the best.
 
 When I started [working from home](/v2/2015/08/23/working-from-home.html) I started out with [a typical sitting desk](https://www.flickr.com/photos/techmsg/8376910070/). I wasn’t sure if I was going to like the standing desk or not, so I cobbled one together with what I had on-hand rather than purchasing something new.
 
@@ -43,9 +43,9 @@ I love my standing desk, but just as we weren't meant to sit in a chair for eigh
 
 Today, I use a combination of products to combat fatigue, vary my posture, and enable movement throughout the day:
 
-* [Airex Balance Pad](http://www.amazon.com/gp/product/B0000AJ09L/?tag=v2mdc-20) - A little more expensive than the other products, but well worth it. These pads are springy but firm, retain their shape, and provide slight instability. The regular model is smooth but not slippery and provides enough room for both feet to rest comfortably shoulder-width apart.
-* [Gaiam Balance Balls](http://www.amazon.com/gp/product/B000VDTEDA/?tag=v2mdc-20) - Blue (75cm) and Green (65m) - Air-filled and very firm, perfect for sitting, bouncing, and countless other exercises.
-* [Air Stability Wobble Cushion](http://www.amazon.com/gp/product/B007LX6MPG/?tag=v2mdc-20) - These air-filled wobble cushions are, well, wobbly. Whether you stand on one cushion with both feet, one foot on and one off, or one foot on each cushion, your weight is constantly shifting around, especially if you bounce around while listening to music. I also like the foot massage that the spikes provide.
+* [Airex Balance Pad](https://www.amazon.com/gp/product/B0000AJ09L/?tag=v2mdc-20) - A little more expensive than the other products, but well worth it. These pads are springy but firm, retain their shape, and provide slight instability. The regular model is smooth but not slippery and provides enough room for both feet to rest comfortably shoulder-width apart.
+* [Gaiam Balance Balls](https://www.amazon.com/gp/product/B000VDTEDA/?tag=v2mdc-20) - Blue (75cm) and Green (65m) - Air-filled and very firm, perfect for sitting, bouncing, and countless other exercises.
+* [Air Stability Wobble Cushion](https://www.amazon.com/gp/product/B007LX6MPG/?tag=v2mdc-20) - These air-filled wobble cushions are, well, wobbly. Whether you stand on one cushion with both feet, one foot on and one off, or one foot on each cushion, your weight is constantly shifting around, especially if you bounce around while listening to music. I also like the foot massage that the spikes provide.
 * the boxes everything came in
 
 I spend most of my time standing, split between the Airex pad and [a pair of wobble cushions](https://www.flickr.com/photos/techmsg/20328112081/). Both were recommended by my chiropractor for doing stretches and strengthening my spine, but they quickly found their way into my office. In addition to helping with fatigue, both devices encourage motion. I take phone calls and watch WebEx events seated [on a balance ball](https://www.flickr.com/photos/techmsg/11625149653). In any case, I’m usually in motion.
@@ -68,7 +68,7 @@ While the whiteboard is good for quick things, I'm a big fan of a bare wall for 
 
 ## A Real Phone
 
-A phone with a quality speaker and physical mute button is an absolute must when you work from home. I like the venerable and very-unsupported Cisco 7940, since succeeded by the [7942G](http://www.amazon.com/gp/product/B000XUU7FA/?tag=v2mdc-20) back in 2009.
+A phone with a quality speaker and physical mute button is an absolute must when you work from home. I like the venerable and very-unsupported Cisco 7940, since succeeded by the [7942G](https://www.amazon.com/gp/product/B000XUU7FA/?tag=v2mdc-20) back in 2009.
 
 Why does this matter?
 
@@ -79,6 +79,6 @@ A slight rant follows.
 
 For the sake of humanity, really. Everyone hates hearing dozens of unmuted cell phones on conference calls, slightly less than hearing the kids screaming in the background thanks to some idle participant who can’t figure out how to mute their phone. Don't contribute to the problem and maybe good karma will come around.
 
-It doesn't even matter if the phone is a connected to a landline, a nifty little [OBi100 voice bridge](http://www.amazon.com/gp/product/B004LO098O/?tag=v2mdc-20) rigged up to your Google Voice account, some VOiP phone that plugs into your corporate network, or a [full blown Asterix PBX](/v2/2015/02/07/asterisk-on-pi.html) with all the bells and whistles... better audio and physical mute button.
+It doesn't even matter if the phone is a connected to a landline, a nifty little [OBi100 voice bridge](https://www.amazon.com/gp/product/B004LO098O/?tag=v2mdc-20) rigged up to your Google Voice account, some VOiP phone that plugs into your corporate network, or a [full blown Asterix PBX](/v2/2015/02/07/asterisk-on-pi.html) with all the bells and whistles... better audio and physical mute button.
 
 That is all.

@@ -7,7 +7,7 @@
 
 # Baofeng BF-888S - A Practical Review
 
-I was all set to write a review of the [Baofeng BF-888S two-way radio](http://amzn.to/2hpb5HJ), but then I found a much [more thorough Amazon review, more detailed than I ever could have hoped to write](https://www.amazon.com/review/R1QHHDAAXZHRDW/ref=as_li_ss_tl?ie=UTF8&ASIN=B007F7MZ04&channel=detail-glance&nodeID=2335752011&store=wireless&linkCode=ll2&tag=v2mdc-20&linkId=e84a793a21dd422ed5a7397b209e69f8). The review is from 2012, but it includes just about everything you'd want to know.
+I was all set to write a review of the [Baofeng BF-888S two-way radio](https://amzn.to/2hpb5HJ), but then I found a much [more thorough Amazon review, more detailed than I ever could have hoped to write](https://www.amazon.com/review/R1QHHDAAXZHRDW/ref=as_li_ss_tl?ie=UTF8&ASIN=B007F7MZ04&channel=detail-glance&nodeID=2335752011&store=wireless&linkCode=ll2&tag=v2mdc-20&linkId=e84a793a21dd422ed5a7397b209e69f8). The review is from 2012, but it includes just about everything you'd want to know.
 
 Go read that review, then come back for my commentary.
 
@@ -120,7 +120,7 @@ Consider what the FCC says about [General Mobile Radio Service](https://www.fcc.
 
 >If you operate a radio that has been approved under the GMRS rules, you must have a GMRS license. GMRS transmitters generally transmit at higher power levels than is allowed in the FRS and may have detachable antennas. (Note that some dual-service radios transmit with higher power on FRS channels 1 through 7; these radios can be used without a license only on FRS channels 8 through 14.)
 
-The dual-service radios mentioned are *everywhere* and sold to consumers across the United States. If your [Motorola Talkabout](http://amzn.to/2hOfcy2) has a pair of high/low transmit buttons, technically you'd need a license to use them with higher power on channels 1-7. In practice, most consumers don't know anything about FCC regulations and few bother to acquire the proper GMRS license.
+The dual-service radios mentioned are *everywhere* and sold to consumers across the United States. If your [Motorola Talkabout](https://amzn.to/2hOfcy2) has a pair of high/low transmit buttons, technically you'd need a license to use them with higher power on channels 1-7. In practice, most consumers don't know anything about FCC regulations and few bother to acquire the proper GMRS license.
 
 **Update 3/2018**
 
@@ -128,7 +128,7 @@ Effective September 27th, 2017 the FCC has [consolidated FRS/GMRS channels](http
 
 ### Programming can be tedious
 
-To program the BF-888S you'll need to buy an inexpensive [programming cable](http://amzn.to/2iFwOMs) which plugs into the BF-888S headphone/mic jack and connects to a USB port on your computer.
+To program the BF-888S you'll need to buy an inexpensive [programming cable](https://amzn.to/2iFwOMs) which plugs into the BF-888S headphone/mic jack and connects to a USB port on your computer.
 
 <a href="https://www.amazon.com/Baofeng-Programming-Cable-BF-888S-Driver/dp/B008RZJHJU/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=2BTWCJCME8QSPHMW6EVY&linkCode=li2&tag=v2mdc-20&linkId=19eb79e1bde10ac463b2716f60e89ce2" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008RZJHJU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a>
 
@@ -156,7 +156,7 @@ Important: When working with a new batch of radios, make sure you download the r
 
 ## Summary
 
-The [Baofeng BF-888S](http://amzn.to/2hpb5HJ) is a small, rugged, and capable UHF radio at an *amazingly* low price.
+The [Baofeng BF-888S](https://amzn.to/2hpb5HJ) is a small, rugged, and capable UHF radio at an *amazingly* low price.
 
 If you've got a GMRS license ($70 per 5 years per family) and do any kind of camping or hiking, what are you waiting for?
 
@@ -164,7 +164,7 @@ If you've got a license for business use in the 400-470 MHz spectrum, there's al
 
 If you've got the patience to program legal FRS frequencies and transmission power, be careful.
 
-If you'd prefer to skip the programming and have walkie talkies that work out of the box, Baofeng isn't for you. Stick to the [Motorola Talkabout](http://amzn.to/2hOfcy2) series, just don't claim ignorance of FCC regulations if you happen to broadcast on high power on FRS channels 1 through 7.
+If you'd prefer to skip the programming and have walkie talkies that work out of the box, Baofeng isn't for you. Stick to the [Motorola Talkabout](https://amzn.to/2hOfcy2) series, just don't claim ignorance of FCC regulations if you happen to broadcast on high power on FRS channels 1 through 7.
 
 Over and out.
 

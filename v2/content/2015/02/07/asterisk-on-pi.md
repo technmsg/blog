@@ -23,10 +23,10 @@ Getting going with Raspberry Pi was simple. Just buy the thing, flash the micro 
 
 Buying was simple enough, although I didn't do my homework and mistakenly ordered a standard SD card (the B+ uses micro SD).
 
-* [Raspberry Pi Model B+ (B Plus) With Clear Case](http://www.amazon.com/gp/product/B00LAA91R2/?tag=v2mdc-20)
-* [SanDisk Ultra 16GB UHS-I/Class 10 Micro SDHC Memory](http://www.amazon.com/gp/product/B00M55C0LK/?tag=v2mdc-20)
+* [Raspberry Pi Model B+ (B Plus) With Clear Case](https://www.amazon.com/gp/product/B00LAA91R2/?tag=v2mdc-20)
+* [SanDisk Ultra 16GB UHS-I/Class 10 Micro SDHC Memory](https://www.amazon.com/gp/product/B00M55C0LK/?tag=v2mdc-20)
 
-This lot ran $42.86 shipped via [Amazon Prime](http://www.amazon.com/gp/video/primesignup?tag=v2mdc-20).
+This lot ran $42.86 shipped via [Amazon Prime](https://www.amazon.com/gp/video/primesignup?tag=v2mdc-20).
 
 Did I mention that [it's incredibly small](https://www.flickr.com/photos/techmsg/16279746717/)?
 
@@ -44,9 +44,9 @@ Configuring FreePBX took a little bit of discovery since I was used to editing A
 
 Since I still had the old server on the network, I did have to change the Cisco 7940 configuration to use the Pi. I've yet to cut over the TFTP server, but it looks like it'll be fairly straightforward.
 
-I also wanted my cordless phones to be used alongside the SIP handsets, both for inbound and outbound calls. Previously they could be used to place/receive Google Voice calls using an [OBi100 VoIP bridge](http://www.amazon.com/gp/product/B004LO098O/?tag=v2mdc-20), but at the expense of Asterisk not receiving inbound calls (due to conflicting XMPP priority).
+I also wanted my cordless phones to be used alongside the SIP handsets, both for inbound and outbound calls. Previously they could be used to place/receive Google Voice calls using an [OBi100 VoIP bridge](https://www.amazon.com/gp/product/B004LO098O/?tag=v2mdc-20), but at the expense of Asterisk not receiving inbound calls (due to conflicting XMPP priority).
 
-As it turns out, the OBi100 is an incredibly versatile piece of hardware. Not only can it act as an XMPP client, it can act as a SIP client too. I should have figured. By [configuring the OBi100 to act as an extension](https://wiki.freepbx.org/pages/viewpage.action?pageId=4161592), I get the desired behavior. Note that the instructions reference the [OBi110](http://www.amazon.com/gp/product/B0045RMEPI?tag=v2mdc-20), but work fine with the OBi100.
+As it turns out, the OBi100 is an incredibly versatile piece of hardware. Not only can it act as an XMPP client, it can act as a SIP client too. I should have figured. By [configuring the OBi100 to act as an extension](https://wiki.freepbx.org/pages/viewpage.action?pageId=4161592), I get the desired behavior. Note that the instructions reference the [OBi110](https://www.amazon.com/gp/product/B0045RMEPI?tag=v2mdc-20), but work fine with the OBi100.
 
 The end solution in Asterisk looks like this:
 
@@ -65,7 +65,7 @@ Special thanks to Josh and Emily for assisting with trunk testing.
 
 With the transition from a desktop server to a Raspberry Pi, I didn't lose any functionality that I cared about. In fact, with the reconfiguration of the OBi I actually have improved functionality.
 
-While [power figures on the Pi](https://raspi.tv/2014/how-much-less-power-does-the-raspberry-pi-b-use-than-the-old-model-b) are available, there's no substitute for checking out actual usage as installed. So I pulled out the [power meter](http://www.amazon.com/gp/product/B00E945SJG/?tag=v2mdc-20) to verify. While idle:
+While [power figures on the Pi](https://raspi.tv/2014/how-much-less-power-does-the-raspberry-pi-b-use-than-the-old-model-b) are available, there's no substitute for checking out actual usage as installed. So I pulled out the [power meter](https://www.amazon.com/gp/product/B00E945SJG/?tag=v2mdc-20) to verify. While idle:
 
 * the Dell PowerEdge SC 440 consumes 100W, or 72 kWh ($9.36) per month
 * the Raspberry Pi B+ consumes 1.6W, or 1.5 kWh ($0.20) per month

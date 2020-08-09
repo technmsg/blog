@@ -13,7 +13,7 @@ Some notes about my affiliations, site privacy policy, legal mumbo jumbo, etc.
 
 I am currently employed by [Cloudera](https://www.cloudera.com/) and [Anne Arundel County Public Schools](https://www.aacps.org/), although the opinions expressed on this site are my own.
 
-I'm a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://www.amazon.com?tag=v2mdc-20).
+I'm a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](https://www.amazon.com?tag=v2mdc-20).
 
 In others words, if I link to a product on [Amazon](https://www.amazon.com?tag=v2mdc-20) the link includes an Associate ID code, so if you follow it and buy the product -- or anything else, from a [Canon 70D](https://www.amazon.com/gp/product/B00DMS0GTC/?tag=v2mdc-20) to [cat litter](https://www.amazon.com/gp/product/B004ANC83U/?tag=v2mdc-20) to [books on Hadoop Security](https://www.amazon.com/gp/product/1491900989/?tag=v2mdc-20) -- I might make a few bucks. Thankfully, I don't have any means to know who purchased what.
 

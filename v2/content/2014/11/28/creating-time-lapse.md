@@ -22,9 +22,9 @@ Without any formal training, there was a lot of trial and error involved. What f
 
 I tend use the following gear:
 
-* [GoPro HERO3+ Silver Edition](http://www.amazon.com/dp/B00F3F0EIU/?tag=v2mdc-20)
-* [GoPro HERO3 Skeleton Housing](http://www.amazon.com/dp/B00CSQYVWM/?tag=v2mdc-20)
-* [GoPro Jaws Flex Clamp Mount](http://www.amazon.com/dp/B00F19Q2R0/?tag=v2mdc-20)
+* [GoPro HERO3+ Silver Edition](https://www.amazon.com/dp/B00F3F0EIU/?tag=v2mdc-20)
+* [GoPro HERO3 Skeleton Housing](https://www.amazon.com/dp/B00CSQYVWM/?tag=v2mdc-20)
+* [GoPro Jaws Flex Clamp Mount](https://www.amazon.com/dp/B00F19Q2R0/?tag=v2mdc-20)
 * USB power adapter
 
 The battery on the GoPro only lasts a couple hours, so the skeleton housing is key for long (read: 6-8 hours) shoots; just plug in AC power and you're good to go. It also protects the lens against spit, sweat, and splashed beverages, something the open frame can't provide.

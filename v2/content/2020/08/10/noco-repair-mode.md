@@ -29,7 +29,7 @@ NOCO recommends running a battery through a normal charging cycle before attempt
 
 Connect the positive clamp, then the negative, then plug in the charger.
 
-Note: I plugged the charger into an inexpensive [power meter](http://www.amazon.com/gp/product/B00E945SJG/?tag=v2mdc-20) to observe the voltage, amperage, power, and total kWh used throughout the charging and subsequent repair process.
+Note: I plugged the charger into an inexpensive [power meter](https://www.amazon.com/gp/product/B00E945SJG/?tag=v2mdc-20) to observe the voltage, amperage, power, and total kWh used throughout the charging and subsequent repair process.
 
 <a href="https://www.flickr.com/photos/techmsg/50189009618/in/dateposted/" title="Measuring Battery Charging Current"><img src="https://live.staticflickr.com/65535/50189009618_d36701b6a4_z.jpg" width="640" height="480" alt="Measuring Battery Charging Current"></a>
 

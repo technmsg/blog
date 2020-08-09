@@ -31,15 +31,15 @@ Noise reduction and audio quality are both very good. The low end could be a bit
 
 <a href="https://www.amazon.com/dp/B00OGA2R7Y//ref=as_li_ss_il?&linkCode=li3&tag=v2mdc-20&linkId=3b5f613a26e70a5d36724e8c0e3211d7" target="_blank"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OGA2R7Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=li3&o=1&a=B00OGA2R7Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The headphone cable is wonderfully lengthy and has a small control panel that contains a better-than-expected microphone, volume controls, and mute button. One obnoxious part, the mic/line cables are different for Android and Apple devices. *Either cable will work equally well for listening* no matter what device you have, but the volume control (and presumably mic, need to confirm) will only work on the proper device. Can't really fault Bose for that, apparently both manufacturers decided on a slightly different cabling implementation, but it's something to know up-front. If you regularly use both and need controls/mic for both, I'd probably buy the [Samsung/Android-based headphone package](http://www.amazon.com/dp/B00VW7U8X4/?tag=v2mdc-20) and then buy the [Apple line/mic cable](http://www.amazon.com/dp/B00OGA2R7Y/?tag=v2mdc-20) ($18-30) separately. For some reason, the Samsung/Android cable is harder to find.
+The headphone cable is wonderfully lengthy and has a small control panel that contains a better-than-expected microphone, volume controls, and mute button. One obnoxious part, the mic/line cables are different for Android and Apple devices. *Either cable will work equally well for listening* no matter what device you have, but the volume control (and presumably mic, need to confirm) will only work on the proper device. Can't really fault Bose for that, apparently both manufacturers decided on a slightly different cabling implementation, but it's something to know up-front. If you regularly use both and need controls/mic for both, I'd probably buy the [Samsung/Android-based headphone package](https://www.amazon.com/dp/B00VW7U8X4/?tag=v2mdc-20) and then buy the [Apple line/mic cable](https://www.amazon.com/dp/B00OGA2R7Y/?tag=v2mdc-20) ($18-30) separately. For some reason, the Samsung/Android cable is harder to find.
 
 Battery life is very good. When they say the battery will last a day or so, they mean a day's worth of continuous usage... as in 24 hours. I routinely get two complete cross-country trips (Baltimore to Oakland) worth of usage on a single AAA battery, including the boarding, taxiing, and flight time. That's right around 24 hours. The headphones can be used without batteries, sans noise reduction.
 
 Treat yourself.
 
-$270-300 via Amazon ([Apple](http://www.amazon.com/dp/B00M1NEUKK/?tag=v2mdc-20) or [Samsung/Android](http://www.amazon.com/dp/B00VW7U8X4/?tag=v2mdc-20))
+$270-300 via Amazon ([Apple](https://www.amazon.com/dp/B00M1NEUKK/?tag=v2mdc-20) or [Samsung/Android](https://www.amazon.com/dp/B00VW7U8X4/?tag=v2mdc-20))
 
-Note: The newer [QC35 model is wireless](http://www.amazon.com/dp/B01E3SNO1G/?tag=v2mdc-20) but costs $350, is worse on its (rechargeable) batteries, and weighs nearly twice as much (10.9 oz). Not progress in my mind.
+Note: The newer [QC35 model is wireless](https://www.amazon.com/dp/B01E3SNO1G/?tag=v2mdc-20) but costs $350, is worse on its (rechargeable) batteries, and weighs nearly twice as much (10.9 oz). Not progress in my mind.
 
 ## 2. AmazonBasics 60-Inch Lightweight Tripod with Bag
 
@@ -55,7 +55,7 @@ The listed weight limit for the tripod is 6 pounds, which should be fine for mos
 
 For the occassional family portrait or outdoor trek, this is it.
 
-$25 [via Amazon](http://www.amazon.com/dp/B005KP473Q/?tag=v2mdc-20)
+$25 [via Amazon](https://www.amazon.com/dp/B005KP473Q/?tag=v2mdc-20)
 
 ## 3. Hedgehog Dryer Balls
 
@@ -67,24 +67,24 @@ The claim is that clothes dry faster too, although I haven't experienced that fi
 
 Have I mentioned that they're adorable?
 
-$7 [via Amazon](http://www.amazon.com/dp/B005U9Y71Y/?tag=v2mdc-20)
+$7 [via Amazon](https://www.amazon.com/dp/B005U9Y71Y/?tag=v2mdc-20)
 
 ## 4. Charge Only USB Cables
 
 <a href="https://www.amazon.com/dp/B0088HTYUE//ref=as_li_ss_il?&linkCode=li2&tag=v2mdc-20&linkId=dd91599c9c24ec7971d657ff1bd3eaef" target="_blank"><img border="0" align="right" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0088HTYUE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=li2&o=1&a=B0088HTYUE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-[PortaPow](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=portapow&linkCode=ll2&tag=v2mdc-20&linkId=0456c5127689ca4d38f5b1c7b8004c35) makes specialty charging cables for Android and Apple devices as well as line of [USB data blockers](http://www.amazon.com/dp/B00T0DW3F8/?tag=v2mdc-20) and [measurement tools](http://www.amazon.com/dp/B00NTU18KY/?tag=v2mdc-20) which I'd also recommend.
+[PortaPow](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=portapow&linkCode=ll2&tag=v2mdc-20&linkId=0456c5127689ca4d38f5b1c7b8004c35) makes specialty charging cables for Android and Apple devices as well as line of [USB data blockers](https://www.amazon.com/dp/B00T0DW3F8/?tag=v2mdc-20) and [measurement tools](https://www.amazon.com/dp/B00NTU18KY/?tag=v2mdc-20) which I'd also recommend.
 
 Charge-only cables allow your mobile device to charge without the possibility of data being transferred. If you find yourself borrowing a charger, using a public USB port, or even charging off a trusted coworker's laptop, you can ensure that your data will remain on your device (and perhaps equally important, that outside data can't be transferred to yours). For the frequent traveler, these are all too common scenarios.
 
 In addition to denying data transfer, these cables feature heftier 20 AWG wire and coil-friendly rubber jackets that have survived a lot of abuse over the past year of travel. They're color coded, so they stand out amongst your bag full of cables: red means charge-only data-blocking, green means data-ready. I also appreciate the longer 5 foot cables, rather than be tethered to the hotel night table.
 
-Many [other lengths and types](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=portapow&linkCode=ll2&tag=v2mdc-20&linkId=0456c5127689ca4d38f5b1c7b8004c35) are available for Android and Apple devices, or just use a [USB data blocker](http://www.amazon.com/dp/B00T0DW3F8/?tag=v2mdc-20) with your own cable.
+Many [other lengths and types](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=portapow&linkCode=ll2&tag=v2mdc-20&linkId=0456c5127689ca4d38f5b1c7b8004c35) are available for Android and Apple devices, or just use a [USB data blocker](https://www.amazon.com/dp/B00T0DW3F8/?tag=v2mdc-20) with your own cable.
 
 Travel safe.
 
-$8 for 5-foot micro-USB data-blocking [via Amazon](http://www.amazon.com/dp/B0088HTYUE/?tag=v2mdc-20)  
-$8 for 6.5-foot micro-USB charge+data [via Amazon](http://www.amazon.com/dp/B00VIJN0CM/?tag=v2mdc-20)
+$8 for 5-foot micro-USB data-blocking [via Amazon](https://www.amazon.com/dp/B0088HTYUE/?tag=v2mdc-20)  
+$8 for 6.5-foot micro-USB charge+data [via Amazon](https://www.amazon.com/dp/B00VIJN0CM/?tag=v2mdc-20)
 
 ## 5. Zookki Outdoor Sports Accessories Kit for GoPro Hero Cameras
 
@@ -98,13 +98,13 @@ The 3M adhesives are identical. The mounting hardware and pivot arms are indisti
 
 Bargain.
 
-$13-18 [via Amazon](http://www.amazon.com/dp/B00VYMG250/?tag=v2mdc-20)
+$13-18 [via Amazon](https://www.amazon.com/dp/B00VYMG250/?tag=v2mdc-20)
 
 ## 6. Logitech HD Pro Webcam C920
 
 <a href="https://www.amazon.com/dp/B006JH8T3S//ref=as_li_ss_il?&linkCode=li2&tag=v2mdc-20&linkId=2e3795ecef7844066be054b6b8e8cd9b" target="_blank"><img border="0" align="right" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006JH8T3S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=li2&o=1&a=B006JH8T3S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-If you work from home and need a webcam for video conferencing, look no further than the [Logitech C920](http://www.amazon.com/dp/B006JH8T3S/?tag=v2mdc-20). No more having to open the lid to your laptop to join a Hangout.
+If you work from home and need a webcam for video conferencing, look no further than the [Logitech C920](https://www.amazon.com/dp/B006JH8T3S/?tag=v2mdc-20). No more having to open the lid to your laptop to join a Hangout.
 
 If you thought your MacBook camera was good, prepare to be stunned. Officially the specs are that the C920 shoots widescreen 1080p, blah blah blah, but the fact is the video quality is so sharp that it consistently amazes the coworkers. I've lost track of the number of times coworkers and customers have asked what kind of camera I'm using. When the camera is activated there's a blue indicator light that illuminates. One minor nit, the autofocus can be slightly distracting to viewers who are accustomed to older webcams or laptop cameras.
 
@@ -114,5 +114,5 @@ Mounting is easy, but difficult to describe in words. There's a base that rests 
 
 Be seen.
 
-$49-65 [via Amazon](http://www.amazon.com/dp/B006JH8T3S/?tag=v2mdc-20)
+$49-65 [via Amazon](https://www.amazon.com/dp/B006JH8T3S/?tag=v2mdc-20)
 
