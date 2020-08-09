@@ -2,18 +2,18 @@
 <!-- categories: howto -->
 <!-- tags: oneplus,camera,support -->
 <!-- published: 2015-09-22T16:30:00-05:00 -->
-<!-- updated: 2015-09-22T16:30:00-05:00 -->
+<!-- updated: 2020-08-08T08:42:00-05:00 -->
 <!-- summary: If your OnePlus hardware is faulty, here's what it takes to get it replaced. -->
 
 # A Story of OnePlus Support
 
 I bought a [OnePlus One](https://en.wikipedia.org/wiki/OnePlus_One) (OPO) on January 23rd, 2015.
 
-I didn't really need it, but I had received an invite code and I knew that my aging [Nexus 4](https://en.wikipedia.org/wiki/Nexus_4) would need to be refreshed eventually. I liked the idea of trying out [CyanogenMod](http://www.cyanogenmod.org/) without having to flash my primary phone, so I figured *what the hell*.
+I didn't really need it, but I had received an invite code and I knew that my aging [Nexus 4](https://en.wikipedia.org/wiki/Nexus_4) would need to be refreshed eventually. I liked the idea of trying out [CyanogenMod](https://en.wikipedia.org/wiki/CyanogenMod) without having to flash my primary phone, so I figured *what the hell*.
 
 When it arrived, I marveled at its size. [The OPO is big](https://www.flickr.com/photos/techmsg/20415322173/in/album-72157657793043989/). Impressively lightweight given it's dimensions, but big. So after booting it once to make sure it worked, I returned it to its original packaging and put it on the shelf.
 
-I didn't start using my OPO until August 6th, almost eight months after I first received it. After acclimating to [Cyanogen OS](https://cyngn.com/cyanogen-os), things were great.
+I didn't start using my OPO until August 6th, almost eight months after I first received it. After acclimating to [Cyanogen OS](https://en.wikipedia.org/wiki/CyanogenMod#Cyanogen_OS), things were great.
 
 ## Lights, Camera, Oh Crap...
 
@@ -25,7 +25,7 @@ If I was quick I could switch to the front camera and take pictures successfully
 
 It felt like a hardware issue.
 
-But I read through [the OPO forums](https://forums.oneplus.net/forums/the-one/), sorted through all the cruft, just in case it was some weird firmware thing. I tried most of the fixes, but nothing worked, so I opened a case with [OnePlus Support](https://oneplus.net/support).
+But I read through [the OPO forums](https://forums.oneplus.com/forums/the-one/), sorted through all the cruft, just in case it was some weird firmware thing. I tried most of the fixes, but nothing worked, so I opened a case with [OnePlus Support](https://www.oneplus.com/support).
 
 ## OnePlus Support
 
@@ -96,7 +96,7 @@ Around the same time I had [engaged support via Twitter](https://twitter.com/One
 > 1. Try to disable the NuPlayer from the Developer options and restart the phone.
 > 2. Hold down the volume,power & back buttons for 30 seconds.
 > 3. Please uninstall the app and reinstall it.
-> 4. If still doesn't work, we better suggest to please perform a factory reset [https://oneplus.net/support/answer/how-do-i-perform-a-full-factory-reset](https://oneplus.net/support/answer/how-do-i-perform-a-full-factory-reset).
+> 4. If still doesn't work, we better suggest to please perform a factory reset [https://oneplus.net/support/answer/how-do-i-perform-a-full-factory-reset](https://support.oneplus.com/app/answers/detail/a_id/323/).
 
 I appended the results (or lack thereof) following their advice to the case.
 
@@ -215,7 +215,7 @@ Aug 19, 06:22
 >
 > To install OxygenOS on your OnePlus One, you need to flash the device. You may
 > follow the guidance of the latest update here:  
-> [https://forums.oneplus.net/threads/an-oxygenos-update.317098/](https://forums.oneplus.net/threads/an-oxygenos-update.317098/)
+> [https://forums.oneplus.net/threads/an-oxygenos-update.317098/](https://forums.oneplus.com/threads/an-oxygenos-update.317098/)
 >
 > Please also note that since OxygenOS is a product from OnePlus therefore it is
 > currently only available for OnePlus One.
@@ -256,7 +256,7 @@ Aug 21, 06:55
 >
 > For the official version of the Oxygen, here is the correct link:
 >
-> [https://forums.oneplus.net/threads/touchscreen-issues-fix.314410/](https://forums.oneplus.net/threads/touchscreen-issues-fix.314410/)
+> [https://forums.oneplus.net/threads/touchscreen-issues-fix.314410/](https://forums.oneplus.com/threads/touchscreen-issues-fix.314410/)
 >
 > Thank you very much for your time.
 >
@@ -493,7 +493,7 @@ Aug 27, 21:57
 > Would it be ok to ask a friend to assist you in installing the latest oxygen os
 > because it has the latest firmware that will address the issue on your phone.  
 > Here is the link:  
-> [https://forums.oneplus.net/threads/oxygen-1-0-2-release-with-stagefright-security-patches.340711/](https://forums.oneplus.net/threads/oxygen-1-0-2-release-with-stagefright-security-patches.340711/)
+> [https://forums.oneplus.net/threads/oxygen-1-0-2-release-with-stagefright-security-patches.340711/](https://forums.oneplus.com/threads/oxygen-1-0-2-release-with-stagefright-security-patches.340711/)
 >
 > Thanks a lot
 
@@ -530,7 +530,7 @@ This was about the time I saw that Cyanogen had started rolling out [Cyanogen OS
 
 Big surprise, it didn't fix the camera.
 
-Later that night, I had a friend help me unlock the handset. We flashed [Oxygen OS 1.0.2](https://forums.oneplus.net/threads/oxygen-1-0-2-release-with-stagefright-security-patches.340711/) using [the OnePlus-provided instructions](https://forums.oneplus.net/threads/oxygenos-is-here-installation-guide.289398/). Oxygen OS is a very slim build of stock Android, very quick and responsive, but the problem with the camera remained.
+Later that night, I had a friend help me unlock the handset. We flashed [Oxygen OS 1.0.2](https://forums.oneplus.com/threads/oxygen-1-0-2-release-with-stagefright-security-patches.340711/) using [the OnePlus-provided instructions](https://forums.oneplus.com/threads/oxygenos-is-here-installation-guide.289398/). Oxygen OS is a very slim build of stock Android, very quick and responsive, but the problem with the camera remained.
 
 ### #27
 
