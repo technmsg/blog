@@ -231,7 +231,7 @@ I don't always record my WebEx sessions, but when I do...
 
 I familiarize myself with the [recording process](https://help.webex.com/en-us/n62735y/Record-a-Webex-Meeting) *before* the call.
 
-I inform all participants that I'm planning to record the session *in advance* and then announce that I'm about to begin recording. In my state, it's illegal to record a conversation without the consent of all parties. The [recording laws in your state](https://www.rcfp.org/reporters-recording-guide/state-state-guide) may vary, but it's never a bad idea to give participants the opportunity to opt out.
+I inform all participants that I'm planning to record the session *in advance* and then announce that I'm about to begin recording. In my state, it's illegal to record a conversation without the consent of all parties. The [recording laws in your state](https://www.rcfp.org/reporters-recording-guide/) may vary, but it's never a bad idea to give participants the opportunity to opt out.
 
 I actually start recording. You'd be amazed how many people forget this step.
 
