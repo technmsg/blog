@@ -2,12 +2,12 @@
 <!-- categories: howto -->
 <!-- tags: talks,speaking,presentations -->
 <!-- published: 2015-10-09T21:19:00-05:00 -->
-<!-- updated: 2015-10-16T15:15:00-05:00 -->
+<!-- updated: 2020-08-09T15:15:00-05:00 -->
 <!-- summary: Teleconferencing is hard. If you haven't experienced some of these things, join more calls. -->
 
 # How to Be Awesome at WebEx
 
-There are an astounding number of people for whom teleconferencing is hard. It's an ironically comic yet depressing theme in Silicon Valley, the bastion of high tech gadgetry and software services, that teleconferencing remains a problem of [NP](https://en.wikipedia.org/wiki/NP_(complexity) proportions.
+There are an astounding number of people for whom teleconferencing is hard. It's an ironically comic yet depressing theme in Silicon Valley, the bastion of high tech gadgetry and software services, that teleconferencing remains a problem of [NP](https://en.wikipedia.org/wiki/NP_(complexity)) proportions.
 
 As comedian Chris Rock might have said if No Sex were about presence,
 
@@ -120,14 +120,14 @@ The commas harken back to the days of [Hayes-compatible modems](https://en.wikip
 
 The thing is, it doesn't work across the board.
 
-* For Android users, [w/p syntax](http://www.androidpolice.com/2010/05/10/how-to-add-hard-wait-and-soft-2-3-sec-pauses-to-your-android-contacts/) is supported, but [commas are stripped and can result in network errors](https://code.google.com/p/android/issues/detail?id=183973&q=comma&colspec=ID%20Type%20Status%20Owner%20Summary%20Stars)
+* For Android users, [w/p syntax](https://www.androidpolice.com/2010/05/10/how-to-add-hard-wait-and-soft-2-3-sec-pauses-to-your-android-contacts/) is supported, but [commas are stripped and can result in network errors](https://issuetracker.google.com/issues/37058406)
 * For CyanogenOS users, the comma syntax appears to work
 * For iPhone users, [,/; syntax](https://support.apple.com/en-us/HT202176) is supported
 * For Google Voice and Hangouts users, [it doesn't appear to be supported](https://plus.google.com/+KeithBarrett/posts/S5rzn8d7fru)
-* For those Skype, [pause characters are stripped](http://community.skype.com/t5/Other-features/DTMF-and-pause-characters/td-p/3652979)
+* For those Skype, pause characters are stripped
 * For those with home/business phones, it does nothing
 
-Adding pauses and login details can be useful for some ([less than 50% of mobile users](http://www.forbes.com/sites/dougolenick/2015/05/27/apple-ios-and-google-android-smartphone-market-share-flattening-idc/)), but it's really hard to read for everyone else. See above.
+Adding pauses and login details can be useful for some ([less than 50% of mobile users](https://www.forbes.com/sites/dougolenick/2015/05/27/apple-ios-and-google-android-smartphone-market-share-flattening-idc/)), but it's really hard to read for everyone else. See above.
 
 ## Disable Entry and Exit Tone
 
@@ -229,7 +229,7 @@ A huge benefit of WebEx is that it lets geographically dispersed groups meet. Th
 
 I don't always record my WebEx sessions, but when I do...
 
-I familiarize myself with the [recording process](https://support.webex.com/support/documentation/help/index.htm#12333.htm) *before* the call.
+I familiarize myself with the [recording process](https://help.webex.com/en-us/n62735y/Record-a-Webex-Meeting) *before* the call.
 
 I inform all participants that I'm planning to record the session *in advance* and then announce that I'm about to begin recording. In my state, it's illegal to record a conversation without the consent of all parties. The [recording laws in your state](https://www.rcfp.org/reporters-recording-guide/state-state-guide) may vary, but it's never a bad idea to give participants the opportunity to opt out.
 
