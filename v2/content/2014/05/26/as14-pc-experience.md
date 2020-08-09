@@ -2,14 +2,14 @@
 <!-- categories: essays -->
 <!-- tags: accumulo,conferences -->
 <!-- published: 2014-05-26T12:38:00-05:00 -->
-<!-- updated: 2014-11-29T16:31:00-05:00 -->
+<!-- updated: 2020-08-09T16:31:00-05:00 -->
 <!-- summary: My experience on the 2014 Accumulo Summit Program Committee. -->
 
 # Experiences of a Program Committee Member
 
 A few months ago I was asked to be on the Program Committee for the first annual [Accumulo Summit](http://accumulosummit.com/).
 
-While I've helped organize corporate events in the past for our employees, partners, and customers, this was my first opportunity to have a hand in planning a public conference. It was also a chance to contribute towards the development of the [Apache Accumulo](http://accumulo.apache.org) community, beyond the minor code and documentation fixes that I've contributed to date.
+While I've helped organize corporate events in the past for our employees, partners, and customers, this was my first opportunity to have a hand in planning a public conference. It was also a chance to contribute towards the development of the [Apache Accumulo](https://accumulo.apache.org) community, beyond the minor code and documentation fixes that I've contributed to date.
 
 Here's what was involved, from my perspective. 
 
@@ -23,7 +23,7 @@ So what does the program committee do, exactly? I see them as distinct from the 
 
 The **organizer** is responsible for the overall theme of the conference, sorting out the logistics of venue (rental, support services, audio/visual, attendee check-in, food service, etc), engaging sponsors, working with the media to do press releases, advertising the event, and probably a host of things that I've never had to think about.
 
-In our case there were two organizers that we worked with, one each from [ClearEdge IT](http://clearedgeit.com) and [Sqrrl](http://sqrrl.com) (the two corporate hosts of the event).
+In our case there were two organizers that we worked with, one each from [ClearEdge IT](http://clearedgeit.com) and Sqrrl (the two corporate hosts of the event).
 
 The **program committee** works to develop the content of the conference, namely parsing through all the submitted presentations or talks and figuring out which ones will be accepted and which ones will be declined.
 
