@@ -2,7 +2,7 @@
 <!-- categories: review -->
 <!-- tags: baofeng,ht,radios,gmrs,frs -->
 <!-- published: 2017-01-04T14:30:00-05:00 -->
-<!-- updated: 2018-04-03T10:00:00-05:00 -->
+<!-- updated: 2020-08-09T10:00:00-05:00 -->
 <!-- summary: A practical review of the Baofeng BF-888 handheld radio. Lots to like with a few caveats. -->
 
 # Baofeng BF-888S - A Practical Review
@@ -96,11 +96,11 @@ I'm not an expert in the field, but I can say the flexibility of programmable ra
 
 ### Easy to use improperly
 
-Mentioned in the [Amazon review](https://www.amazon.com/review/R1QHHDAAXZHRDW/ref=as_li_ss_tl?ie=UTF8&ASIN=B007F7MZ04&channel=detail-glance&nodeID=2335752011&store=wireless&linkCode=ll2&tag=v2mdc-20&linkId=e84a793a21dd422ed5a7397b209e69f8), but worth reiterating: **if you live in the United States, you absolutely can't use the Baofeng BF-888S without breaking FCC rules**. Not out of the box, anyways. The BF-888S ships from the factory with [sixteen default/preset frequencies](https://gist.github.com/klysium/11278351), most of which *cannot* be used without an FCC license and some of which will *probably* overlap with law enforcement and emergency services. Don't do it.
+Mentioned in the [Amazon review](https://www.amazon.com/review/R1QHHDAAXZHRDW/ref=as_li_ss_tl?ie=UTF8&ASIN=B007F7MZ04&channel=detail-glance&nodeID=2335752011&store=wireless&linkCode=ll2&tag=v2mdc-20&linkId=e84a793a21dd422ed5a7397b209e69f8), but worth reiterating: **if you live in the United States, you absolutely can't use the Baofeng BF-888S without breaking FCC rules**. Not out of the box, anyways. The BF-888S ships from the factory with [sixteen default/preset frequencies](https://gist.github.com/kennedy/11278351), most of which *cannot* be used without an FCC license and some of which will *probably* overlap with law enforcement and emergency services. Don't do it.
 
 There are many products sold in the US that can be misused in a way that breaks a law, rule, or regulation. This just happens to be one of those items. The product isn't inherently evil, it's just a UHF radio that can be programmed to operate on a wide range of frequencies (many of which happen to be regulated).
 
-Baofeng received FCC Part 90 certification for the BF-888S in October 2015 for use on commercial frequencies ([Miklor](http://www.miklor.com/BF888/888-FAQ.php), [FCC](https://apps.fcc.gov/oetcf/tcb/reports/Tcb731GrantForm.cfm?mode=COPY&RequestTimeout=500&tcb_code=&application_id=SH25rkP7lF2PVYZb3cklng%3D%3D&fcc_id=ZP5BF-888S)). That isn't the same as FCC Part 95 for [Family Radio Service](https://www.fcc.gov/general/family-radio-service-frs) (FRS), the part of the radio spectrum that most consumer walkie talkies operate on.
+Baofeng received FCC Part 90 certification for the BF-888S in October 2015 for use on commercial frequencies ([Miklor](https://www.miklor.com/BF888/888-FAQ.php), [FCC](https://apps.fcc.gov/oetcf/tcb/reports/Tcb731GrantForm.cfm?mode=COPY&RequestTimeout=500&tcb_code=&application_id=SH25rkP7lF2PVYZb3cklng%3D%3D&fcc_id=ZP5BF-888S)). That isn't the same as FCC Part 95 for [Family Radio Service](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/family-radio-service-frs) (FRS), the part of the radio spectrum that most consumer walkie talkies operate on.
 
 Breaking down what FCC says about FRS, piece by piece:
 
@@ -116,7 +116,7 @@ The BF-888S is capable of transmitting at higher power (2-5 watts, depending whe
 
 The BF-888S [does appear on the FCC website](https://apps.fcc.gov/oetcf/tcb/reports/Tcb731GrantForm.cfm?mode=COPY&RequestTimeout=500&tcb_code=&application_id=SH25rkP7lF2PVYZb3cklng%3D%3D&fcc_id=ZP5BF-888S), but only for Part 90. Not Part 95 (FRS).
 
-Consider what the FCC says about [General Mobile Radio Service](https://www.fcc.gov/general/general-mobile-radio-service-gmrs) (GMRS) regulations instead:
+Consider what the FCC says about [General Mobile Radio Service](https://www.fcc.gov/general-mobile-radio-service-gmrs) (GMRS) regulations instead:
 
 >If you operate a radio that has been approved under the GMRS rules, you must have a GMRS license. GMRS transmitters generally transmit at higher power levels than is allowed in the FRS and may have detachable antennas. (Note that some dual-service radios transmit with higher power on FRS channels 1 through 7; these radios can be used without a license only on FRS channels 8 through 14.)
 
@@ -132,7 +132,7 @@ To program the BF-888S you'll need to buy an inexpensive [programming cable](htt
 
 <a href="https://www.amazon.com/Baofeng-Programming-Cable-BF-888S-Driver/dp/B008RZJHJU/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=2BTWCJCME8QSPHMW6EVY&linkCode=li2&tag=v2mdc-20&linkId=19eb79e1bde10ac463b2716f60e89ce2" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008RZJHJU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a>
 
-Baofeng provides programming software for Windows, which I didn't care to deal with. Alternatively you can use [CHIRP](http://chirp.danplanet.com/projects/chirp/wiki/Home)...
+Baofeng provides programming software for Windows, which I didn't care to deal with. Alternatively you can use [CHIRP](https://chirp.danplanet.com/projects/chirp/wiki/Home)...
 
 >CHIRP is a FREE cross-platform, cross-radio programming tool. It works on Windows and Linux (and MacOSX *with a little work*). It supports a growing list of radios across several manufacturers and allows transferring of memory contents between them.
 
@@ -150,7 +150,7 @@ Using CHIRP on Mac OSX, this version of the BF-888S did not work with the cheap 
 
 [CHIRP bug #4249](https://chirp.danplanet.com/issues/4249) has a good discussion of the problem. If you're consistently seeing "radio refused to enter programming mode" errors from CHIRP there's a good chance your cable has a counterfeit Prolific chip.
 
-The [Linux-based LiveCD](http://sourceforge.net/projects/chirplivecd/) still works. Alternatively, the $18 [FTDI programming cable from Valley Enterprises](https://amzn.to/2IpEuzc) works flawlessly on OSX out of the box, without any reboots required, and has nice LED status lights to indicate transmit/receive. If you're programming more than a few radios, it's a useful time-saving upgrade.
+The [Linux-based LiveCD](https://sourceforge.net/projects/chirplivecd/) still works. Alternatively, the $18 [FTDI programming cable from Valley Enterprises](https://amzn.to/2IpEuzc) works flawlessly on OSX out of the box, without any reboots required, and has nice LED status lights to indicate transmit/receive. If you're programming more than a few radios, it's a useful time-saving upgrade.
 
 Important: When working with a new batch of radios, make sure you download the radio settings FIRST and then modify the CHIRP-created template with the relevant frequencies and settings. You can copy/paste frequencies from another template, but if you write an old template to a newer radio, settings could be lost.
 
