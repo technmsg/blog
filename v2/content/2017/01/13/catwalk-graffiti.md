@@ -7,6 +7,8 @@
 
 # Catwalk Graffiti - A Visual Tour
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 The catwalks above the auditorium of Severna Park High School were off limits to students without express direction and supervision of an adult staff member, which means it became rite of passage to leave your mark when nobody was looking. And over 57 years, plenty of students did just that.
 
 For students on tech crew and particularly those working on lighting, admission to the cats was particularly special. You had to be trusted to handle yourself well, conquer any fears of heights, and get accustomed to working in a strange and potentially dangerous environment. While the walking platforms were built atop the sturdy steel beams that supported the ceiling and roof, you still had to learn what surfaces would support your body weight. In recent years, that training also included proper use of [full body safety harnesses](https://amzn.to/2hcqPgQ), [shock absorbing lanyards](https://amzn.to/2i5tmxZ), and tethering techniques. It wasn't for everyone.

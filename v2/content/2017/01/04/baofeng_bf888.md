@@ -7,6 +7,8 @@
 
 # Baofeng BF-888S - A Practical Review
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 I was all set to write a review of the [Baofeng BF-888S two-way radio](https://amzn.to/2hpb5HJ), but then I found a much [more thorough Amazon review, more detailed than I ever could have hoped to write](https://www.amazon.com/review/R1QHHDAAXZHRDW/ref=as_li_ss_tl?ie=UTF8&ASIN=B007F7MZ04&channel=detail-glance&nodeID=2335752011&store=wireless&linkCode=ll2&tag=v2mdc-20&linkId=e84a793a21dd422ed5a7397b209e69f8). The review is from 2012, but it includes just about everything you'd want to know.
 
 Go read that review, then come back for my commentary.
@@ -167,4 +169,3 @@ If you've got the patience to program legal FRS frequencies and transmission pow
 If you'd prefer to skip the programming and have walkie talkies that work out of the box, Baofeng isn't for you. Stick to the [Motorola Talkabout](https://amzn.to/2hOfcy2) series, just don't claim ignorance of FCC regulations if you happen to broadcast on high power on FRS channels 1 through 7.
 
 Over and out.
-

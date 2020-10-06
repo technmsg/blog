@@ -19,6 +19,8 @@ Most of these items:
 
 All six of these items have proven useful to me over the year.
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 ## 1. Bose QuietComfort 25 Acoustic Noise Cancelling Headphones
 
 <a href="https://www.amazon.com/dp/B00VW7U8X4//ref=as_li_ss_il?&linkCode=li2&tag=v2mdc-20&linkId=c2f71df167ab3058d2f873a59fad2b31" target="_blank"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VW7U8X4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=li2&o=1&a=B00VW7U8X4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

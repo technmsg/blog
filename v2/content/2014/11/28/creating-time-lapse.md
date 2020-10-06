@@ -18,6 +18,8 @@ I've been shooting and stitching a lot of time-lapse frames together lately, in 
 
 Without any formal training, there was a lot of trial and error involved. What follows is the basic procedure I use to create time-lapse video.
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 ## Collecting the Imagery
 
 I tend use the following gear:

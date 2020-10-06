@@ -7,6 +7,8 @@
 
 # Standby Consumption
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 After going through process of [installing solar panels](/v2/solar/) on my roof, I started to wonder about the standby consumption of various electronic devices around the house. I'd read that idle/standby/phantom consumption can add up, so I purchased [an inexpensive power meter](https://www.amazon.com/gp/product/B00E945SJG/?tag=v2mdc-20) to measure the consumption of various devices.
 
 It took a few days here and there, caused a few disruptions to otherwise uninterrupted services, but I discovered that my idle usage wasn't nearly as high as I expected.

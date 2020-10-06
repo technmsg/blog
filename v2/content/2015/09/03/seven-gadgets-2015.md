@@ -17,6 +17,8 @@ Most of these items:
 
 All seven of these items have proven useful to me over the year.
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 ## 1. Monoprice XLR-RCA 16AWG Cables
 
 <a href="https://www.amazon.com/gp/product/B001VLW398/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001VLW398&linkCode=as2&tag=v2mdc-20&linkId=3WPJGE3HJDWF6LRP"><img align="right" border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001VLW398&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=v2mdc-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=v2mdc-20&l=as2&o=1&a=B001VLW398" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

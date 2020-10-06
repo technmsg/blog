@@ -7,6 +7,8 @@
 
 # Ford Battery Management System
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 The [Auto Start-Stop](https://owner.ford.com/support/how-tos/vehicle-features/energy-efficiency-and-fueling/auto-start-stop-technology.html) system on my 2017 Ford F-150 hadn't been working for a couple months. At a full stop with foot firmly on the brake, I'd see an "Engine On due to Vehicle Charging" message on the dashboard display.
 
 This nagging message, some driveway troubleshooting, and a few visits to my dealer's service department led me to discover Ford's Battery Management System (BMS).

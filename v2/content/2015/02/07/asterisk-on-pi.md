@@ -9,6 +9,8 @@
 
 In my [continuing quest](/v2/2015/01/27/standby-consumption.html) to [reduce my energy consumption](/v2/solar/), I decided to replace a [desktop sized server](https://www.google.com/search?q=dell+poweredge+sc440&tbm=isch) with a small [credit-card sized computer](https://www.raspberrypi.org/help/videos/).
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 ## The Server
 
 The server was primarily used as an off-site backup server for a client. Every night the server would kick off an rsync job via cron to pull updated content from the client's on-site file server. With the advent of cloud-based storage and backup, the client no longer had a need for the rsync-based solution.

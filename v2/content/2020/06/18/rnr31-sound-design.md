@@ -7,6 +7,8 @@
 
 # RNR Sound Design
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 Rock 'N Roll Revival (RNR) is a two act variety show performed in, produced by, and run primarily by high school students.
 
 Over the past couple years I've been responsible for RNR sound design. Despite many years in-house experience, seeking advice from and learning from those in the industry, I don't consider myself a professional. One perk of a long-running show is that we have flexibility to try new things, experiment with new technologies and equipment, and my students and I get to learn together.

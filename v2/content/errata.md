@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2014-11-10T13:31:00-05:00 -->
-<!-- updated: 2016-11-30T15:40:00-05:00 -->
+<!-- updated: 2020-10-06T18:30:00-05:00 -->
 <!-- summary: Site policies concerning affiliations, privacy policy, etc. -->
 
 # Errata #
@@ -13,11 +13,7 @@ Some notes about my affiliations, site privacy policy, legal mumbo jumbo, etc.
 
 I am currently employed by [Cloudera](https://www.cloudera.com/) and [Anne Arundel County Public Schools](https://www.aacps.org/), although the opinions expressed on this site are my own.
 
-I'm a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](https://www.amazon.com?tag=v2mdc-20).
-
-In others words, if I link to a product on [Amazon](https://www.amazon.com?tag=v2mdc-20) the link includes an Associate ID code, so if you follow it and buy the product -- or anything else, from a [Canon 70D](https://www.amazon.com/gp/product/B00DMS0GTC/?tag=v2mdc-20) to [cat litter](https://www.amazon.com/gp/product/B004ANC83U/?tag=v2mdc-20) to [books on Hadoop Security](https://www.amazon.com/gp/product/1491900989/?tag=v2mdc-20) -- I might make a few bucks. Thankfully, I don't have any means to know who purchased what.
-
-I'm a participant in the [SunPower Referral](https://us.sunpower.com/refer-friends-and-family/) program, which allows me to earn referral fees when you buy/lease a solar PV system from [SunPower](http://mbsy.co/sunpower/alexsolar) when you sign up using one of the respective links on the site.
+I am a member of various [Affiliate Programs](/v2/affiliates.html).
 
 ## Privacy ##
 

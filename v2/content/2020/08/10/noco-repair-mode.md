@@ -7,6 +7,8 @@
 
 # NOCO GENIUS Repair Mode
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 Taking the Repair mode for a spin using a [NOCO GENIUS 5](https://amzn.to/2BCVjce), attempting to recover an old battery. This is a follow-up to my previous [review of the NOCO GENIUS charger/tender series](/v2/2020/08/01/noco-genius.html).
 
 The accessory battery from a friend's Toyota hybrid was dying as soon as the hybrid system was disabled. He had already replaced the battery, so it had already been disconnected and removed from the vehicle. Perfect candidate for experimenting with the NOCO GENIUS charging and repair modes.

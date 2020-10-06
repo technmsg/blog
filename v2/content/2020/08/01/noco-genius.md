@@ -7,6 +7,8 @@
 
 # NOCO GENIUS - A Practical Review
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 NOCO markets their GENIUS line as an "automatic charger, battery maintainer, and battery delsulfator."
 
 A few words about my experience with the NOCO GENIUS line of chargers.

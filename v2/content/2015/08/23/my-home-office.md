@@ -13,6 +13,8 @@ When I started at Cloudera, I had to set up my home office. There’s no right w
 
 Here’s my current setup.
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 ## Physical Constraints
 
 My home office occupies a spare bedroom in my home. It’s a good sized 10x14 room, not enormous, but certainly larger than a typical office cube. Two windows provide ample natural light.

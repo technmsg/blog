@@ -7,6 +7,8 @@
 
 # Big Data Isn't For You
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 "Big Data" is a buzzword, for sure. Used heavily in academic papers, blog posts, conference presentations, and many marketing materials, Big Data means different things to different people.
 
 For me, it's a convenient way to refer to [Apache Hadoop](https://hadoop.apache.org/) and the [multitude of software components](http://bigdata.andreamostosi.name/) and services that have sprung up around it.

@@ -7,6 +7,8 @@
 
 # Eclectic Films
 
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
+
 I've been an [Amazon Prime](https://www.amazon.com/gp/video/primesignup/?ref_=assoc_tag_ph_1402131641212&ie=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=v2mdc-20&linkId=D3KUR6KA2VNXKDKY) member for at least four years. In the beginning I joined to save on shipping fees during the holiday season, but soon after Amazon offered up a selection of Instant Video to Prime members at no additional cost. While the selection is not as broad as Netflix, Amazon has made a number of deals with smaller studios to bring smaller non-mainstream films to new audiences. I like this, since it encourages you to watch something that you may have never heard of before.
 
 Though hidden within the guts of Amazon's recommendation system (almost like an Easter Egg), you *can* view [a listing of instant videos you've watched](https://www.amazon.com/gp/yourstore/iyr/ref=pd_ys_iyr_next?ie=UTF8&collection=watched), fifteen videos per page, in reverse chronological order.
