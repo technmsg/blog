@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2020-08-09T15:30:00-05:00 -->
+<!-- updated: 2021-01-17T09:00:00-05:00 -->
 <!-- summary: Part of the Going Solar series. The bottom line, how much did my solar PV install cost and how is it performing? -->
 
 # Going Solar: The Bottom Line
@@ -26,23 +26,23 @@ The system is designed to produce 114,400 kWh over its 25-year service lifetime.
 
 All in, the system cost was **$16,965**. That includes panels, inverter, materials, permits, labor, monitoring, service, postage for grant applications, etc.
 
-To date, I've received $10,190 back from numerous sources:
+To date, I've received $12,718 back from numerous sources:
 
 * $5,089 Residential Renewable Energy Tax Credit (30% of system cost)
 * $1,283 Solar Equipment Property Tax Credit (one time)
 * $1,000 Residential Clean Energy Grant Program (one time)
-* $992 in utility bill reductions (from energy I generated rather than bought)
-* $675 in SREC proceeds
+* $2,526 in utility bill reductions (from energy I generated rather than bought)
+* $1,148 in SREC proceeds
+* $1,000 in referral fees from Solar Energy World
 * $500 "thank you" gift card from [Solar Energy World](https://www.solarenergyworld.com/)
-* $500 in referral fees from Solar Energy World
 * $128 in credit from power production warranty
-* $22 in utility generation credits
+* $44 in utility generation credits
 
-That makes my out-of-pocket cost **$6,775**.
+That makes my out-of-pocket cost **$4,246**.
 
 I'm still expecting the following credits:
 
-* $2,350 in [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) sales over the first 14 years (assuming 40&cent; on the dollar of [SACP](https://www.srectrade.com/blog/srec-pricing/solar-alternative-compliance-payment-sacp)), although lately supply in Maryland has greatly exceeded demand, [impacting SREC market prices](https://www.srectrade.com/markets/rps/srec/maryland) in a major way
+* ongoing [SREC](https://en.wikipedia.org/wiki/Solar_Renewable_Energy_Certificate) proceeds
 * ongoing utility bill reductions
 * potential credits from the power production warranty
 
@@ -54,7 +54,7 @@ To date the IRS hasn't allowed for any exceptions to be made for SREC payments. 
 
 ### Energy
 
-Since installation and activation (about 24 months ago), my solar PV system has generated about 8,219 kWh.
+Since installation and activation (about 72 months ago), my solar PV system has generated about 23,000 kWh.
 
 #### After Three Months
 
@@ -80,10 +80,16 @@ Between incentives, reduction of utility payments, and the income from SREC sale
 
 My thoughts after two years with solar panels have been moved to a dedicated [Two Years with Solar](/v2/2017/02/07/solar-two-years.html) page.
 
+#### After Six Years
+
+My thoughts after six years with solar panels have been moved to a dedicated [Six Years with Solar](/v2/2021/01/17/solar-six-years.html) page.
+
 ### Problems
 
 In winter 2015 I experienced [an odd hardware failure](/v2/solar/inverter-replacement.html) after a particularly cold and nasty ice storm, where the inverter wouldn't sync for a few days. Solar Energy World came out to troubleshoot, got in touch with SunPower, and replaced the inverter a few days later. Sometimes motherboards go bad or get confused, I guess.
 
 I've seen the monitoring adapter stop reporting to SunPower. While it doesn't affect generation, the monitoring pages/apps are blank until I reboot the adapter (by unplugging it and plugging it back in again). The inverter appears to retain data from the previous day and the monitoring pages get filled in with the "missing" data. It's only happened twice.
 
-In winter of 2016 a blizzard dropped more than 30 inches of snow in an afternoon. While the panels and roof stood up to the additional weight, an [ice dam](https://www.icedamcompany.com/about-ice-dams/) formed on the rear of the house, in part due to the displacement of blown-in insulation during the installation process. As the ice melted it pushed the gutters away from the fascia board; after the ice dam was broken up the gutters and fascia receded, but will still need to be repaired or replaced.
+In winter of 2016 a blizzard dropped more than 30 inches of snow in an afternoon. While the panels and roof stood up to the additional weight, an [ice dam](https://www.icedamcompany.com/about-ice-dams/) formed on the rear of the house, in part due to the displacement of blown-in insulation during the installation process. As the ice melted it pushed the gutters away from the fascia board; after the ice dam was broken up the gutters and fascia receded, but needed to be repaired.
+
+Sometime in 2020 started losing data about previous years production. The monitoring console suggested it was a temporary display problem and that data was still being collected and stored, however the problem still persists. It's an mild inconvenience, but the production meter is still the source of truth for SREC production figures.

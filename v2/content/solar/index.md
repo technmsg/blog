@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2020-08-08T08:54:00-05:00 -->
+<!-- updated: 2021-01-17T09:00:00-05:00 -->
 <!-- summary: A multi-part essay about my experience buying and installing solar panels on my roof. -->
 
 # Going Solar
@@ -35,7 +35,7 @@ There's also a list of [frequently asked questions](/v2/solar/solar-faq.html).
 
 ## The Talk
 
-I was invited to speak about my experience with solar energy at the [O'Reilly Open Source Convention](https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/48709) in 2016. The [presentation slides](https://www.slideshare.net/technmsg/powered-by-the-sun-62161877) and [video](https://www.youtube.com/watch?v=FCeNer9F2wU) are available.
+I was invited to speak about my experience with solar energy at the O'Reilly Open Source Convention in 2016. The [presentation slides](https://www.slideshare.net/technmsg/powered-by-the-sun-62161877) and [video](https://www.youtube.com/watch?v=FCeNer9F2wU) are available.
 
 ## Parting Thoughts
 

@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2020-08-09T15:35:00-05:00 -->
+<!-- updated: 2021-01-17T09:00:00-05:00 -->
 <!-- summary: Part of the Going Solar series. There are many solar vendors to choose from. This is how I picked mine. -->
 
 # Going Solar: Picking a Vendor
@@ -45,7 +45,7 @@ Perhaps that's too small a system for Kenergy to be profitable, but a response w
 
 ### Green Street Solar
 
-[Green Street Solar](https://greenstreetsolar.com/) is based in Maryland. I [signed up for a free consultation](https://greenstreetsolar.com/free-estimate.htm) with some very basic lead information (name, address, phone, and email), received a confirmation email, then never heard back.
+[Green Street Solar](https://greenstreetsolar.com/) is based in Maryland. I signed up for a free consultation with some very basic lead information (name, address, phone, and email), received a confirmation email, then never heard back.
 
 I started to wonder how many of these vendors were fly-by-night or whether business was *so* good that they could afford to blow off non-preferred prospects.
 
@@ -57,7 +57,7 @@ I started to wonder how many of these vendors were fly-by-night or whether busin
 
 [Solar Energy World](https://www.solarenergyworld.com) is based in Elkridge, Maryland. Besides supporting local businesses, there's some comfort in knowing that I can drive over and talk to someone if I have a problem, and that warranty support isn't too far away (and isn't going to be subcontracted). They use solar power themselves atop their office and warehouse.
 
-They also offer periodic [solar workshops](https://www.solarenergyworld.com/for-home/attend-our-solar-workshop/) where you can tour the facility and see the panels up close. I went to one of these events and signed up after the tour to schedule a consultation.
+They also offer periodic [solar workshops](https://www.solarenergyworld.com/solar-energy-world-events/) where you can tour the facility and see the panels up close. I went to one of these events and signed up after the tour to schedule a consultation.
 
 After a fair bit of research, this is the vendor I chose.
 
