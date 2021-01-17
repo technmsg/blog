@@ -1,19 +1,19 @@
 <!-- title: Six Years with Solar -->
 <!-- categories: essay -->
 <!-- tags: solar -->
-<!-- published: 2021-01-17T15:30:00-05:00 -->
-<!-- updated: 2021-01-17T15:30:00-05:00 -->
+<!-- published: 2021-01-17T09:30:00-05:00 -->
+<!-- updated: 2021-01-17T09:30:00-05:00 -->
 <!-- summary: In the first six years, solar panels provided 87% of my home's electicity. -->
 
 # Six Years with Solar
 
 It's been six years since I [installed solar panels on my roof](/v2/solar/) and things are still going great:
 
-* 87% of my home's electricity needs have been provided by the sun.
+87% of my home's electricity needs have been provided by the sun.
 
-* 75% of my installation costs have been recouped through incentives, reduced reliance on my utility's electric supply, SREC sales, and referral bonuses from my installer.
+75% of my installation costs have been recouped through incentives, reduced reliance on my utility's electric supply, SREC sales, and referral bonuses from my installer.
 
-* $0.18 per kilowatt-hour is my effective cost for electricity that the solar PV system has produced so far, including all taxes and fees. That rate is falling about one cent per quarter; if that trend continues the system could potentially pay itself off in another 4-5 years.
+$0.18 per kilowatt-hour is my effective cost for electricity that the solar PV system has produced so far, including all taxes and fees. That rate is falling about one cent per quarter; if that trend continues the system could potentially pay itself off in another 4-5 years.
 
 What else has happened?
 

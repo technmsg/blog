@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2021-01-17T09:00:00-05:00 -->
+<!-- updated: 2021-01-17T09:30:00-05:00 -->
 <!-- summary: Part of the Going Solar series. There are many solar vendors to choose from. This is how I picked mine. -->
 
 # Going Solar: Picking a Vendor

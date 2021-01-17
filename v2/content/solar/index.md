@@ -2,7 +2,7 @@
 <!-- categories: howto,essay -->
 <!-- tags: solar -->
 <!-- published: 2014-12-07T15:52:00-05:00 -->
-<!-- updated: 2021-01-17T09:00:00-05:00 -->
+<!-- updated: 2021-01-17T09:30:00-05:00 -->
 <!-- summary: A multi-part essay about my experience buying and installing solar panels on my roof. -->
 
 # Going Solar
