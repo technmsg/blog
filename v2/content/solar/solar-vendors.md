@@ -7,7 +7,7 @@
 
 # Going Solar: Picking a Vendor
 
-This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](http://mbsy.co/sunpower/alexsolar).
+This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](https://tinyurl.com/y34p2jhu).
 
 ## Picking a Vendor
 

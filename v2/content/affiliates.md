@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2020-10-10T18:30:00-05:00 -->
-<!-- updated: 2020-10-10T18:30:00-05:00 -->
+<!-- updated: 2021-01-27T18:30:00-05:00 -->
 <!-- summary: Some words about affiliate links. -->
 
 # Affiliate Programs
@@ -27,5 +27,5 @@ As of October 2020, the aforementioned statement will appear atop any page with 
 
 ## SunPower
 
-I'm a participant in the [SunPower Referral](https://us.sunpower.com/refer-friends-and-family/) program, which allows me to earn referral fees when you buy/lease a solar PV system from [SunPower](http://mbsy.co/sunpower/alexsolar) when you sign up using one of the respective links on the site.
+I'm a participant in the [SunPower Referral](https://us.sunpower.com/refer-friends-and-family/) program. I earn a small reward fee when qualified homeowners have an in-home consultation with [SunPower](https://tinyurl.com/y34p2jhu) after signing up using one of the respective links on the site.
 

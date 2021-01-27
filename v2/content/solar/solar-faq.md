@@ -7,7 +7,7 @@
 
 # Going Solar: Frequently Asked Questions
 
-This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](http://mbsy.co/sunpower/alexsolar).
+This is part of an [ongoing essay](/v2/solar/) detailing my experiences with solar energy. To see if solar is right for you, visit [SunPower](https://tinyurl.com/y34p2jhu).
 
 Whether solar pays off for me or what its place in the energy market will be in the future, one thing is clear: many people have questions about solar. Throughout my solar journey, I've addressed a variety of questions.
 
