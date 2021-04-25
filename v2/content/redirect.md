@@ -9,7 +9,7 @@
 
 If you're reading this page, you've been redirected from one of my long-inactive, oft-neglected, and now-decomissioned blogs. Fear not, I'm still around!
 
-I write here at [v2](https://moundalexis.com/v2/) ([RSS](http://feeds.feedburner.com/v2-feed)).
+I write here at [v2](https://moundalexis.com/v2/) ([RSS](/v2/index.atom.xml)).
 
 You can also find me on [Twitter](https://twitter.com/technmsg), 
 [Flickr](http://flickr.com/photos/techmsg/), 
