@@ -10,3 +10,5 @@
 Gets shit done.
 
 Shows up on time.
+
+https://github.com/technmsg?tab=activity
