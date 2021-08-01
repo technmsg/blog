@@ -2,10 +2,12 @@
 <!-- categories: howto -->
 <!-- tags: cisco,pbx,callcentric -->
 <!-- published: 2021-07-11T09:30:00-05:00 -->
-<!-- updated: 2021-07-11T09:30:00-05:00 -->
+<!-- updated: 2021-08-01T11:30:00-05:00 -->
 <!-- summary: Configuring a Cisco 7940 IP Phone to use Callcentric without an intermediate PBX. -->
 
 # Callcentric on Cisco 7940
+
+ℹ️ As an Amazon Associate I earn from qualifying purchases. ([details](/v2/affiliates.html))
 
 Callcentric [supports many different devices](https://www.callcentric.com/support/) but the Cisco 7940 IP phone is not one of them.
 
@@ -79,6 +81,8 @@ A word about the order of configuration processes, according to Cisco:
 > Parameters in the default configuration file override those stored in the phone's flash memory. Parameters in the phone-specific configuration file override those stored in the default configuration file. When a phone is rebooted, the manually set values of parameters are overridden by the values found in the configuration files (if the same parameters exist in at least one of the configuration files).
 
 Hope this helps!
+
+🆕 **Update 08/01/21**: After making these changes I've noticed the lower softkeys (i.e. New Call, Forward, etc) disappear from the main screen after a day or two. The handset still functions properly otherwise, inbound and outbound calls still complete, and the softkeys always return after a reboot. The only changed values were `nat_enable`, `nat_address`, `nat_received_processing`, and the specification of a named SIP provider instead of an IP address; my theory is that some combination of additional DNS lookups or NAT processing are exposing some sort of bug. Given that the 7940 is EOL I've reverted to using an intermediate PBX without NAT. I've also been experimenting with a [Grandstream GX1625](https://amzn.to/3xkX9oW) as a replacement; the build quality isn't anywhere near the Cisco handset but acceptable given the cost, but it's a supported platform and has per-account NAT settings.
 
 ## References
 
