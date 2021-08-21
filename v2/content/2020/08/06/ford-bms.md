@@ -2,7 +2,7 @@
 <!-- categories: howto -->
 <!-- tags: ford,battery,bms,bcm,troubleshooting -->
 <!-- published: 2020-08-06T18:00:00-05:00 -->
-<!-- updated: 2020-10-06T18:30:00-05:00 -->
+<!-- updated: 2021-08-20T21:30:00-05:00 -->
 <!-- summary: Non-functional Auto Start-Stop system on a 2017 F-150 led me to discover the Battery Management System. -->
 
 # Ford Battery Management System
@@ -181,7 +181,9 @@ The same YouTube commenters confirm this process works for the 2011 Edge, 2013 F
 
 I haven't yet had the opportunity to test the efficacy of either method, but I'd consider trying them if the 8 hour sleep period after charging/tending weren't successful.
 
-🆕 **Update 10/06/20**: I've tested and confirmed that Method #2 works on my 2017 Ford F-150!
+**Update 10/06/20**: I've tested and confirmed that Method #2 works on my 2017 Ford F-150!
+
+🆕 **Update 08/20/21**: A reader has confirmed that Method #2 works on his 2018 Ford F-150. Thanks, Philip!
 
 ## References
 
