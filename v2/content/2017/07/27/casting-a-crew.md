@@ -3,7 +3,7 @@
 <!-- tags: crew,management -->
 <!-- published: 2017-07-27T09:00:00-05:00 -->
 <!-- updated: 2017-07-27T09:00:00-05:00 -->
-<!-- summary: Picking student tech positions for a production is one of the hardest parts of being an advisor. Our process may not be perfect, but we think it's fair, and it shouldn't be a mystery. This how we do it. -->
+<!-- summary: Picking student tech positions for a production is one of the hardest parts of being an advisor. Our process may not be perfect, but we think it's fair, and it shouldn't be a mystery. This is how we do it. -->
 
 # Casting a Crew
 
@@ -17,7 +17,7 @@ Our goal isn't to win games or to be competitive with other schools, but rather 
 
 ## Aptitude
 
-Aptitude is largely subjective, but sometimes there's some objective measures.
+Aptitude is largely subjective, but sometimes there are some objective measures.
 
 * If a student is tone deaf or can't otherwise distinguish pitches, mixing vocals isn't going to be the best for the show.
 * If a student has a fear of heights then working in the catwalks isn't going to work, and we wouldn't want to force someone to work at heights who wasn't comfortable.
@@ -87,13 +87,13 @@ If a student isn't being challenged they may be prone to goofing off out of shee
 
 All of these factors are considered.
 
-There's no magic formula, no Excel spreadsheet or scoring system. We start with the more concrete factors like availability and age, then rule some assignments out based on others (e.g. fear of heights). We carefully consider the impact of each student on the production. My co-advisor and myself end up putting the assignments together like a jigsaw puzzle, usually with pen and paper. It's not a quick exercise, we take it seriously, and every production is different.
+There's no magic formula, no Excel spreadsheet or scoring system. We start with the more concrete factors like availability and age, then rule some assignments out based on others (e.g. fear of heights). We carefully consider the impact of each student on the production. My co-advisor and I end up putting the assignments together like a jigsaw puzzle, usually with pen and paper. It's not a quick exercise, we take it seriously, and every production is different.
 
 Once we have a first cut we share it with our student leads in confidence. The student lighting director gets to look over those in the lighting assignments, backstage manager for backstage assignments, etc. Occasionally our student leads are aware of interpersonal issues that we as advisors aren't privy to (e.g. Joey cannot be in the same room as Rafael) and we may make adjustments.
 
 Once the list is agreed upon, we notify all the students at once. We do this in person during one of our work nights. We usually allow our student leads to make the announcements for their respective departments.
 
-As much as we want every student to get the assignment they desired, it's not always possible. There's only so many positions and we can't overstaff things without leaving other positions understaffed. We tell our students about the selection process up front and again before the assignments are announced. Every position is important even if it doesn't require complex equipment.
+As much as we want every student to get the assignment they desired, it's not always possible. There are only so many positions and we can't overstaff things without leaving other positions understaffed. We tell our students about the selection process up front and again before the assignments are announced. Every position is important even if it doesn't require complex equipment.
 
 Assignments are final.
 
