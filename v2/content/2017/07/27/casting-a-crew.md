@@ -3,7 +3,7 @@
 <!-- tags: crew,management -->
 <!-- published: 2017-07-27T09:00:00-05:00 -->
 <!-- updated: 2017-07-27T09:00:00-05:00 -->
-<!-- summary: Picking student tech positions for a production is one of the hardest parts of being an advisor. Our process may not be perfect, but we think it's fair, and it shouldn't be a mystery. This how we do it. -->
+<!-- summary: Picking student tech positions for a production is one of the hardest parts of being an advisor. Our process may not be perfect, but we think it's fair, and it shouldn't be a mystery. This is how we do it. -->
 
 # Casting a Crew
 
